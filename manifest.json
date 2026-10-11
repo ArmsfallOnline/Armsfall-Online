@@ -1,12 +1,18 @@
 {
  "formato": 1,
- "build": 20261011185442,
+ "build": 20261011185923,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
  "launcher_url": "",
  "cifra": 1,
  "arquivos": {
+  "ambiente_som.py": {
+   "sha": "f2b25857b40811ec9c19f65f8834a44a37508b6f72c369c4b8503101232f8769",
+   "tam": 2593,
+   "tamz": 2593,
+   "z": 0
+  },
   "aparencia.py": {
    "sha": "67153f8f21af5c86a3a44098574dc68191bb704a9844d5c52467f8ad78393bd7",
    "tam": 6855,
@@ -1337,6 +1343,12 @@
    "sha": "1ad8a3ab244d900f6d8d43dbb409d22bff3e0d198efc4782abce607541efa8a1",
    "tam": 10113,
    "tamz": 10113,
+   "z": 0
+  },
+  "som.py": {
+   "sha": "a3c4423c200c00791957d781a0674a6bc048a3a9ded21a50f74fa446db5696d2",
+   "tam": 3323,
+   "tamz": 3323,
    "z": 0
   },
   "sons/abate.wav": {
