@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261010233823,
+ "build": 20261011001907,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 1,
@@ -353,6 +353,12 @@
    "tam": 1750,
    "tamz": 1750,
    "z": 0
+  },
+  "coleta_pontos.json": {
+   "sha": "d9b828f23d66d81a730c436cc57d07ec6c78b6322e567af2c2201b8df726d8dc",
+   "tam": 23547,
+   "tamz": 3472,
+   "z": 1
   },
   "efeitos_skills.py": {
    "sha": "6f8df34dac4f227a3daea37d5aa103faba1dd1ac877a75286366699914f82067",
