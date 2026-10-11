@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011163142,
+ "build": 20261011180815,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -968,9 +968,9 @@
    "z": 0
   },
   "musicas/regiao_deserto.wav": {
-   "sha": "957a1b7e7d529d096f14b38da35dc33f497e635195902749598190e52d92f4c3",
-   "tam": 4773441,
-   "tamz": 4773441,
+   "sha": "ee8413b9b0fc4698919a354f6533138c6a5446973be0f1f980240e748e77a9c1",
+   "tam": 7033706,
+   "tamz": 7033706,
    "z": 0
   },
   "musicas/regiao_floresta.wav": {
@@ -998,9 +998,9 @@
    "z": 0
   },
   "musicas/regiao_ruinas.wav": {
-   "sha": "92b389f3cd6f4dfbe45a5ae95295c5c9397f73e0f4843d3a6be59bb4805616a1",
-   "tam": 7471334,
-   "tamz": 7471334,
+   "sha": "7f1a9645c6a7583416b84a8b6c2ba5cf82a3fdf57d570c8d253a662a35f7a803",
+   "tam": 7573344,
+   "tamz": 7573344,
    "z": 0
   },
   "musicas/regiao_vulcao.wav": {
