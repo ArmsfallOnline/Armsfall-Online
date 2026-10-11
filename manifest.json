@@ -1,0 +1,1714 @@
+{
+ "formato": 1,
+ "build": 20261010225834,
+ "build_minimo": 0,
+ "entrada": "cliente",
+ "launcher_minimo": 1,
+ "launcher_url": "",
+ "arquivos": {
+  "aparencia.py": {
+   "sha": "8b07db4ef58a82f281a5b39080383cd8946b51c4318e197929ab1574d086f39c",
+   "tam": 21526,
+   "tamz": 6818,
+   "z": 1
+  },
+  "armas_config.py": {
+   "sha": "f88253482055438f801446fa8d96b69d85d590e46c056ddc720738262fc30e84",
+   "tam": 2252,
+   "tamz": 930,
+   "z": 1
+  },
+  "arvore_visual.py": {
+   "sha": "875a9fa4df0189389b707d3c3cb392288ba175f8c92f1575fe54d498131d5651",
+   "tam": 28487,
+   "tamz": 9087,
+   "z": 1
+  },
+  "biomas_assets/agua_chao.png": {
+   "sha": "ba7150949a4a498718f07dd0e26f27740c112aa4ffb7b7495e0511c67f03d03f",
+   "tam": 14479,
+   "tamz": 14479,
+   "z": 0
+  },
+  "biomas_assets/cidade_borda_chao.png": {
+   "sha": "ff840ff5388e302f4d14ff5392690ce387fee8538b88f2b3ebeb6b11fb3a0dc9",
+   "tam": 16675,
+   "tamz": 16675,
+   "z": 0
+  },
+  "biomas_assets/deserto_arbusto.png": {
+   "sha": "a506d4d9c0d81564f21f31f827e17ff5fdc13604cca44dabeca45fdcf5bc7ebf",
+   "tam": 446,
+   "tamz": 446,
+   "z": 0
+  },
+  "biomas_assets/deserto_cacto.png": {
+   "sha": "c44573ec210fd1efe002ddcc652073163316e5e335fab9454f276e9ad48f2769",
+   "tam": 750,
+   "tamz": 750,
+   "z": 0
+  },
+  "biomas_assets/deserto_chao.png": {
+   "sha": "fcc5d0596a5d5c4cb62050d82821a438dd94d7adbc69c337a1946379c9bb8d14",
+   "tam": 17413,
+   "tamz": 17413,
+   "z": 0
+  },
+  "biomas_assets/deserto_obelisco.png": {
+   "sha": "32ae394f2000d57c383c07f834f746a270c19a6472588d5d82619e6d1316d19b",
+   "tam": 1493,
+   "tamz": 1493,
+   "z": 0
+  },
+  "biomas_assets/deserto_ossos.png": {
+   "sha": "f61dc25b3b497d2529765c9fd8a7642175261de3823389fe7a8466b74793a902",
+   "tam": 373,
+   "tamz": 373,
+   "z": 0
+  },
+  "biomas_assets/deserto_pedra.png": {
+   "sha": "ac1bbf464b696ef5b30c6046d1ffcfbe9de501dc1e5a89f58123dcc8c4a6db03",
+   "tam": 1152,
+   "tamz": 1152,
+   "z": 0
+  },
+  "biomas_assets/estrada_chao.png": {
+   "sha": "27de9de2eda2d0bb87d6a3cfb9a53434fdcaac74eacdae63985b575f6fcb6ad3",
+   "tam": 18145,
+   "tamz": 18145,
+   "z": 0
+  },
+  "biomas_assets/gramado_arbusto.png": {
+   "sha": "8d2e9ace797dbd12a7ef1f1638ec14dde5b096c5f176fb9e9fb44d5ccca465bb",
+   "tam": 770,
+   "tamz": 770,
+   "z": 0
+  },
+  "biomas_assets/gramado_chao.png": {
+   "sha": "d335884adce0b7a8df2951b24b3fbeaa009e073fec44d4dbfbc382e0c7937682",
+   "tam": 18385,
+   "tamz": 18385,
+   "z": 0
+  },
+  "biomas_assets/gramado_flores.png": {
+   "sha": "cc65c9f604997e57db41dc4820212a6ac11e3d29a887c2f7a72051c333c58a2c",
+   "tam": 380,
+   "tamz": 380,
+   "z": 0
+  },
+  "biomas_assets/gramado_pedra.png": {
+   "sha": "fe7e6c1422db64fe78487029f8368c54672634c5bc426d09d14b8ffffb2eb651",
+   "tam": 949,
+   "tamz": 949,
+   "z": 0
+  },
+  "biomas_assets/neve_arbusto.png": {
+   "sha": "eb2daea487cc2a974e2358cd3e1d76fae113c516f3b46e35cb184830ab49cfb8",
+   "tam": 397,
+   "tamz": 397,
+   "z": 0
+  },
+  "biomas_assets/neve_chao.png": {
+   "sha": "34128f4f543eefb31eaef5520b3da969a29aae64313ba38058b4291df1dbada3",
+   "tam": 17179,
+   "tamz": 17179,
+   "z": 0
+  },
+  "biomas_assets/neve_cristal.png": {
+   "sha": "fd3f076b58f9251320f1a9f7bf1d82c8f514ec83395e5bff677bb498641cf8e2",
+   "tam": 444,
+   "tamz": 444,
+   "z": 0
+  },
+  "biomas_assets/neve_pedra.png": {
+   "sha": "2e4d324579171eb84b2e555a2ec34c5ada2bbc92bb7bba14a02d956458a940d7",
+   "tam": 924,
+   "tamz": 924,
+   "z": 0
+  },
+  "biomas_assets/neve_pinheiro.png": {
+   "sha": "d4c58a1bd29d4944655afc967db5108767a50398f15010803e2409f2458ae708",
+   "tam": 3088,
+   "tamz": 3088,
+   "z": 0
+  },
+  "biomas_assets/pantano_arvore.png": {
+   "sha": "6a88304c345dd7a931e53e9312fe7f88a15408fef725a1275fbc5677bf349a91",
+   "tam": 1410,
+   "tamz": 1410,
+   "z": 0
+  },
+  "biomas_assets/pantano_chao.png": {
+   "sha": "5ac523a0fd76b403c3b577e109b24519b881fd46819d37e510accc4ccb555363",
+   "tam": 17445,
+   "tamz": 17445,
+   "z": 0
+  },
+  "biomas_assets/pantano_junco.png": {
+   "sha": "ebdabf337e641d7086c8a18d68247fd865144029df39b95a1b02dcd810aaeed6",
+   "tam": 727,
+   "tamz": 727,
+   "z": 0
+  },
+  "biomas_assets/pantano_pedra.png": {
+   "sha": "c9b6fd95e15f3171bae66ad7f89bd91a88e13bf0665b9d089f7d4614f7063e2c",
+   "tam": 1174,
+   "tamz": 1174,
+   "z": 0
+  },
+  "biomas_assets/pantano_tronco.png": {
+   "sha": "7777ad16382fd9e11ce3fd76a0288a96e00d8e3b45bd00ba96bc5641d43687ab",
+   "tam": 1690,
+   "tamz": 1690,
+   "z": 0
+  },
+  "biomas_assets/praia_chao.png": {
+   "sha": "30a30688d559470b240aa845fa0bc16906ebb9dffbf8a53f61c8242a3ce69fa5",
+   "tam": 16943,
+   "tamz": 16943,
+   "z": 0
+  },
+  "biomas_assets/praia_concha.png": {
+   "sha": "17d51025746d11026505e3ca80c363645cb158e755c92cfefd6e49a2fc1ca08f",
+   "tam": 369,
+   "tamz": 369,
+   "z": 0
+  },
+  "biomas_assets/praia_estrela.png": {
+   "sha": "a730d64bc92f540aa98b324d630be2a6d1649e80c183177165d6c81d452fc4d8",
+   "tam": 406,
+   "tamz": 406,
+   "z": 0
+  },
+  "biomas_assets/praia_madeira.png": {
+   "sha": "a34337259ea19734d32a6dd2cee9d06ef002b2e001f0ac96acaade3e1288a435",
+   "tam": 459,
+   "tamz": 459,
+   "z": 0
+  },
+  "biomas_assets/praia_palmeira.png": {
+   "sha": "cc11b69c28954041a074cc948e9e478b2047f8051b74b9b28d1b16fe81fd88ee",
+   "tam": 1179,
+   "tamz": 1179,
+   "z": 0
+  },
+  "biomas_assets/praia_pedra.png": {
+   "sha": "5bdaf7b52bf7229dca28711bffad4068a5d7a42260b881a33fc9ebe1ee02cae9",
+   "tam": 938,
+   "tamz": 938,
+   "z": 0
+  },
+  "biomas_assets/vulcao_arvore.png": {
+   "sha": "9aa53dbb2269abaabbd8c09b017edeb341179c9a8871b12b8f157d9eb0354a6c",
+   "tam": 1008,
+   "tamz": 1008,
+   "z": 0
+  },
+  "biomas_assets/vulcao_chao.png": {
+   "sha": "a3dc84ff18b3d0f56c7c38ab3b13426589a73b19e670d317ca9c6a7704b3417a",
+   "tam": 17873,
+   "tamz": 17873,
+   "z": 0
+  },
+  "biomas_assets/vulcao_espinho.png": {
+   "sha": "1fb889e8c906ee8c016e2420727426c401acb2033106767e8992a945457849bf",
+   "tam": 542,
+   "tamz": 542,
+   "z": 0
+  },
+  "biomas_assets/vulcao_fenda.png": {
+   "sha": "fb51511e9bd6c79331e65d532cf43ab935122c2965c438104f90297d6ad9a7cd",
+   "tam": 414,
+   "tamz": 414,
+   "z": 0
+  },
+  "biomas_assets/vulcao_rocha.png": {
+   "sha": "95b0c77e699126defdc6d018b783cabe98f5567aac89a351955b41b095c7fe1b",
+   "tam": 1368,
+   "tamz": 1368,
+   "z": 0
+  },
+  "cao_infernal.png": {
+   "sha": "7ff257545b7ffd02d319ffcb91745a6afd80215ded4f7d3c32d790ba581700f6",
+   "tam": 891841,
+   "tamz": 891841,
+   "z": 0
+  },
+  "ciclo.py": {
+   "sha": "d9557b4ab2658c984ded62a34a98cb8953a431b855cd2dd97800d071c0223e56",
+   "tam": 3383,
+   "tamz": 1394,
+   "z": 1
+  },
+  "cidade_assets/cidade_base.png": {
+   "sha": "51dba854c8fa0846bbc6c6dc8af5f66ce06dd717e5d30ba68263bbc7f98f293e",
+   "tam": 375413,
+   "tamz": 375413,
+   "z": 0
+  },
+  "cidade_assets/cidade_topo.png": {
+   "sha": "594b18066db4a268960bdbf7447b30498533d1658046ee637eb9885af3e688b8",
+   "tam": 7651,
+   "tamz": 7651,
+   "z": 0
+  },
+  "cidade_layout.py": {
+   "sha": "26988e198421dc3002dc354b38e99c6f9c076530fb2321c6b142d116804c3cff",
+   "tam": 2840,
+   "tamz": 975,
+   "z": 1
+  },
+  "cliente.py": {
+   "sha": "4ef15c98bbcbe7098ec21083c4ee7ac2822d7c8941d3906a34574a1dbf830d11",
+   "tam": 372453,
+   "tamz": 87171,
+   "z": 1
+  },
+  "clima.py": {
+   "sha": "c9acf41e2ec2ecb69050209252461f0b376995af5cc1c1ca7c6203cea0d67e0f",
+   "tam": 3601,
+   "tamz": 1482,
+   "z": 1
+  },
+  "cobra.png": {
+   "sha": "667855b3840d0179a1c447a1d3418e41bdae56751da0ef805addeb93e5c6cfdf",
+   "tam": 536692,
+   "tamz": 536692,
+   "z": 0
+  },
+  "coleta.py": {
+   "sha": "d77df4a44221ba8119775c3baaa41c2bad5bea5aec1f280438e7a10cf33c8c03",
+   "tam": 3923,
+   "tamz": 1725,
+   "z": 1
+  },
+  "coleta_assets/bau_comum.png": {
+   "sha": "cbb7fd236ad5a7e1f8eea3dc959c4c6ec71592ee7107ef1645c126735e37eb6a",
+   "tam": 2924,
+   "tamz": 2924,
+   "z": 0
+  },
+  "coleta_assets/bau_comum_aberto.png": {
+   "sha": "73dbc1ddfe251b7533b8f5f20ae1cfadbb1ca49e8c000ea1f2862691122277c8",
+   "tam": 3230,
+   "tamz": 3230,
+   "z": 0
+  },
+  "coleta_assets/bau_epico.png": {
+   "sha": "88a0ca40053b9819b515da4371569f7dfe872078bcd4c9bdf9997d6c8db9139d",
+   "tam": 3032,
+   "tamz": 3032,
+   "z": 0
+  },
+  "coleta_assets/bau_epico_aberto.png": {
+   "sha": "5d5d958ad2f06731d0f3356e727fd4dfa642b50e20e9ccfddaaf3e33440ebc42",
+   "tam": 3402,
+   "tamz": 3402,
+   "z": 0
+  },
+  "coleta_assets/bau_raro.png": {
+   "sha": "81295a76035eb7973a0a6f38ad9d8a0f163c996b07daf60db341c18afcd02bb4",
+   "tam": 3047,
+   "tamz": 3047,
+   "z": 0
+  },
+  "coleta_assets/bau_raro_aberto.png": {
+   "sha": "b6b175f4e049829fb3ca3ed99f2c986132fc01b3d2758ab2d7a80dd5a145082e",
+   "tam": 3406,
+   "tamz": 3406,
+   "z": 0
+  },
+  "coleta_assets/cristal.png": {
+   "sha": "3f38462d4447b09cd5180c4ae666a8ad68f9082a89ffd4caef2d0d47085827b0",
+   "tam": 3864,
+   "tamz": 3864,
+   "z": 0
+  },
+  "coleta_assets/cristal_vazio.png": {
+   "sha": "0c34ee3dcdf2bd2ca1a4635783c31cb11ca914f1254f310f2a93c244f0bd5a80",
+   "tam": 786,
+   "tamz": 786,
+   "z": 0
+  },
+  "coleta_assets/erva.png": {
+   "sha": "b687c2330515b95f9731e555977c6cbeaf9161c0545ca336500a3781e5260e53",
+   "tam": 3498,
+   "tamz": 3498,
+   "z": 0
+  },
+  "coleta_assets/erva_vazio.png": {
+   "sha": "aa31c34443c3798999112516bd4aaa75ac18e4771358766f374d36fead2d44d5",
+   "tam": 940,
+   "tamz": 940,
+   "z": 0
+  },
+  "coleta_assets/minerio.png": {
+   "sha": "e2e2472ad8016bef95db0d8d1368a62b375717450dd6151f37ec86652f7d36d5",
+   "tam": 2934,
+   "tamz": 2934,
+   "z": 0
+  },
+  "coleta_assets/minerio_vazio.png": {
+   "sha": "27d14b3483e45c5527a795f1f328f94cdd43cb8d7040e80f6e7f02f9489cbb57",
+   "tam": 1750,
+   "tamz": 1750,
+   "z": 0
+  },
+  "efeitos_skills.py": {
+   "sha": "6f8df34dac4f227a3daea37d5aa103faba1dd1ac877a75286366699914f82067",
+   "tam": 83351,
+   "tamz": 18720,
+   "z": 1
+  },
+  "equipamentos.py": {
+   "sha": "329fee7cf4ee81a30585673477c29b23b25862e71aff464e0701517bff7b2ca6",
+   "tam": 5815,
+   "tamz": 2029,
+   "z": 1
+  },
+  "equipamentos/item_armadura_das_cinzas.png": {
+   "sha": "4f9678efff382dbdbe8afaf3dd53defeb38b66fe413497b72d0aa25f0c9baa77",
+   "tam": 550,
+   "tamz": 550,
+   "z": 0
+  },
+  "equipamentos/item_armadura_de_gelo_eterno.png": {
+   "sha": "46eea08cad10cc6b32dce8ec7b8ba49869d9b22722e99e477ec5abf4a7f67927",
+   "tam": 605,
+   "tamz": 605,
+   "z": 0
+  },
+  "equipamentos/item_botas.png": {
+   "sha": "68749b9cdd8926691574ccac2410174eb39f86e6d252f5bdf02c898e926f48df",
+   "tam": 6172,
+   "tamz": 6172,
+   "z": 0
+  },
+  "equipamentos/item_botas_das_cinzas.png": {
+   "sha": "b8a640a2acfca4fd63631eb2f417dfe3f131402820f378fbca828696f2140591",
+   "tam": 445,
+   "tamz": 445,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_couro_de_cobra.png": {
+   "sha": "282aadf270d12df87e8fb638ab68737e4289bef568db7257a114f20bf395573e",
+   "tam": 388,
+   "tamz": 388,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_escamas_de_jacare.png": {
+   "sha": "8397f174098f296fa35937a8e26184c4be9f6fa766b5c04e4cdf0188202f1a46",
+   "tam": 386,
+   "tamz": 386,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_gelo_eterno.png": {
+   "sha": "efe22d9a1a0a28ff8a2b4c96e8614556a19e9040ca9f456dbd3ef1e85cbaae9a",
+   "tam": 406,
+   "tamz": 406,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_magma.png": {
+   "sha": "519773dc4d55f7c6228352ad2bbc41314b2559a67b73b4e88671e162a32907c2",
+   "tam": 434,
+   "tamz": 434,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_obsidiana.png": {
+   "sha": "86784a99e0bd57116bb7a180429476917858482a28ee9a76d4db5b0e475e9271",
+   "tam": 411,
+   "tamz": 411,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_osso_velho.png": {
+   "sha": "9c83946a804a9851d3fc2f4208b1a008016ec043ac9fe7674ae844af955b2f78",
+   "tam": 386,
+   "tamz": 386,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_pelo_gelido.png": {
+   "sha": "30a394ce5af9a96d9c62c5a418d3baef934b1c4f99a00c9819968d9c90185835",
+   "tam": 415,
+   "tamz": 415,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_cavaleiro_caido.png": {
+   "sha": "b4a751aa2bbe2093d4d3895f2bf57625defb9b8217e43759f2d1e9b4931e16b2",
+   "tam": 409,
+   "tamz": 409,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_farao.png": {
+   "sha": "257560c453aedf614341066026e24777d39a31d77cd8c7597b14bc8981e39adf",
+   "tam": 412,
+   "tamz": 412,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_guardiao.png": {
+   "sha": "65b92c16a96dc73890765166cebcefff49a2f62c34b608ce8b28df72e3acbea5",
+   "tam": 384,
+   "tamz": 384,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_lich.png": {
+   "sha": "7ecee0949085692df0c8ed3d29da5d9a8873d35c09977520fe378744c29f0f4f",
+   "tam": 412,
+   "tamz": 412,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_nomade.png": {
+   "sha": "d333c82502c16c656fa370da0f28ad3c8b821f08f7b41afc62f0229201d5069f",
+   "tam": 423,
+   "tamz": 423,
+   "z": 0
+  },
+  "equipamentos/item_calca.png": {
+   "sha": "b570291522120886a9b59a5f8b57a568f2a6e0af1b3c5e95ac22c7a59b7197c6",
+   "tam": 6184,
+   "tamz": 6184,
+   "z": 0
+  },
+  "equipamentos/item_calca_de_couro_de_cobra.png": {
+   "sha": "cb56e3c694be2e5e68621e5e536cfca535033c5b171c6f49d187c1ae21fb3c8a",
+   "tam": 452,
+   "tamz": 452,
+   "z": 0
+  },
+  "equipamentos/item_calca_de_escamas_de_jacare.png": {
+   "sha": "7c85cbaeb66f0730cebf87c7925b08f0b44fd3e1e901be7aae95c1f2672f2ac9",
+   "tam": 453,
+   "tamz": 453,
+   "z": 0
+  },
+  "equipamentos/item_calca_de_pelo_gelido.png": {
+   "sha": "0131d93ad801f89a0d3a8b5d2ee3db8d3b98d04a4a29445e9dc43af88281ae53",
+   "tam": 415,
+   "tamz": 415,
+   "z": 0
+  },
+  "equipamentos/item_calca_do_farao.png": {
+   "sha": "5622bdf120ae32ff98a410577f6236f7f8c92429d3ca00eac4bc85d4cf190ff2",
+   "tam": 417,
+   "tamz": 417,
+   "z": 0
+  },
+  "equipamentos/item_calca_do_lich.png": {
+   "sha": "99b145bd48b050cd7999ab928d9fa22878b4177f52d7dc2b6e9b296ad723858a",
+   "tam": 419,
+   "tamz": 419,
+   "z": 0
+  },
+  "equipamentos/item_calca_do_nomade.png": {
+   "sha": "1f12c2d4ad8ff9ed0b49ef6214073b13081ae9e42e3384780fba7435e21369cb",
+   "tam": 421,
+   "tamz": 421,
+   "z": 0
+  },
+  "equipamentos/item_capacete.png": {
+   "sha": "3f6f7c6ac973cc93e49c37bbe6c8eddd598cb8da07499c9e6e116acd6fb3f274",
+   "tam": 6170,
+   "tamz": 6170,
+   "z": 0
+  },
+  "equipamentos/item_capuz_de_couro_de_cobra.png": {
+   "sha": "067b0068cf19a91ad30a4ac4b82ed0bb9227bb3953d60a6fb24a500c30a1ab28",
+   "tam": 442,
+   "tamz": 442,
+   "z": 0
+  },
+  "equipamentos/item_capuz_de_pelo_gelido.png": {
+   "sha": "73e599c1d48ba07fa9341046e7cda18d5114d5df54f9415d33f1b4dd350d6764",
+   "tam": 484,
+   "tamz": 484,
+   "z": 0
+  },
+  "equipamentos/item_capuz_do_lich.png": {
+   "sha": "15537bc6565e8abf449dc6bce155161b19a6f35ab030aeacf137399a53b9e100",
+   "tam": 494,
+   "tamz": 494,
+   "z": 0
+  },
+  "equipamentos/item_casaco_de_pelo_gelido.png": {
+   "sha": "464534adfcdf01643b4367df51f1a64eb826cde0da3dc842a7dabf5f4e6662c0",
+   "tam": 601,
+   "tamz": 601,
+   "z": 0
+  },
+  "equipamentos/item_colete.png": {
+   "sha": "6724a946bb6e686562704f48377f97ce584ebfbe9e04bfa80cba95110d0ee33f",
+   "tam": 6182,
+   "tamz": 6182,
+   "z": 0
+  },
+  "equipamentos/item_colete_de_couro_de_cobra.png": {
+   "sha": "c7f5967cbfb8ddea86e000957f81c3ddeb9fea35323521da9dd678f6180d500e",
+   "tam": 589,
+   "tamz": 589,
+   "z": 0
+  },
+  "equipamentos/item_coroa_das_cinzas.png": {
+   "sha": "de7f687cb60dfd96d7a82d9395893b74f46f8eeb36afcf4b8994512c4e4ec7df",
+   "tam": 485,
+   "tamz": 485,
+   "z": 0
+  },
+  "equipamentos/item_coroa_de_gelo_eterno.png": {
+   "sha": "3bcdc7fc59712b8351a4669a5128d43b34a97454eb5bc45b0169af6f502d5b15",
+   "tam": 503,
+   "tamz": 503,
+   "z": 0
+  },
+  "equipamentos/item_costelas_do_guardiao.png": {
+   "sha": "8d5e4cbb1473ec78f17999baa8576f8c28797e03369a9441d36399ef933ce5c4",
+   "tam": 564,
+   "tamz": 564,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_escamas_de_jacare.png": {
+   "sha": "d5ff045a6e0adab534e485f7a448d8c330dcaf72bed10163caa71ab0a4a2a6b9",
+   "tam": 587,
+   "tamz": 587,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_magma.png": {
+   "sha": "81f8ca07b2d8298170565273b45648e50e85130be71c75d97008ed3dc5cfb6f8",
+   "tam": 545,
+   "tamz": 545,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_obsidiana.png": {
+   "sha": "7ff382523d57e8c1fe8c3c85876e0316f5bec0b4c40fc69f648685f791ff6803",
+   "tam": 598,
+   "tamz": 598,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_osso_velho.png": {
+   "sha": "5872eb816dbb7579a7f38f1499ad46e0086d4e17aea8a8c74b1807975c9f2cef",
+   "tam": 576,
+   "tamz": 576,
+   "z": 0
+  },
+  "equipamentos/item_cristal.png": {
+   "sha": "0aa9b982d4a398c0b8aea67dc5d865aebe34ac896a4a50385c0c83de64ebbda0",
+   "tam": 6185,
+   "tamz": 6185,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_escamas_de_jacare.png": {
+   "sha": "026e6db273926954c4a7081394cade1d7bdb87017253f0598c250c4eb62ea241",
+   "tam": 444,
+   "tamz": 444,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_magma.png": {
+   "sha": "1ab6d7b4e2522ae4a139f3faaf4ae2c0fe9160f13f475103645781ddf124c7fe",
+   "tam": 480,
+   "tamz": 480,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_obsidiana.png": {
+   "sha": "1a4d87cacea9f90483ee7a4b40a4167b5b256e3bb294ec094c24e9886713b00f",
+   "tam": 498,
+   "tamz": 498,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_osso_velho.png": {
+   "sha": "b61759ebac0d570e8c710773fdd0031dda9704f58504e381e19c0b3f66cf795a",
+   "tam": 466,
+   "tamz": 466,
+   "z": 0
+  },
+  "equipamentos/item_elmo_do_cavaleiro_caido.png": {
+   "sha": "73c03dc5009703529b69a4f498a8b672b72bbd5751b9a5ad4cbadd335d81338c",
+   "tam": 496,
+   "tamz": 496,
+   "z": 0
+  },
+  "equipamentos/item_elmo_do_guardiao.png": {
+   "sha": "64969a8fb4c780eba26f2f5850658e69e26979c6e1ff1135fb7e985196fb266e",
+   "tam": 467,
+   "tamz": 467,
+   "z": 0
+  },
+  "equipamentos/item_grevas_das_cinzas.png": {
+   "sha": "7b5cdf93bc0abecefc5e24dc94d0665db422a8c889a32b154186349210425005",
+   "tam": 406,
+   "tamz": 406,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_gelo_eterno.png": {
+   "sha": "1c7710e2643c21d0a448d8e5840ce777e70279c645a16ac7b8966adb3be1bc74",
+   "tam": 445,
+   "tamz": 445,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_magma.png": {
+   "sha": "38d5a5311e1d62074dcf977a312c2bd0524204738d7fcfe4e6053681bc2adf65",
+   "tam": 407,
+   "tamz": 407,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_obsidiana.png": {
+   "sha": "26167580fa816239d0a32e8fc2f64c3bf7a925ae40ae71d4068e5c7cf934a9b0",
+   "tam": 448,
+   "tamz": 448,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_osso_velho.png": {
+   "sha": "6333231aa58a5a71ff6ac81729e1ccf94ab96d162aaf3e57e4eff96905594113",
+   "tam": 410,
+   "tamz": 410,
+   "z": 0
+  },
+  "equipamentos/item_grevas_do_cavaleiro_caido.png": {
+   "sha": "219029a9b9d4cfb40f57e235ab702f2d207913666e8ac25feca6c577117f2a7e",
+   "tam": 419,
+   "tamz": 419,
+   "z": 0
+  },
+  "equipamentos/item_grevas_do_guardiao.png": {
+   "sha": "9fa8e544dd593b60095ec4df664687e0ceb70fa7772957dc6abc19c1957c4ee4",
+   "tam": 417,
+   "tamz": 417,
+   "z": 0
+  },
+  "equipamentos/item_manto_do_lich.png": {
+   "sha": "aff7f63f94767a295f5ee8ead1c8b2ef23ebec1448acc3181ad2b842dd273f91",
+   "tam": 585,
+   "tamz": 585,
+   "z": 0
+  },
+  "equipamentos/item_mascara_do_farao.png": {
+   "sha": "01eb591d31e74a8d8b687d168b557b1203c30ff2f5f85de60687c60d1da9fe8a",
+   "tam": 489,
+   "tamz": 489,
+   "z": 0
+  },
+  "equipamentos/item_minerio.png": {
+   "sha": "029448c2ccae3bc6d33f02bf37182976003dde28e1a84db902e6948fa6997a3a",
+   "tam": 6250,
+   "tamz": 6250,
+   "z": 0
+  },
+  "equipamentos/item_peitoral_do_cavaleiro_caido.png": {
+   "sha": "1cb96779e48f072eb10298fcc8e7f2defd02f594ff478ae58f07017e59d839e6",
+   "tam": 573,
+   "tamz": 573,
+   "z": 0
+  },
+  "equipamentos/item_peitoral_do_farao.png": {
+   "sha": "49edced9c510389381795a270902f8a931489c5c33b524d20358a87430050fe1",
+   "tam": 593,
+   "tamz": 593,
+   "z": 0
+  },
+  "equipamentos/item_tunica_do_nomade.png": {
+   "sha": "2c481ec3440220e9a6c604137b938b95c8075f39ac1f28c227d186be6de780ea",
+   "tam": 611,
+   "tamz": 611,
+   "z": 0
+  },
+  "equipamentos/item_turbante_do_nomade.png": {
+   "sha": "aa81ec0fb2f2a65d3fc39f1048e38bc9ae4ba9a725cc526c70f06ac834ce8e8a",
+   "tam": 479,
+   "tamz": 479,
+   "z": 0
+  },
+  "escorpiao.png": {
+   "sha": "4bba5929898036e10ad0f31703fd711fc4bc07d44b444e2b69e1c6ba2398ec59",
+   "tam": 355457,
+   "tamz": 355457,
+   "z": 0
+  },
+  "esqueleto.png": {
+   "sha": "6873242df8bb89ea74a195ac49b5d2c6644fdfb3b7e26c5921e6d66e39a56781",
+   "tam": 21537,
+   "tamz": 21537,
+   "z": 0
+  },
+  "esqueleto_guerreiro.png": {
+   "sha": "1bfb9ef248f6c76b8b69ac8c92c809bfb7a13446c7b1e8c4b0190b8e00907751",
+   "tam": 27672,
+   "tamz": 27672,
+   "z": 0
+  },
+  "esqueleto_sombrio.png": {
+   "sha": "c2222bdaef96377f0b8b63ec2432b28ceeb10a2cc937c00ac2b30b8dd826fcde",
+   "tam": 27823,
+   "tamz": 27823,
+   "z": 0
+  },
+  "fantasma.png": {
+   "sha": "1269caa46bc7920db4d9f094ae0d410c2c6b5ba035c23dbc7a1c6e54cf2ad57b",
+   "tam": 37494,
+   "tamz": 37494,
+   "z": 0
+  },
+  "floresta_assets/arvore_copa_0.png": {
+   "sha": "3fc420bad9738a5ba17d2434183aca9a0ac340b7be8e5af40eee53f9d3ea14e6",
+   "tam": 2028,
+   "tamz": 2028,
+   "z": 0
+  },
+  "floresta_assets/arvore_copa_1.png": {
+   "sha": "f6bd004e5c89c5ebfb29ef6de391f9c5a2e52f292d4c0a36ab9c687026f6de35",
+   "tam": 2111,
+   "tamz": 2111,
+   "z": 0
+  },
+  "floresta_assets/arvore_copa_2.png": {
+   "sha": "904a0bee2a0ab394227e9476e50f4c758f5a78dfc54bf6e1d3f1a322d52eeddf",
+   "tam": 2206,
+   "tamz": 2206,
+   "z": 0
+  },
+  "floresta_assets/arvore_tronco_0.png": {
+   "sha": "e170f4ed8faedffe86dca649da438101b28c51fac96947381b795122a4c2204b",
+   "tam": 766,
+   "tamz": 766,
+   "z": 0
+  },
+  "floresta_assets/arvore_tronco_1.png": {
+   "sha": "3bd71c2c9c739dc76c568104c7f81790cbb5c08ce9092f811f429610919c1d97",
+   "tam": 750,
+   "tamz": 750,
+   "z": 0
+  },
+  "floresta_assets/arvore_tronco_2.png": {
+   "sha": "a7769a912d8a31617182060de97aa7cc449f92289605d825cf6572e0d67088db",
+   "tam": 758,
+   "tamz": 758,
+   "z": 0
+  },
+  "floresta_assets/floresta_borda.png": {
+   "sha": "e0993859ccd8e6b9c7cc24eaa1d203eff46ac800679274e8735f3019515a990b",
+   "tam": 582,
+   "tamz": 582,
+   "z": 0
+  },
+  "floresta_assets/floresta_chao.png": {
+   "sha": "0de516326e073c2a1cebc70a56daaf222585797985209aa7ae7660068f00c7b3",
+   "tam": 3117,
+   "tamz": 3117,
+   "z": 0
+  },
+  "floresta_assets/floresta_fim.png": {
+   "sha": "063bd5ae661dbaaf6ce5bf1c35cde2ade1d4da8e41217659a05d4f6cf89e82b3",
+   "tam": 218,
+   "tamz": 218,
+   "z": 0
+  },
+  "floresta_assets/floresta_trilha.png": {
+   "sha": "74b80cf54d1151ef6efe741dc7c1fe929ab486ee4cb09f4c3b01cbc2d0da5013",
+   "tam": 2104,
+   "tamz": 2104,
+   "z": 0
+  },
+  "fuzil.png": {
+   "sha": "8ba6f8008eb709cbc1623c9d10663d6de990097af6fc19e255a93fa71a8f2855",
+   "tam": 110185,
+   "tamz": 110185,
+   "z": 0
+  },
+  "golem_areia.png": {
+   "sha": "b8b0e91e183b99ad7cf20ae1e7d9b4fa6ecd285e204bd0960279fe29828c00da",
+   "tam": 433708,
+   "tamz": 433708,
+   "z": 0
+  },
+  "golem_gelo.png": {
+   "sha": "a9ab82838c8da1536a646c8717aafa35d54f4176c375223b1f8e9015a5c58b91",
+   "tam": 432257,
+   "tamz": 432257,
+   "z": 0
+  },
+  "golem_lava.png": {
+   "sha": "78e282d6bb52d30931c483fd519854e1bdf7a8636da1d6a886fccf69156bf52a",
+   "tam": 375197,
+   "tamz": 375197,
+   "z": 0
+  },
+  "habilidades.py": {
+   "sha": "acc336de1d16e407b3556a4fc9ff2586d8d6cb7402cc301fc1cbc967f7d2f4a7",
+   "tam": 50404,
+   "tamz": 13426,
+   "z": 1
+  },
+  "interiores.py": {
+   "sha": "2d3c4c94a10d4c812308f6b9aa80d27277279e6589ed3745a29ad2495ee0234e",
+   "tam": 27946,
+   "tamz": 7907,
+   "z": 1
+  },
+  "interiores_assets/interior_armas.png": {
+   "sha": "590ea85a4e461062ac6a1654ded71d8069cdc9de56fffe5310bde806f96bfe7c",
+   "tam": 28093,
+   "tamz": 28093,
+   "z": 0
+  },
+  "interiores_assets/interior_bar.png": {
+   "sha": "a199b726056763deaa22985c78e863892acd39df55e3f18c71b1bf1e333bc505",
+   "tam": 187910,
+   "tamz": 187910,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira.png": {
+   "sha": "5bc9b7401286fef1d793c2b3fbc08a3106724c307d92f4937ea8387ad230bc7f",
+   "tam": 423204,
+   "tamz": 423204,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta.png": {
+   "sha": "a69c2a5ac4ef0c75e02e8222f9d871bf7185a9bf42d98ef118ae0de850dfdaf0",
+   "tam": 235909,
+   "tamz": 235909,
+   "z": 0
+  },
+  "interiores_assets/interior_dungeon.png": {
+   "sha": "049f11a70dea25d26fa3b4a6730599595d0220f3cbae2d2cbe022e6e89b28be0",
+   "tam": 384443,
+   "tamz": 384443,
+   "z": 0
+  },
+  "interiores_assets/interior_mercado.png": {
+   "sha": "49cdc3027a79319473f1e5cb1ba0f5b389e895057a3952279bd646048e9e79ad",
+   "tam": 36113,
+   "tamz": 36113,
+   "z": 0
+  },
+  "interiores_assets/interior_oficina.png": {
+   "sha": "28cf98aa8659fadc91a06a3216b5000491c5474b94843c5b4f90e5e9157fe821",
+   "tam": 13456,
+   "tamz": 13456,
+   "z": 0
+  },
+  "itens.py": {
+   "sha": "3ad2459d523973a35c4e7b2b9d0128e8dd7c54bcd05b0cc3111706da3fb0b238",
+   "tam": 692,
+   "tamz": 331,
+   "z": 1
+  },
+  "jacare.png": {
+   "sha": "ed5460b7809f15739050186133b5d235d380ca42593936e41c71479f6faa86d2",
+   "tam": 218783,
+   "tamz": 218783,
+   "z": 0
+  },
+  "javali.png": {
+   "sha": "3de260336a009f9d862dd258629f065e5bc5ade76559d267ba1d04b4ad4ab38a",
+   "tam": 1370546,
+   "tamz": 1370546,
+   "z": 0
+  },
+  "javali_original.png": {
+   "sha": "3f7e080c67c0b3cf139510d68456b484150f1307b0b96c95aef81144d191576e",
+   "tam": 2107705,
+   "tamz": 2107705,
+   "z": 0
+  },
+  "lich_esquecido.png": {
+   "sha": "c10f19bffb83a13c0f4f5f56da67a37e9d3b78f0fbd640b67d6e4db5b5f7a347",
+   "tam": 314874,
+   "tamz": 314874,
+   "z": 0
+  },
+  "lobo.png": {
+   "sha": "d49d5630047a3e430c9c0b6a000be08a954428c7f47409a5c8be62843c3f0e28",
+   "tam": 1052882,
+   "tamz": 1052882,
+   "z": 0
+  },
+  "lobo_neve.png": {
+   "sha": "7b0e1128297e2fe66f279c8772e6acf0b2cee852b1abcde574af5f615513b416",
+   "tam": 970029,
+   "tamz": 970029,
+   "z": 0
+  },
+  "loot.py": {
+   "sha": "3c44ac973a58bb8be99d6a8834f5e850e1b4f489a89b832b8d9b719dec0da3a8",
+   "tam": 11248,
+   "tamz": 3563,
+   "z": 1
+  },
+  "mumia.png": {
+   "sha": "da644139a3993f8c5ac7b9d0a32ccc99ea4a5cde0fc29b13193111b2b53e1840",
+   "tam": 227008,
+   "tamz": 227008,
+   "z": 0
+  },
+  "mundo.py": {
+   "sha": "0c92e4aa597f2bc47d16040837e2ca937a8d35476635066fa2b81aa03c1fd262",
+   "tam": 15564,
+   "tamz": 5195,
+   "z": 1
+  },
+  "musicas/menu.wav": {
+   "sha": "c349773e5f5e304830d74622babcd2c7d2c4af9c7e5bb38c2e0035fc6f534fd2",
+   "tam": 4551152,
+   "tamz": 4206710,
+   "z": 1
+  },
+  "musicas/mundo.wav": {
+   "sha": "339ecb21bfe97d225a5aefdeadbc17de43c1c2a2ed8250bce318b8764633c82c",
+   "tam": 6467412,
+   "tamz": 5959914,
+   "z": 1
+  },
+  "oficina.py": {
+   "sha": "ab65f716051868bb1f813ff63ffb73f0d18d82ea7c04f4f87fd639b3b93c7c2e",
+   "tam": 7787,
+   "tamz": 2555,
+   "z": 1
+  },
+  "pistola.png": {
+   "sha": "4f1262e804edba3c02beed6fda9292da65186fb66cf0fa85e5fc357874fe7a6f",
+   "tam": 21740,
+   "tamz": 21740,
+   "z": 0
+  },
+  "player.png": {
+   "sha": "273b2a2f0f0697c50c3e36ccc7f5b1af453936d5d03a4201fb82cca0a9dab2ed",
+   "tam": 455683,
+   "tamz": 455683,
+   "z": 0
+  },
+  "player_f.png": {
+   "sha": "89ac4f6c912bb605338ddd003f1be2d0552892c1c68cdc8af9d1f2a34a1ba519",
+   "tam": 445573,
+   "tamz": 445573,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_arco.png": {
+   "sha": "c1b375fedb51a351297fbd2d77a0c5b4a1a7646d778ae6fea74027fb8917a459",
+   "tam": 3842,
+   "tamz": 3842,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_chao.png": {
+   "sha": "45e809fe8c441cb5cc83a4b9ef8c86993dc09f5c0d0564f6059b19e193b640a5",
+   "tam": 22816,
+   "tamz": 22816,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_entulho.png": {
+   "sha": "f29ce14e33e6a30066dda13483a0e22cf5a8176c00c10c51500efb046a04172b",
+   "tam": 819,
+   "tamz": 819,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_estatua.png": {
+   "sha": "533ac11a313e41f45ef7c932e342cd76f36eb202c7835b16932ec1d205704e39",
+   "tam": 2024,
+   "tamz": 2024,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_lapide.png": {
+   "sha": "919f2d187898704dc96d82147d17b08b19da45afcc81497bb2236bea6473178e",
+   "tam": 972,
+   "tamz": 972,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_muro.png": {
+   "sha": "e36cd4343f12a4ab5cfd7a97306f1fe2d0b1aa9724016292102642db43b661f4",
+   "tam": 3225,
+   "tamz": 3225,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_ossos.png": {
+   "sha": "bb46b58d5eea4490e2bab03c2dd9cdada987ea71c90815755721bda8968c57dd",
+   "tam": 374,
+   "tamz": 374,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_pilar.png": {
+   "sha": "9b88554a9dbcc80709c522f5a4e9e50c1f5e20631f78b145259570c0f96492eb",
+   "tam": 2118,
+   "tamz": 2118,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_pilar_caido.png": {
+   "sha": "f22ee64728627c7d65d257f097ca21ca4151301aea05ba534f50c2146721e000",
+   "tam": 1853,
+   "tamz": 1853,
+   "z": 0
+  },
+  "ruinas_assets/ruinas_tumba.png": {
+   "sha": "d0b640513ba532265baf17701df02850f65185e7d4e63440b1f5296fe41f87a6",
+   "tam": 1958,
+   "tamz": 1958,
+   "z": 0
+  },
+  "salamandra.png": {
+   "sha": "0e85e5470396126f1db71219bcd01be845eccf51408cc3a626744be25986e637",
+   "tam": 227136,
+   "tamz": 227136,
+   "z": 0
+  },
+  "senhor_cinzas.png": {
+   "sha": "79aa165f0409f581f588bacd82fb5659800693a8555b7d13cceae1bb402d75ce",
+   "tam": 421891,
+   "tamz": 421891,
+   "z": 0
+  },
+  "shotgun.png": {
+   "sha": "f603273c943e2d7dfce8b87f3eb52a8c3fde9d7018527ea4726d9ec821bc7f98",
+   "tam": 65705,
+   "tamz": 65705,
+   "z": 0
+  },
+  "skills_icones/barreira.png": {
+   "sha": "743cebf156fbe6187f293d9ad2d588ede60ca30d3cd8df0d49f9229ddf02ce38",
+   "tam": 12238,
+   "tamz": 12238,
+   "z": 0
+  },
+  "skills_icones/buff_cadencia.png": {
+   "sha": "f9e36ef53bb2512d540b2a2a19fe59ee7f90d6a766acec15e82f3af2725bca8c",
+   "tam": 10837,
+   "tamz": 10837,
+   "z": 0
+  },
+  "skills_icones/buff_duplo.png": {
+   "sha": "050dc7d023d107b99f4a4c3a16a51ab03056954747e47b61d382074cd11e1db4",
+   "tam": 8535,
+   "tamz": 8535,
+   "z": 0
+  },
+  "skills_icones/buff_explosivo.png": {
+   "sha": "755dc2d9923077789df1181b024f0eaa5bbe5a943a91becf36da9601ffbaac1f",
+   "tam": 13032,
+   "tamz": 13032,
+   "z": 0
+  },
+  "skills_icones/buff_perfurante.png": {
+   "sha": "492078eea859a6381849ff12bc6c2198a1e9fb9d3793bacc6cc374b37e2731ff",
+   "tam": 9821,
+   "tamz": 9821,
+   "z": 0
+  },
+  "skills_icones/buff_ricochete.png": {
+   "sha": "9c87317b7bb094e2d9c1b682dfa1c9418e4340acca274b36d9f6f4bf44a00428",
+   "tam": 9763,
+   "tamz": 9763,
+   "z": 0
+  },
+  "skills_icones/corte.png": {
+   "sha": "76a5a2b5553c0a5fdb376ef2047493b6450501894f44e1591a4addc142bd74ba",
+   "tam": 9486,
+   "tamz": 9486,
+   "z": 0
+  },
+  "skills_icones/cura.png": {
+   "sha": "267fa6be21764f3dfb84d28992b260f4ade1e7eee6930130dfa754b643a804d0",
+   "tam": 8978,
+   "tamz": 8978,
+   "z": 0
+  },
+  "skills_icones/drone_ataque.png": {
+   "sha": "2a68502302be17f141458cfdb7bf8e8c1c708d8f73d77c64ed7385514be8040a",
+   "tam": 11255,
+   "tamz": 11255,
+   "z": 0
+  },
+  "skills_icones/drone_reparo.png": {
+   "sha": "46575dcd87bad2bf17d778c66c6c23a546ec44740ad6bf26ed2e37256e82d3e6",
+   "tam": 11306,
+   "tamz": 11306,
+   "z": 0
+  },
+  "skills_icones/explosao_macabra.png": {
+   "sha": "42707e4a7c2facca12fc881bc81420bcdf337b6bf5bb206187d447a4553fd334",
+   "tam": 13811,
+   "tamz": 13811,
+   "z": 0
+  },
+  "skills_icones/feixe.png": {
+   "sha": "d4f228cc6bb37b471fdec8b0e29776e2fff97e280ad5722eb2d7509d2fc7fc67",
+   "tam": 10060,
+   "tamz": 10060,
+   "z": 0
+  },
+  "skills_icones/folego.png": {
+   "sha": "2f82d802094ed55a32013c3c9600a2cfe7cacb1c26d46e50f58cf532fe28adaf",
+   "tam": 10295,
+   "tamz": 10295,
+   "z": 0
+  },
+  "skills_icones/gancho.png": {
+   "sha": "bdb2f54d8cacc17ad49e4f24d6ebb219fdecb154c6ffdd9c52c13442eaebb2d9",
+   "tam": 11489,
+   "tamz": 11489,
+   "z": 0
+  },
+  "skills_icones/impulso.png": {
+   "sha": "ccc86f1bbc91df32d65667355440651b59d4dbac4788a3a61bf5f29f0e056aff",
+   "tam": 11748,
+   "tamz": 11748,
+   "z": 0
+  },
+  "skills_icones/investida.png": {
+   "sha": "05d25f467585c1ba265c4ce68d5706df776216f2a08f80363ef758cdbc22fc70",
+   "tam": 9909,
+   "tamz": 9909,
+   "z": 0
+  },
+  "skills_icones/invulneravel.png": {
+   "sha": "456063fb2ae0f5cef5f5e71699158ddaaefd923a9d4ffe6d9e6840aa7e5a721f",
+   "tam": 11154,
+   "tamz": 11154,
+   "z": 0
+  },
+  "skills_icones/lanca.png": {
+   "sha": "6a37eadaebbaf351b92385494a5b47fb98ada6817ebe148ecdb64cc8f78a2da8",
+   "tam": 11707,
+   "tamz": 11707,
+   "z": 0
+  },
+  "skills_icones/martelo.png": {
+   "sha": "539a300b0f9894cf17a3be341de2bb166624d9c768ca3c6a3c661e5330f7b7ad",
+   "tam": 10033,
+   "tamz": 10033,
+   "z": 0
+  },
+  "skills_icones/meteoros.png": {
+   "sha": "88ab145b91e8b83c9e6d5e64941271b5e94a82f9ae550d984b70ede55b3029bc",
+   "tam": 10784,
+   "tamz": 10784,
+   "z": 0
+  },
+  "skills_icones/mina.png": {
+   "sha": "e2c7630dda299983523c9004e3346f19e56d5b182ee06f44543290c9eb7df0ef",
+   "tam": 11615,
+   "tamz": 11615,
+   "z": 0
+  },
+  "skills_icones/nuvem.png": {
+   "sha": "c258fcc022f934fc2d0e8a4dd656b3d7ce16b27c69f97818fec5bdc8dd5ee9bb",
+   "tam": 11662,
+   "tamz": 11662,
+   "z": 0
+  },
+  "skills_icones/onda.png": {
+   "sha": "9e708e29a0a0f1828afc96f63249da943c3e427536dcc34166fdb8ac9398c4c8",
+   "tam": 10642,
+   "tamz": 10642,
+   "z": 0
+  },
+  "skills_icones/postura.png": {
+   "sha": "6b29719853500733e85b68c4fe74df3277f9c4c03ba4b56ee57300b1fc6f509f",
+   "tam": 7605,
+   "tamz": 7605,
+   "z": 0
+  },
+  "skills_icones/pulso.png": {
+   "sha": "1e8dc0c3a8e6cf2970eaa08caa1654a056fcf47b7ba750c9eea0dd1fdbe020b4",
+   "tam": 15834,
+   "tamz": 15834,
+   "z": 0
+  },
+  "skills_icones/rajada.png": {
+   "sha": "f5c8408b384a1209b22d2241a4ba3adb170fe9f29cd5764ba3b48fc14896c99d",
+   "tam": 11349,
+   "tamz": 11349,
+   "z": 0
+  },
+  "skills_icones/regeneracao.png": {
+   "sha": "a75655ab3c2caeed5fdfbbfa769ee9281c53dbd00fc0f58dc6a2f44f7d8ebc1c",
+   "tam": 11229,
+   "tamz": 11229,
+   "z": 0
+  },
+  "skills_icones/salto.png": {
+   "sha": "3af0b714432e39773bf1ca1b654f500de87307ed5c129d8eb2fda787501c83b1",
+   "tam": 10496,
+   "tamz": 10496,
+   "z": 0
+  },
+  "skills_icones/servo_arqueiro.png": {
+   "sha": "9545c9c442bcc9fbe713ed8a9d3a7db0c4c7b3b34ebddf92c1de761c2866d033",
+   "tam": 10466,
+   "tamz": 10466,
+   "z": 0
+  },
+  "skills_icones/servo_esqueleto.png": {
+   "sha": "3a041b8a38fe1f5b6768743b63a84a7c17ed60cb09b38e9caec473f4c2597948",
+   "tam": 11474,
+   "tamz": 11474,
+   "z": 0
+  },
+  "skills_icones/servo_golem.png": {
+   "sha": "0d497ee68ad1e8e4ab31317f19e8074e7d3d14d58d2a43f56798f123ae5c3a29",
+   "tam": 6755,
+   "tamz": 6755,
+   "z": 0
+  },
+  "skills_icones/servo_horda.png": {
+   "sha": "c5f399a2bc2aea5c23edabb896dbd9ea25011055b34025b974b3edae1752c7b8",
+   "tam": 12641,
+   "tamz": 12641,
+   "z": 0
+  },
+  "skills_icones/teleporte.png": {
+   "sha": "56fee7e998ab116c4c405d366e222fadece99a5989774c6b8ed942269857641b",
+   "tam": 13738,
+   "tamz": 13738,
+   "z": 0
+  },
+  "skills_icones/tempestade.png": {
+   "sha": "475766e1645e16422834d1a6950b4de26c24a72f120b357ced2bdc9baebf3aa8",
+   "tam": 12437,
+   "tamz": 12437,
+   "z": 0
+  },
+  "skills_icones/tesla.png": {
+   "sha": "369409a56fbb3af664b0ed82f4b0a4a04326f8256e8c7ddb1a6a4fe68be627e0",
+   "tam": 15404,
+   "tamz": 15404,
+   "z": 0
+  },
+  "skills_icones/torreta.png": {
+   "sha": "154fa5898752c4997531f12795f2f2891291712d19c3c1d82c7c06af6db418d1",
+   "tam": 10076,
+   "tamz": 10076,
+   "z": 0
+  },
+  "som.py": {
+   "sha": "ac5e942397ce5214ade7b59582aa5a535cb30027405462c5075e010f4f02b710",
+   "tam": 9244,
+   "tamz": 2949,
+   "z": 1
+  },
+  "sons/abate.wav": {
+   "sha": "8ccbfbae44bba2702395d7b9c668faa62ec57334167d9307f0dfef09b35e8f8a",
+   "tam": 100596,
+   "tamz": 88372,
+   "z": 1
+  },
+  "sons/abate_2.wav": {
+   "sha": "f0b36e30e1c32226b5048b3fee4fd6761e5a9076a71a48db6fba5f1047569cd4",
+   "tam": 98416,
+   "tamz": 88100,
+   "z": 1
+  },
+  "sons/abate_3.wav": {
+   "sha": "9c37d99590146885563f5aa1eb2aced4e56bf19602f2811b47070c47de9c7480",
+   "tam": 98920,
+   "tamz": 86634,
+   "z": 1
+  },
+  "sons/abate_chefe.wav": {
+   "sha": "db3ba30dc9dd2087b5f5687f4f77cc1d82ecbead1719bf236dc781b5e136b34b",
+   "tam": 639836,
+   "tamz": 562567,
+   "z": 1
+  },
+  "sons/dano_forte.wav": {
+   "sha": "1a15a1531819f2f45f52d8cf56c2fb9b3a800e6eb5ee6daca710e173e583fa8c",
+   "tam": 144860,
+   "tamz": 121239,
+   "z": 1
+  },
+  "sons/dano_forte_2.wav": {
+   "sha": "04450720420ef82a49fe9f4dbe586be0b40ec51231281d8364c2b7ebb23fb98c",
+   "tam": 136212,
+   "tamz": 116631,
+   "z": 1
+  },
+  "sons/dano_leve.wav": {
+   "sha": "c391af3576475973f845ecb90f5922f3a2bef9cff133d9427060eb2acd12a8c2",
+   "tam": 50488,
+   "tamz": 38122,
+   "z": 1
+  },
+  "sons/dano_leve_2.wav": {
+   "sha": "aede77d9914d274bbee9f50bf03ec7476ae794c494a89942f566a6d58339f14f",
+   "tam": 52480,
+   "tamz": 39355,
+   "z": 1
+  },
+  "sons/dano_medio.wav": {
+   "sha": "25c544ab2c6acecdf7641fa9b5d83eb2cc1bff05df2462c8608e7890944250f8",
+   "tam": 82404,
+   "tamz": 64951,
+   "z": 1
+  },
+  "sons/dano_medio_2.wav": {
+   "sha": "8cf19fbc9e7a3ec15fb6e0ca8cbc960491139f870407ddd7801a48b581970a50",
+   "tam": 81680,
+   "tamz": 64849,
+   "z": 1
+  },
+  "sons/morte.wav": {
+   "sha": "03db784a6ecc8819ae05ec9def84c76130dde49993c2e9a8749a1895382623aa",
+   "tam": 514320,
+   "tamz": 446004,
+   "z": 1
+  },
+  "sons/skill_barreira.wav": {
+   "sha": "47fb94175f8b0c16edd5901883cecbd15d2dde0d1a06bacdc43cfd679e5620d2",
+   "tam": 297260,
+   "tamz": 260288,
+   "z": 1
+  },
+  "sons/skill_buff_cadencia.wav": {
+   "sha": "2dbb9f5c2e3d606733b1ab41d1f240894e716084471e6ca9816dea1950474a43",
+   "tam": 178896,
+   "tamz": 160698,
+   "z": 1
+  },
+  "sons/skill_buff_duplo.wav": {
+   "sha": "bfff44e8956eeb4e6ec929161b8a509769c46f33ce9ae22ee907af552b202f7e",
+   "tam": 144968,
+   "tamz": 127346,
+   "z": 1
+  },
+  "sons/skill_buff_explosivo.wav": {
+   "sha": "8ee173ba4b00500dc26091a1cc435f041300defc0286fe41c0a5d74065ac5480",
+   "tam": 194776,
+   "tamz": 170364,
+   "z": 1
+  },
+  "sons/skill_buff_perfurante.wav": {
+   "sha": "fa3a44647b374bcd148bd1eb2825c584b2f7e69fdb09489ac38d58d3d3f4dea9",
+   "tam": 168304,
+   "tamz": 156067,
+   "z": 1
+  },
+  "sons/skill_buff_ricochete.wav": {
+   "sha": "22cb489d429cf07699dfd0b6d31f592b4ba42ee00f239d7084f752b7d666afa4",
+   "tam": 128144,
+   "tamz": 111068,
+   "z": 1
+  },
+  "sons/skill_corte.wav": {
+   "sha": "a17399187df8aeaa197432f80bbaec2021e29615c317001a692a0ff2633cdce8",
+   "tam": 97564,
+   "tamz": 87054,
+   "z": 1
+  },
+  "sons/skill_cura.wav": {
+   "sha": "2a2226557e436d05e24b38a350896cd0071cb548a68f7a1892860dea0c9251b2",
+   "tam": 329140,
+   "tamz": 285166,
+   "z": 1
+  },
+  "sons/skill_drone_ataque.wav": {
+   "sha": "276611e8edcc1d17e2d1191b183d8377fe6b1c1886c63b4d0856c4b50484d1b7",
+   "tam": 191816,
+   "tamz": 168570,
+   "z": 1
+  },
+  "sons/skill_drone_reparo.wav": {
+   "sha": "86591966645a3e17de89d7c7ca61810446c1973ac550c1ba8bc4694588336a29",
+   "tam": 233936,
+   "tamz": 200726,
+   "z": 1
+  },
+  "sons/skill_drone_tiro.wav": {
+   "sha": "f9c5d5261b7980667254fbf94d37e014df47c59eaab682e25de3960768d7764a",
+   "tam": 34036,
+   "tamz": 26711,
+   "z": 1
+  },
+  "sons/skill_explosao_macabra.wav": {
+   "sha": "685861666e00c846aa9b49039949fde73016c8b67ca2aa6186da24c0d6368e2a",
+   "tam": 505260,
+   "tamz": 422827,
+   "z": 1
+  },
+  "sons/skill_explosiva_impacto.wav": {
+   "sha": "7b986063da972237d91b54cffa8c619b9f63f9a999abf812ac6dddf8ee240528",
+   "tam": 123356,
+   "tamz": 99458,
+   "z": 1
+  },
+  "sons/skill_feixe.wav": {
+   "sha": "aecedd7a4c29d8cbbbc18a269fd19f5f5d2731fb8625c732bd282c7fae963e9d",
+   "tam": 229248,
+   "tamz": 201032,
+   "z": 1
+  },
+  "sons/skill_folego.wav": {
+   "sha": "7ed8c718dfda803a34aebf120b1824097c50e0b2f3728a5da7489483de485484",
+   "tam": 404056,
+   "tamz": 345556,
+   "z": 1
+  },
+  "sons/skill_folego_salvo.wav": {
+   "sha": "5c59276bfc1b40a1f067b141251f4cde8f948288b52898c4c36bd1aad955516c",
+   "tam": 421392,
+   "tamz": 376564,
+   "z": 1
+  },
+  "sons/skill_gancho.wav": {
+   "sha": "e2c1a281cf2e5dd89876dfa73b9546edc052b1f15fbc388f9de9b9f8c5f692a9",
+   "tam": 177516,
+   "tamz": 154131,
+   "z": 1
+  },
+  "sons/skill_golem_impacto.wav": {
+   "sha": "d7b0a3e27554749f4c253e83239e4aa16a4b442409f7b75c8b16e6a47d7f20af",
+   "tam": 163752,
+   "tamz": 123808,
+   "z": 1
+  },
+  "sons/skill_impulso.wav": {
+   "sha": "8f7e37896dfd355d09c613ae954465cee8adf36c9aeefaea82406ae05a272bfa",
+   "tam": 143480,
+   "tamz": 129311,
+   "z": 1
+  },
+  "sons/skill_investida.wav": {
+   "sha": "c61e683bb3c0083aa9fe029ea163bfd88a19ebd403c39c6c33ee9f2819c374b0",
+   "tam": 70208,
+   "tamz": 61961,
+   "z": 1
+  },
+  "sons/skill_invulneravel.wav": {
+   "sha": "c3d8a71578fcfc3d7124c152f7ce5f925bd13b3e11137f3eb6d6349e307e43fc",
+   "tam": 401404,
+   "tamz": 361177,
+   "z": 1
+  },
+  "sons/skill_lanca.wav": {
+   "sha": "982b7e89cfa75e5955b62b80f0c360da7cbfa7420735a0c89def75232717026d",
+   "tam": 168292,
+   "tamz": 141843,
+   "z": 1
+  },
+  "sons/skill_martelo.wav": {
+   "sha": "dd47079dd2374fc08e614b7d1d52390048e119a0decc52cf80efb109ffe38de2",
+   "tam": 236512,
+   "tamz": 205076,
+   "z": 1
+  },
+  "sons/skill_meteoros.wav": {
+   "sha": "dd314de11d3e8fad87a8e81ae6803b1803b6184197ff664caa4a778984bf6fd5",
+   "tam": 292320,
+   "tamz": 244689,
+   "z": 1
+  },
+  "sons/skill_meteoros_impacto.wav": {
+   "sha": "048c312bb2660a52a466afd0740e755e885a0afe48b9293a2b9e037103c16c63",
+   "tam": 361520,
+   "tamz": 309309,
+   "z": 1
+  },
+  "sons/skill_mina.wav": {
+   "sha": "2f5bf2a536564c66e83d52d15281132174a20f70f14ab7e2f7eddc4be59d24ac",
+   "tam": 132472,
+   "tamz": 106653,
+   "z": 1
+  },
+  "sons/skill_mina_explosao.wav": {
+   "sha": "00e54114e07f832baf8898b00846ecee727dc83967044956547914a860c72b4d",
+   "tam": 233076,
+   "tamz": 191804,
+   "z": 1
+  },
+  "sons/skill_nuvem.wav": {
+   "sha": "f7cdd3c2793d1bf1f8f97ceeb40052ded3b862ec4223f50583f9775a281c0756",
+   "tam": 322212,
+   "tamz": 287087,
+   "z": 1
+  },
+  "sons/skill_onda.wav": {
+   "sha": "c5af45e6454b8a4639f84cb4888d782ade3d529474ad7b028de410c86edc78e0",
+   "tam": 218804,
+   "tamz": 170922,
+   "z": 1
+  },
+  "sons/skill_perfurante_cadeia.wav": {
+   "sha": "df9c743c3a4742c58c6ea2216a3ac4969bacb6d184ef84fe1c1fefdc96c78847",
+   "tam": 56380,
+   "tamz": 45042,
+   "z": 1
+  },
+  "sons/skill_perfurante_impacto.wav": {
+   "sha": "6b961b986ad656a89490782da33a1ecc1de84b76719c63d468ae1d18530437cf",
+   "tam": 221868,
+   "tamz": 173774,
+   "z": 1
+  },
+  "sons/skill_postura.wav": {
+   "sha": "45154a9e4ec6a4a4b272abc3de90e782a31a30f04b64eb9c5a8863ddd4bb295e",
+   "tam": 206620,
+   "tamz": 175062,
+   "z": 1
+  },
+  "sons/skill_pronta.wav": {
+   "sha": "82d0ef515f4df3bb530f049a35b07fc5efddee6896d95a7f03a5f6bf43cd5384",
+   "tam": 104156,
+   "tamz": 89584,
+   "z": 1
+  },
+  "sons/skill_pulso.wav": {
+   "sha": "2d3d1597cae41b2d68f3904b1131f36025f250718174572881245e9524d722ea",
+   "tam": 238868,
+   "tamz": 194475,
+   "z": 1
+  },
+  "sons/skill_rajada.wav": {
+   "sha": "6a7a410aef88bad79a93076f0f7296e1f45e3f949818c07af73f01ab2306c6d9",
+   "tam": 113164,
+   "tamz": 96610,
+   "z": 1
+  },
+  "sons/skill_regeneracao.wav": {
+   "sha": "d6971d81fbb5c97bbb092f57d7813a88c9a92e14417d879a850070b3ae8f548e",
+   "tam": 394920,
+   "tamz": 342199,
+   "z": 1
+  },
+  "sons/skill_ricochete_quique.wav": {
+   "sha": "4cf178a2acfbc9753bbeeb15fdb70cb6ee908b36c925c47f33f4787d7d7afca6",
+   "tam": 31360,
+   "tamz": 24943,
+   "z": 1
+  },
+  "sons/skill_salto.wav": {
+   "sha": "029c8c71e827d1d4822e3936b2af801f26418d3ef8f5b98d85e817dee889dec3",
+   "tam": 135744,
+   "tamz": 112282,
+   "z": 1
+  },
+  "sons/skill_servo_arqueiro.wav": {
+   "sha": "09606ad1ca12a897702d8c95f8caa455171297e0f239bc26cfdd3493810fe1d3",
+   "tam": 209556,
+   "tamz": 175314,
+   "z": 1
+  },
+  "sons/skill_servo_esqueleto.wav": {
+   "sha": "f8ec8428c6efbb15fd9c1edaa2b5e1e61545907332e5820ca05c1ab4f452641e",
+   "tam": 299956,
+   "tamz": 264473,
+   "z": 1
+  },
+  "sons/skill_servo_explosao.wav": {
+   "sha": "31196c3556f4112f4f205a3e62f4696c90a6f383c4aa4d2f9ab837f8fd91a8ba",
+   "tam": 137168,
+   "tamz": 105930,
+   "z": 1
+  },
+  "sons/skill_servo_flecha.wav": {
+   "sha": "b74810e37f5e973866eb1a5f30cbff54af1608d86efeb9ec633610cfaf6422d6",
+   "tam": 63080,
+   "tamz": 50670,
+   "z": 1
+  },
+  "sons/skill_servo_golem.wav": {
+   "sha": "7b2cd32851ba75699884f740e55466fa922db14c226251c63f74141c954a195a",
+   "tam": 421836,
+   "tamz": 353673,
+   "z": 1
+  },
+  "sons/skill_servo_golpe.wav": {
+   "sha": "82bf7371f36f26850fd926bba0ae7c7c60ae1e5a1ae14a3172b50713c6580b09",
+   "tam": 39924,
+   "tamz": 29321,
+   "z": 1
+  },
+  "sons/skill_servo_horda.wav": {
+   "sha": "353c0c122760d6a4c937f8c3dcd48e8e94dccace72730b6d23664ee52930bbb1",
+   "tam": 443940,
+   "tamz": 395963,
+   "z": 1
+  },
+  "sons/skill_servo_morte.wav": {
+   "sha": "1edc7ad0f5e7dc612209e0fd88165de1343d37dcaaf05d9651133709a89fd9ba",
+   "tam": 96752,
+   "tamz": 78253,
+   "z": 1
+  },
+  "sons/skill_teleporte.wav": {
+   "sha": "abfa1cef321cddd1ff5a4d4f59569b31d109176b7dcb87d4c3f5295dfa0cdb7d",
+   "tam": 206876,
+   "tamz": 176842,
+   "z": 1
+  },
+  "sons/skill_tempestade.wav": {
+   "sha": "cc71eea0d9cdf8e2ca67797f103383b28d542963ca282b6d5e1038c483ab45e6",
+   "tam": 387520,
+   "tamz": 343691,
+   "z": 1
+  },
+  "sons/skill_tesla.wav": {
+   "sha": "a2f6fc05ea115dc578e235a4d602cb106fa9dd63990e674217f416625e51376b",
+   "tam": 269524,
+   "tamz": 226751,
+   "z": 1
+  },
+  "sons/skill_tesla_zap.wav": {
+   "sha": "2b04bd21f9e94b9ae046b95de1fe7d801968877d11f7b61aff0afe6cf4596ab5",
+   "tam": 56488,
+   "tamz": 45075,
+   "z": 1
+  },
+  "sons/skill_torreta.wav": {
+   "sha": "771bed3cf02c54dac4a16215eb296aab4b49e0142b5da8c7c5e85b6628d4e8c8",
+   "tam": 162244,
+   "tamz": 139334,
+   "z": 1
+  },
+  "sons/skill_torreta_tiro.wav": {
+   "sha": "bcb874b91e56d3b295425c55cd5a38db81bdbd53a12626928e49eb792a580e39",
+   "tam": 40736,
+   "tamz": 30826,
+   "z": 1
+  },
+  "sons/tiro_espingarda.wav": {
+   "sha": "865c9f48313b8f4be559b184c7c88f5bf7c319fd69b82c4aa9a542ebbe5a401d",
+   "tam": 88244,
+   "tamz": 73381,
+   "z": 1
+  },
+  "sons/tiro_pistola.wav": {
+   "sha": "277ea05bf438925cbf1409eaf1d3751fe783c54d20e93409817b7ccd7d6b0248",
+   "tam": 39734,
+   "tamz": 32099,
+   "z": 1
+  },
+  "sons/tiro_rifle.wav": {
+   "sha": "eb2cae313f0b44b7025237227e486ef5fa0c339a5ebb02027f6223f7ae3df6cd",
+   "tam": 48554,
+   "tamz": 43210,
+   "z": 1
+  },
+  "terreno.py": {
+   "sha": "5fbbc8ccb196158027c5bd235235ea73473b709cfe304122e1903031486bfe90",
+   "tam": 30194,
+   "tamz": 8697,
+   "z": 1
+  },
+  "tiros_assets/bala_espingarda.png": {
+   "sha": "e66d47e053c98ee8c04423c5eb091444d6d37f8b628d5537d5ebc90657a470ce",
+   "tam": 175,
+   "tamz": 175,
+   "z": 0
+  },
+  "tiros_assets/bala_pistola.png": {
+   "sha": "5e7bb995afe6f7775439d62d12ea23efcc583998738575f0f85f6a3e995d3e81",
+   "tam": 214,
+   "tamz": 214,
+   "z": 0
+  },
+  "tiros_assets/bala_rifle.png": {
+   "sha": "08c8b174e520af9137d68a6f7e77b9fdf24d06f8db28faeeda012f9aa4ab107d",
+   "tam": 237,
+   "tamz": 237,
+   "z": 0
+  },
+  "urso.png": {
+   "sha": "c8f726feac82e0b12ec4c215dfdd9304e3a091cb0a1d3cc0bf47a1706438ef2b",
+   "tam": 1452313,
+   "tamz": 1452313,
+   "z": 0
+  },
+  "urso_polar.png": {
+   "sha": "36d45fb5cfaece762358b1e9195ffc00cad7e1fd385c5b3478e5f406d29f78d0",
+   "tam": 1288235,
+   "tamz": 1288235,
+   "z": 0
+  }
+ }
+}
