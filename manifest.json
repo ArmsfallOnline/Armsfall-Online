@@ -1,12 +1,18 @@
 {
  "formato": 1,
- "build": 20261011162718,
+ "build": 20261011163142,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
  "launcher_url": "",
  "cifra": 1,
  "arquivos": {
+  "ambiente_som.py": {
+   "sha": "f2b25857b40811ec9c19f65f8834a44a37508b6f72c369c4b8503101232f8769",
+   "tam": 2593,
+   "tamz": 2593,
+   "z": 0
+  },
   "aparencia.py": {
    "sha": "67153f8f21af5c86a3a44098574dc68191bb704a9844d5c52467f8ad78393bd7",
    "tam": 6855,
@@ -260,9 +266,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "21356b6efea7644c8b9053c62eed66dba5339be7a6aabc4a409da5506395cae8",
-   "tam": 87171,
-   "tamz": 87171,
+   "sha": "93571d97e70206daec85d03da664806703292cb1fa01c7a007c5efc78c6350dd",
+   "tam": 87323,
+   "tamz": 87323,
    "z": 0
   },
   "clima.py": {
