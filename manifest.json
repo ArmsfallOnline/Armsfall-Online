@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011203848,
+ "build": 20261011204226,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1754,51 +1754,51 @@
    "z": 0
   },
   "sons/passo_lama.wav": {
-   "sha": "9fc996706a9d2a1fe88fad2ff1ba77ddfcdf017ab6994c758e6475861b8c0679",
-   "tam": 36122,
-   "tamz": 36122,
+   "sha": "65b9831c155cac242a75410db5f7226c126fb908f689c5ea49a62c9e113fd5d0",
+   "tam": 31603,
+   "tamz": 31603,
    "z": 0
   },
   "sons/passo_lama_2.wav": {
-   "sha": "50bfc7799f7e99505af0b8bb6cd3c49ff8d246bee4c6e0825afe3e4e9bf36a30",
-   "tam": 32453,
-   "tamz": 32453,
+   "sha": "6757104b22a9f3af3825ec40814973e46519bce602a3c50344d848e994549ebb",
+   "tam": 30158,
+   "tamz": 30158,
    "z": 0
   },
   "sons/passo_lama_3.wav": {
-   "sha": "ceff3df4858e3156a119ee2786336e6323023a9f20c17263d16ccefaba047a9e",
-   "tam": 34542,
-   "tamz": 34542,
+   "sha": "bd3d17498f548f8cc622c860d787f4ff1f168abd900a4d5ae457fbf5da1f97aa",
+   "tam": 31792,
+   "tamz": 31792,
    "z": 0
   },
   "sons/passo_lama_4.wav": {
-   "sha": "c006eaa46b10785bef7fa494a50cda191992a11f39ba821f4a2fa2a1e74d1aba",
-   "tam": 34566,
-   "tamz": 34566,
+   "sha": "82631a337d3bf9c777771235dada4a0c36a4cc70cecbf8bbb43755fc55f2d300",
+   "tam": 32306,
+   "tamz": 32306,
    "z": 0
   },
   "sons/passo_lama_5.wav": {
-   "sha": "dc96d8b0bea1dae30ff0355eec9d559b3011ca2cb926afdb1dd7244ce7ff0b6f",
-   "tam": 32511,
-   "tamz": 32511,
+   "sha": "7654905424de8dfde819a15732dbc4a0dcb63905d5a31f682c9ce8876ce55adf",
+   "tam": 29629,
+   "tamz": 29629,
    "z": 0
   },
   "sons/passo_lama_6.wav": {
-   "sha": "6ab15cf61d641344810d64625985de68bf1a6d3542515eafc7ef21353dea3181",
-   "tam": 36390,
-   "tamz": 36390,
+   "sha": "e71500a41ac8f47623b75799d5ab697f5fd60dbbe752349418965ec154bbe8c1",
+   "tam": 29367,
+   "tamz": 29367,
    "z": 0
   },
   "sons/passo_lama_7.wav": {
-   "sha": "f1ea2d7c1106633823db72f4e79752bdcb6d3d7aa8f28706fc6c25987ebd8ebf",
-   "tam": 31251,
-   "tamz": 31251,
+   "sha": "1ea757a477e353a3397c76fe0053cd7bd84c40cccf1c42f1a8de4c07906e3524",
+   "tam": 34151,
+   "tamz": 34151,
    "z": 0
   },
   "sons/passo_lama_8.wav": {
-   "sha": "6266060a1f7cc8ee056ba9f83e86cb08bb72f01352e770516122025e36e1a058",
-   "tam": 35404,
-   "tamz": 35404,
+   "sha": "32c61fe193d83daa540f69ca0bf72c22423eb1ae67443aceff497bed1728c968",
+   "tam": 30483,
+   "tamz": 30483,
    "z": 0
   },
   "sons/passo_madeira.wav": {
