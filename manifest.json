@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261010225834,
+ "build": 20261010233530,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 1,
@@ -977,6 +977,24 @@
    "tam": 445573,
    "tamz": 445573,
    "z": 0
+  },
+  "player_f_mask.bin": {
+   "sha": "e66b47326d76eaae24fad294dbbc965b1ff7a743f0a14b77f57aa32073ebf3c0",
+   "tam": 18278,
+   "tamz": 17272,
+   "z": 1
+  },
+  "player_f_mask_semente.bin": {
+   "sha": "3cc75dd68a992d3fa19e6ff5e270f602f0db58b97196c9300ab64410ed9278ae",
+   "tam": 13356,
+   "tamz": 12413,
+   "z": 1
+  },
+  "player_mask.bin": {
+   "sha": "45259d52ebda3edd7311f55c58fe4c7987311ecc3ba0cc7d58bf2367af33b6a7",
+   "tam": 13475,
+   "tamz": 12700,
+   "z": 1
   },
   "ruinas_assets/ruinas_arco.png": {
    "sha": "c1b375fedb51a351297fbd2d77a0c5b4a1a7646d778ae6fea74027fb8917a459",
