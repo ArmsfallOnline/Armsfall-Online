@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011204226,
+ "build": 20261011204403,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1751,54 +1751,6 @@
    "sha": "746490379125e8f48c9742994e34bc8f8df5abef07a8aaf53ab64eb8c14c0cb5",
    "tam": 30881,
    "tamz": 30881,
-   "z": 0
-  },
-  "sons/passo_lama.wav": {
-   "sha": "65b9831c155cac242a75410db5f7226c126fb908f689c5ea49a62c9e113fd5d0",
-   "tam": 31603,
-   "tamz": 31603,
-   "z": 0
-  },
-  "sons/passo_lama_2.wav": {
-   "sha": "6757104b22a9f3af3825ec40814973e46519bce602a3c50344d848e994549ebb",
-   "tam": 30158,
-   "tamz": 30158,
-   "z": 0
-  },
-  "sons/passo_lama_3.wav": {
-   "sha": "bd3d17498f548f8cc622c860d787f4ff1f168abd900a4d5ae457fbf5da1f97aa",
-   "tam": 31792,
-   "tamz": 31792,
-   "z": 0
-  },
-  "sons/passo_lama_4.wav": {
-   "sha": "82631a337d3bf9c777771235dada4a0c36a4cc70cecbf8bbb43755fc55f2d300",
-   "tam": 32306,
-   "tamz": 32306,
-   "z": 0
-  },
-  "sons/passo_lama_5.wav": {
-   "sha": "7654905424de8dfde819a15732dbc4a0dcb63905d5a31f682c9ce8876ce55adf",
-   "tam": 29629,
-   "tamz": 29629,
-   "z": 0
-  },
-  "sons/passo_lama_6.wav": {
-   "sha": "e71500a41ac8f47623b75799d5ab697f5fd60dbbe752349418965ec154bbe8c1",
-   "tam": 29367,
-   "tamz": 29367,
-   "z": 0
-  },
-  "sons/passo_lama_7.wav": {
-   "sha": "1ea757a477e353a3397c76fe0053cd7bd84c40cccf1c42f1a8de4c07906e3524",
-   "tam": 34151,
-   "tamz": 34151,
-   "z": 0
-  },
-  "sons/passo_lama_8.wav": {
-   "sha": "32c61fe193d83daa540f69ca0bf72c22423eb1ae67443aceff497bed1728c968",
-   "tam": 30483,
-   "tamz": 30483,
    "z": 0
   },
   "sons/passo_madeira.wav": {
