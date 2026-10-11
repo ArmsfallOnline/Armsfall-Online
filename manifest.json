@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011180815,
+ "build": 20261011181614,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1346,9 +1346,9 @@
    "z": 0
   },
   "som.py": {
-   "sha": "a3c4423c200c00791957d781a0674a6bc048a3a9ded21a50f74fa446db5696d2",
-   "tam": 3323,
-   "tamz": 3323,
+   "sha": "d3630e1ecc6f31998a8a79d99dce20bfc8d504b4570c8fd448e1c75c71ec8a26",
+   "tam": 3406,
+   "tamz": 3406,
    "z": 0
   },
   "sons/abate.wav": {
@@ -1417,220 +1417,532 @@
    "tamz": 446041,
    "z": 0
   },
+  "sons/passo_agua.wav": {
+   "sha": "e24e6ac5125084756866112ee0ae4d61745ca389485c63a739a293ff3d445c2a",
+   "tam": 37285,
+   "tamz": 37285,
+   "z": 0
+  },
+  "sons/passo_agua_2.wav": {
+   "sha": "374fc2ac0ec6f5edbb04b7d0f829574500130491d52c7dd7b6b163fc0af0c8f5",
+   "tam": 35641,
+   "tamz": 35641,
+   "z": 0
+  },
+  "sons/passo_agua_3.wav": {
+   "sha": "449be1138aeaacfb776b7e43a64f01857b242a723c8a664b5e7174392442ed11",
+   "tam": 37614,
+   "tamz": 37614,
+   "z": 0
+  },
+  "sons/passo_agua_4.wav": {
+   "sha": "860f75f3cf72a4d14e0900b84e69af09ca2c12520a20be9a33bbb17babaabe53",
+   "tam": 36062,
+   "tamz": 36062,
+   "z": 0
+  },
+  "sons/passo_agua_5.wav": {
+   "sha": "8e2f28aed6915e4d06ed12887a5365d152524f87b84db048f0bcc07f34b96519",
+   "tam": 37624,
+   "tamz": 37624,
+   "z": 0
+  },
+  "sons/passo_agua_6.wav": {
+   "sha": "044db26d1eb5971905c986fea074da2fd0262789c7e0579f1407a4f5fc7ba3b9",
+   "tam": 36828,
+   "tamz": 36828,
+   "z": 0
+  },
+  "sons/passo_agua_7.wav": {
+   "sha": "907da5f70d68da80ad01fbce3750cb20607e46aec0a929704ee325e2b3b104c3",
+   "tam": 35526,
+   "tamz": 35526,
+   "z": 0
+  },
+  "sons/passo_agua_8.wav": {
+   "sha": "9815c98a860db09a061659c6bdf5073208f02fab3630d92ce46dd274c35ddad3",
+   "tam": 35611,
+   "tamz": 35611,
+   "z": 0
+  },
   "sons/passo_areia.wav": {
-   "sha": "d504823fb0bbedf46dcaa88f70e927b662d871c6eca9a33f5b038278028d7c79",
-   "tam": 23811,
-   "tamz": 23811,
+   "sha": "a92c63768a2bfdc0c393bb4032abd75392dd9a099622a5dc22d1b1f48fc83f85",
+   "tam": 34973,
+   "tamz": 34973,
    "z": 0
   },
   "sons/passo_areia_2.wav": {
-   "sha": "144c259001e17654f6c3668f1efc46f3f60351fa28856d77ced17add94279fc0",
-   "tam": 23821,
-   "tamz": 23821,
+   "sha": "447755dbfec27a8967fa6ef8d5257bc3e6adc64e265706bf083c38674b2c27f5",
+   "tam": 35063,
+   "tamz": 35063,
    "z": 0
   },
   "sons/passo_areia_3.wav": {
-   "sha": "3300d46fb76331f29c78b0f896a164d97437fdeba35a027016cdcc37f73bf13b",
-   "tam": 23791,
-   "tamz": 23791,
+   "sha": "873888ca7f57d66cb472b97b6bb43b13f9eecc7debe37f83bf04daf4fcee332f",
+   "tam": 34692,
+   "tamz": 34692,
    "z": 0
   },
   "sons/passo_areia_4.wav": {
-   "sha": "434c586c44c3efadf02ca0fb5a5f0e48dc51d289f4a373f82df770b1965110c3",
-   "tam": 23806,
-   "tamz": 23806,
+   "sha": "cbb8c432b2d39ae5ce4f663a9bc695d0e5b40cf17b8eb3951f14682bbb20de08",
+   "tam": 33568,
+   "tamz": 33568,
+   "z": 0
+  },
+  "sons/passo_areia_5.wav": {
+   "sha": "25674a3779a25db44670f1e1ae1db0a4177772360a1179eed14b7a2159d3f24c",
+   "tam": 35042,
+   "tamz": 35042,
+   "z": 0
+  },
+  "sons/passo_areia_6.wav": {
+   "sha": "175d2f0d6e349494418cb42ff083d4c295db40fe7d527793624d80717aef73bf",
+   "tam": 35715,
+   "tamz": 35715,
+   "z": 0
+  },
+  "sons/passo_areia_7.wav": {
+   "sha": "ae683c9b6980501c5e2b37ab9539ecd054d4076d364743e4d19b3de636b2722d",
+   "tam": 33664,
+   "tamz": 33664,
+   "z": 0
+  },
+  "sons/passo_areia_8.wav": {
+   "sha": "9b6fe729752855a444878cbbfba1a132ec24770223f7fbebb5dd8d326c3b32b5",
+   "tam": 34866,
+   "tamz": 34866,
+   "z": 0
+  },
+  "sons/passo_cascalho.wav": {
+   "sha": "85760151181f63b7f66532c3eb5971a653295cae5f282d652ebdb11cdcc7de75",
+   "tam": 26878,
+   "tamz": 26878,
+   "z": 0
+  },
+  "sons/passo_cascalho_2.wav": {
+   "sha": "69927846e95de8473cb84dbda71e3b5fb1352f55cd0c91cafd4916b74923c0fe",
+   "tam": 25986,
+   "tamz": 25986,
+   "z": 0
+  },
+  "sons/passo_cascalho_3.wav": {
+   "sha": "4fec22ccb20c7c7171ea5152f992f6f5e24552c621280f884d0361d8b777d73a",
+   "tam": 23850,
+   "tamz": 23850,
+   "z": 0
+  },
+  "sons/passo_cascalho_4.wav": {
+   "sha": "9ab4f9355f5c96f96d6fe9ccfab44017ee54075587681ed769ebe8c307cca16d",
+   "tam": 29655,
+   "tamz": 29655,
+   "z": 0
+  },
+  "sons/passo_cascalho_5.wav": {
+   "sha": "f8e31af679023eb921bfc54d91fcf634fa00dbdae71f5ef79ea1e05ad4be3091",
+   "tam": 27598,
+   "tamz": 27598,
+   "z": 0
+  },
+  "sons/passo_cascalho_6.wav": {
+   "sha": "cfcde848597a209ab73edf701f6db92d1b2da56ae85b36e6e6f70de46285aa34",
+   "tam": 29099,
+   "tamz": 29099,
+   "z": 0
+  },
+  "sons/passo_cascalho_7.wav": {
+   "sha": "e3804f71ea77e918d19ab4113ac5877956478bd5951a05f037a507f3d5322f08",
+   "tam": 27985,
+   "tamz": 27985,
+   "z": 0
+  },
+  "sons/passo_cascalho_8.wav": {
+   "sha": "67b35eda68d347301c814b8d6779dc80f0b5d409197e9b71392ad2961ef28091",
+   "tam": 30205,
+   "tamz": 30205,
    "z": 0
   },
   "sons/passo_cinza.wav": {
-   "sha": "11a88e02de49c61b57f28d0a4b2d026c551e8b8955b09cc8a08c3fca24341d41",
-   "tam": 18314,
-   "tamz": 18314,
+   "sha": "52d2439181d0645f39a575a586b798da3e97ad09e3c6f4b794f4a94935628bf7",
+   "tam": 33822,
+   "tamz": 33822,
    "z": 0
   },
   "sons/passo_cinza_2.wav": {
-   "sha": "06ae6fa66a4a100cfbd403924ff795af9acbf8848f5922317054b38b69eecf54",
-   "tam": 17839,
-   "tamz": 17839,
+   "sha": "a1e31ac2f4782c9f9494842fb854615e1098dab0f151c21375cd0e2a0e3729ed",
+   "tam": 34494,
+   "tamz": 34494,
    "z": 0
   },
   "sons/passo_cinza_3.wav": {
-   "sha": "4b9a51af2b1a8e5ab4a3dec5807abea7446c71ccab7e69a84df43b87583920d6",
-   "tam": 19273,
-   "tamz": 19273,
+   "sha": "1871736c8a234165c909db90b69c9a59d453e4971707426fead0fe2df024a833",
+   "tam": 29898,
+   "tamz": 29898,
    "z": 0
   },
   "sons/passo_cinza_4.wav": {
-   "sha": "6446eba25165f4fbd158946581b99794fd2159efe64ddfabf5e3b006d091aaec",
-   "tam": 17806,
-   "tamz": 17806,
+   "sha": "9fba2680bee6b179e1feb61eb2051334fd11f9aaaa007a4b38c0f4bc1e376e1b",
+   "tam": 32377,
+   "tamz": 32377,
+   "z": 0
+  },
+  "sons/passo_cinza_5.wav": {
+   "sha": "1b509d8e153689099e7272ac92e251d5ece05d67f0bfe215b1b6d9d834e1570b",
+   "tam": 31586,
+   "tamz": 31586,
+   "z": 0
+  },
+  "sons/passo_cinza_6.wav": {
+   "sha": "427ea00532e518b1180ca95cbf8387bc08b98d7030034fa68d625bffe0281597",
+   "tam": 30238,
+   "tamz": 30238,
+   "z": 0
+  },
+  "sons/passo_cinza_7.wav": {
+   "sha": "d2a7e6c36ffe39f1fc22fc5cb221faf1b302780cdc984f7d22103bba73477383",
+   "tam": 32957,
+   "tamz": 32957,
+   "z": 0
+  },
+  "sons/passo_cinza_8.wav": {
+   "sha": "f93d79e7fafd250f921d0eaf916b43afcddaec50814b09a871760a95bfa04b22",
+   "tam": 31084,
+   "tamz": 31084,
    "z": 0
   },
   "sons/passo_floresta.wav": {
-   "sha": "479e6994479d76e505ee587871f27cc29fca894b36825c0a375d73b85c08905f",
-   "tam": 20951,
-   "tamz": 20951,
+   "sha": "ac06a86e5fb82ed28b2cde2a6f31b72ad7baae95cb0dee754464c936e2d345ab",
+   "tam": 31898,
+   "tamz": 31898,
    "z": 0
   },
   "sons/passo_floresta_2.wav": {
-   "sha": "d1cfe65762a5789f36d68a7a6b0163e73aade852abbb5ebc883834c758177f2c",
-   "tam": 20990,
-   "tamz": 20990,
+   "sha": "28436a27bfd8b26d8e1f2b4f51a681b5c4ce439e0aca773f9104a5a0678f8d21",
+   "tam": 32645,
+   "tamz": 32645,
    "z": 0
   },
   "sons/passo_floresta_3.wav": {
-   "sha": "7fb6c00d7bffdbeadef8da70a0757951f2ee0d6242f15ee5e689e8ea19173bb5",
-   "tam": 20837,
-   "tamz": 20837,
+   "sha": "f9395a6006424cacf30b2e068e7852d19805e1ce50ac642666af99cb760f1ba0",
+   "tam": 22634,
+   "tamz": 22634,
    "z": 0
   },
   "sons/passo_floresta_4.wav": {
-   "sha": "5319ac6416e3aeb6755836037fed23ce2c218189d779cf347661cc66d22603ec",
-   "tam": 20914,
-   "tamz": 20914,
+   "sha": "2ac1df504e88646bb9045d6f3efee88db6f1ca419014f6ea8903cc1b53b4e1fb",
+   "tam": 33888,
+   "tamz": 33888,
+   "z": 0
+  },
+  "sons/passo_floresta_5.wav": {
+   "sha": "58cd840ccdfab466cce3df8da1cad31c94a2ad5cdaba3fa0669adf7a01727658",
+   "tam": 27827,
+   "tamz": 27827,
+   "z": 0
+  },
+  "sons/passo_floresta_6.wav": {
+   "sha": "11a3f64c96866ba80fbe56af22ef088f239fe593386e1de7832c1893bae645a8",
+   "tam": 30305,
+   "tamz": 30305,
+   "z": 0
+  },
+  "sons/passo_floresta_7.wav": {
+   "sha": "fe345a71a6999986783e1f0eb767d259362a136890803a3257ee47835ae773a0",
+   "tam": 30201,
+   "tamz": 30201,
+   "z": 0
+  },
+  "sons/passo_floresta_8.wav": {
+   "sha": "094de528bb59a36cd4ccc7ce42887deaa3795acee932beb74030cc4baa89a19c",
+   "tam": 32515,
+   "tamz": 32515,
    "z": 0
   },
   "sons/passo_grama.wav": {
-   "sha": "53c1de30b894d046f7dccc09e29126f16441803cc83dc132e3c2e7d02391f04d",
-   "tam": 16971,
-   "tamz": 16971,
+   "sha": "b0ca08ea4b5213a591fe6ba940502b0a0ef8b6904c90da24449069bdfb7312f3",
+   "tam": 25238,
+   "tamz": 25238,
    "z": 0
   },
   "sons/passo_grama_2.wav": {
-   "sha": "f872c8dab131a0b3c62d50bfa000bac122056139e7a3a043804ab257d249eafb",
-   "tam": 16709,
-   "tamz": 16709,
+   "sha": "251d7adbce5777249f4e7d3f993f0daa1fcff6401a55086db795ada867e4bb22",
+   "tam": 26288,
+   "tamz": 26288,
    "z": 0
   },
   "sons/passo_grama_3.wav": {
-   "sha": "1d65fd99b82bb4cc33ce0d2e539b4f2c626d1d19b00e1f71e78b83dde5fca966",
-   "tam": 17067,
-   "tamz": 17067,
+   "sha": "1cb28219e5e76b75be8a0d48bd775f697ef3a20848240ac2712fea607d3a8503",
+   "tam": 26283,
+   "tamz": 26283,
    "z": 0
   },
   "sons/passo_grama_4.wav": {
-   "sha": "9fee6965851ea07047ab3fe1bf4465d78bbc0dfd6bc566852a7d6770727d8e2e",
-   "tam": 16472,
-   "tamz": 16472,
+   "sha": "4a387627945b43c0101053032711c985a58904bcecd2ad482dc5ed03ff9d657f",
+   "tam": 31125,
+   "tamz": 31125,
+   "z": 0
+  },
+  "sons/passo_grama_5.wav": {
+   "sha": "edac80ba10a6006b78caf386db10914b63ef06923590762f1e6549ff529675be",
+   "tam": 30249,
+   "tamz": 30249,
+   "z": 0
+  },
+  "sons/passo_grama_6.wav": {
+   "sha": "7aa75ddcace6bba2d6d451e881241c6d8bce9ccfce55439a1b52489ec58fcfe0",
+   "tam": 28615,
+   "tamz": 28615,
+   "z": 0
+  },
+  "sons/passo_grama_7.wav": {
+   "sha": "6dc2cea6e5616b687bcdba453ec89ac5bc7a2006beb9ed2490948db55a543e16",
+   "tam": 24970,
+   "tamz": 24970,
+   "z": 0
+  },
+  "sons/passo_grama_8.wav": {
+   "sha": "746490379125e8f48c9742994e34bc8f8df5abef07a8aaf53ab64eb8c14c0cb5",
+   "tam": 30881,
+   "tamz": 30881,
    "z": 0
   },
   "sons/passo_lama.wav": {
-   "sha": "ec6a871aca318fe1475be8096a998db63e933f8297b0d35c6b5a09a83a48f800",
-   "tam": 25646,
-   "tamz": 25646,
+   "sha": "9fc996706a9d2a1fe88fad2ff1ba77ddfcdf017ab6994c758e6475861b8c0679",
+   "tam": 36122,
+   "tamz": 36122,
    "z": 0
   },
   "sons/passo_lama_2.wav": {
-   "sha": "c341b485042e677285c4471c803ce844ba37f34d0fa07ddfb6caf5e081ccd3dd",
-   "tam": 25295,
-   "tamz": 25295,
+   "sha": "50bfc7799f7e99505af0b8bb6cd3c49ff8d246bee4c6e0825afe3e4e9bf36a30",
+   "tam": 32453,
+   "tamz": 32453,
    "z": 0
   },
   "sons/passo_lama_3.wav": {
-   "sha": "2d84a69a926c3900ea22e17d12f97d523288d3b61c613fb3f7978dac468adb67",
-   "tam": 25530,
-   "tamz": 25530,
+   "sha": "ceff3df4858e3156a119ee2786336e6323023a9f20c17263d16ccefaba047a9e",
+   "tam": 34542,
+   "tamz": 34542,
    "z": 0
   },
   "sons/passo_lama_4.wav": {
-   "sha": "4abb6a528f8b04a68466260bb821091a2b2821a49e070bcb5cb13dc019a5d349",
-   "tam": 25573,
-   "tamz": 25573,
+   "sha": "c006eaa46b10785bef7fa494a50cda191992a11f39ba821f4a2fa2a1e74d1aba",
+   "tam": 34566,
+   "tamz": 34566,
+   "z": 0
+  },
+  "sons/passo_lama_5.wav": {
+   "sha": "dc96d8b0bea1dae30ff0355eec9d559b3011ca2cb926afdb1dd7244ce7ff0b6f",
+   "tam": 32511,
+   "tamz": 32511,
+   "z": 0
+  },
+  "sons/passo_lama_6.wav": {
+   "sha": "6ab15cf61d641344810d64625985de68bf1a6d3542515eafc7ef21353dea3181",
+   "tam": 36390,
+   "tamz": 36390,
+   "z": 0
+  },
+  "sons/passo_lama_7.wav": {
+   "sha": "f1ea2d7c1106633823db72f4e79752bdcb6d3d7aa8f28706fc6c25987ebd8ebf",
+   "tam": 31251,
+   "tamz": 31251,
+   "z": 0
+  },
+  "sons/passo_lama_8.wav": {
+   "sha": "6266060a1f7cc8ee056ba9f83e86cb08bb72f01352e770516122025e36e1a058",
+   "tam": 35404,
+   "tamz": 35404,
    "z": 0
   },
   "sons/passo_madeira.wav": {
-   "sha": "7e3f8ba37eaed4f593cfd71397c8820f40f9b567b5c2d810dd9de1a2271e51f9",
-   "tam": 18256,
-   "tamz": 18256,
+   "sha": "c00bfb966d0f28737c114ea736f376b80708db786e7879d8255263e6cbc9dd51",
+   "tam": 22088,
+   "tamz": 22088,
    "z": 0
   },
   "sons/passo_madeira_2.wav": {
-   "sha": "f1890ae72e1b6175c330912d64c614d9d8abf42e4f982bee5ed6932a0d46c1b5",
-   "tam": 18393,
-   "tamz": 18393,
+   "sha": "5907417ab515950e062c1da3dd3a7a61c4b2562837c93f34441ee2dae907798f",
+   "tam": 23499,
+   "tamz": 23499,
    "z": 0
   },
   "sons/passo_madeira_3.wav": {
-   "sha": "083a7d93bca99bc2f6cb51199a72a12911a7e07423cff85857e181311c2c780c",
-   "tam": 18424,
-   "tamz": 18424,
+   "sha": "9cf06c0cf6831119fa2642b1cfd2721ad08c8934d917d06d2d59e8e7bd8dd57c",
+   "tam": 25344,
+   "tamz": 25344,
    "z": 0
   },
   "sons/passo_madeira_4.wav": {
-   "sha": "e247268e80b1516fc5a4fb9ec3891bb66a732429f2ba4b11c369f799373f9426",
-   "tam": 18401,
-   "tamz": 18401,
+   "sha": "05a159646c4811db547fa2a614b1c77bc3f743fa659c54ff7df440ac669d4bcd",
+   "tam": 24963,
+   "tamz": 24963,
+   "z": 0
+  },
+  "sons/passo_madeira_5.wav": {
+   "sha": "7328173c7413134a201bf0829ac8267c56d81cfd2eb6887e1aed1680a5edafbb",
+   "tam": 24897,
+   "tamz": 24897,
+   "z": 0
+  },
+  "sons/passo_madeira_6.wav": {
+   "sha": "269d6bc7a88c9b033d1ee62005622d249e42bd01f8eb3e9e11f6e75be47070db",
+   "tam": 24467,
+   "tamz": 24467,
+   "z": 0
+  },
+  "sons/passo_madeira_7.wav": {
+   "sha": "ca385dd0060c257d5f595d2d2a6ea4898a42e87fedcef3c40c91fd3a817f7384",
+   "tam": 26818,
+   "tamz": 26818,
+   "z": 0
+  },
+  "sons/passo_madeira_8.wav": {
+   "sha": "a51360bb492799775bd3aba6dbbe6a772df1b59c5ea99562803524c60fb42245",
+   "tam": 24148,
+   "tamz": 24148,
    "z": 0
   },
   "sons/passo_neve.wav": {
-   "sha": "9d79ebfbf7a21ff2ea90982a49f02dc39509d0774eb797e82f1ef13aba83a587",
-   "tam": 19481,
-   "tamz": 19481,
+   "sha": "33ac4334cac6e29f8a671f353d6dd43c8a7a5b37d250f740b710784000044ff8",
+   "tam": 29738,
+   "tamz": 29738,
    "z": 0
   },
   "sons/passo_neve_2.wav": {
-   "sha": "2ea8799b73d97aa3b9b5383ff96a560d561f270fc4e25d0b17c3947df002e28f",
-   "tam": 19577,
-   "tamz": 19577,
+   "sha": "b1817080d6031ae3e7e92519eedbf227631fa6637fa10e59b9d9c03b1e08b688",
+   "tam": 33860,
+   "tamz": 33860,
    "z": 0
   },
   "sons/passo_neve_3.wav": {
-   "sha": "02b10808c58f2111e4ab51dfea01b1455f8b0757b89f0e1ce3cb91c6537061d0",
-   "tam": 19641,
-   "tamz": 19641,
+   "sha": "92a8248eb258d5d52ae93a5737acae753d5715dafccb32a1555d71411a895181",
+   "tam": 33655,
+   "tamz": 33655,
    "z": 0
   },
   "sons/passo_neve_4.wav": {
-   "sha": "556a7779e366db4be1da12304044e60a3f51662bba98e52289f46c65a273002b",
-   "tam": 19428,
-   "tamz": 19428,
+   "sha": "d45fb00717fc721e1f5220a3b0b601050f58e1e90705ea674c7bee6bbcb01237",
+   "tam": 31609,
+   "tamz": 31609,
+   "z": 0
+  },
+  "sons/passo_neve_5.wav": {
+   "sha": "5e9f0d559d661465dbc84323f69fbb483e756cacefcd999ce4abc4d866ff7f33",
+   "tam": 29637,
+   "tamz": 29637,
+   "z": 0
+  },
+  "sons/passo_neve_6.wav": {
+   "sha": "dfdb50c28168a44c0065ccd038b1d4444213161581907bebe2ae656b47047e80",
+   "tam": 29497,
+   "tamz": 29497,
+   "z": 0
+  },
+  "sons/passo_neve_7.wav": {
+   "sha": "e0cc7f5dbccea4c77d16ff84f70c7ffc2eac74e09663ac15d84a5debfcc4a865",
+   "tam": 31408,
+   "tamz": 31408,
+   "z": 0
+  },
+  "sons/passo_neve_8.wav": {
+   "sha": "ece81df14b23013c1d198d525af9077b545515888c4736a49b17892e11250c93",
+   "tam": 30756,
+   "tamz": 30756,
    "z": 0
   },
   "sons/passo_pedra.wav": {
-   "sha": "4d002e034a079b80113d1f590c75bee6cbe1b9ebd214f4b8c18d390e2fb730fc",
-   "tam": 11057,
-   "tamz": 11057,
+   "sha": "6bb3dc125a6abab60afa2a6709d72c7ebb0c1a7839aa8efebffc76402f0adba1",
+   "tam": 19726,
+   "tamz": 19726,
    "z": 0
   },
   "sons/passo_pedra_2.wav": {
-   "sha": "4cb2e26f6a5f68e1dc496e43970b1b12fa426e831d8c207364c2320ab3f1c602",
-   "tam": 10612,
-   "tamz": 10612,
+   "sha": "abb4a14ad04d8c2bcf2535f6642dd8f168fbae07f934e5aea64b2dbcae17a6bc",
+   "tam": 19595,
+   "tamz": 19595,
    "z": 0
   },
   "sons/passo_pedra_3.wav": {
-   "sha": "ccada9ec3c61ccaa121ce31f8b1bbc49997602b45aaf66f87edc6dcd6d423211",
-   "tam": 10714,
-   "tamz": 10714,
+   "sha": "8d39dc0bfbee43259c8a2147787cd6f36311e26e83604fafd89ceb6ce00c0510",
+   "tam": 21655,
+   "tamz": 21655,
    "z": 0
   },
   "sons/passo_pedra_4.wav": {
-   "sha": "4a9fa60341132d8b19e99b24a4ec8d54b184981e1c39672555c4c6dd3dff6750",
-   "tam": 10624,
-   "tamz": 10624,
+   "sha": "1967da7416f4406218bee103aca5af9a295e278c0716d3460e43a794d1013f5c",
+   "tam": 20530,
+   "tamz": 20530,
+   "z": 0
+  },
+  "sons/passo_pedra_5.wav": {
+   "sha": "1d09816ca533ade71ba701f058835ebfff9a719b1d213343cdb28688a1d44887",
+   "tam": 19607,
+   "tamz": 19607,
+   "z": 0
+  },
+  "sons/passo_pedra_6.wav": {
+   "sha": "c3d3c7cfbb6a5c7aa2cbee95dad99db477e9efe805d6611c60edef2eba980b96",
+   "tam": 17678,
+   "tamz": 17678,
+   "z": 0
+  },
+  "sons/passo_pedra_7.wav": {
+   "sha": "9dbf9ca70cfd087b4bd38b8710c47009308341e536828df9e5ff51f99cad2573",
+   "tam": 21615,
+   "tamz": 21615,
+   "z": 0
+  },
+  "sons/passo_pedra_8.wav": {
+   "sha": "c00d9623b7d29ea564dbc3a181d0b0a9e779a0f6f67569bc72da44afb94ecf09",
+   "tam": 19086,
+   "tamz": 19086,
    "z": 0
   },
   "sons/passo_terra.wav": {
-   "sha": "560886257028771e73400adc39df71b46c6c718c8ddb105c3a604cc93b544f0b",
-   "tam": 14936,
-   "tamz": 14936,
+   "sha": "31d058fc60062b4d401e6d6c44de1911f677f44f29fe4c29bcef256dd205a91e",
+   "tam": 27873,
+   "tamz": 27873,
    "z": 0
   },
   "sons/passo_terra_2.wav": {
-   "sha": "0febd1cf9cedce6c1078ce934031d701f74d081701e0d82fccc8d137bb62173a",
-   "tam": 14860,
-   "tamz": 14860,
+   "sha": "22c2df08f119ba1adce53c39f1ce9a7a76240ba1b961297b06bb69a282c9c624",
+   "tam": 26801,
+   "tamz": 26801,
    "z": 0
   },
   "sons/passo_terra_3.wav": {
-   "sha": "9de051589246d3af5aa4c4ba826240550ac10ee5daf43ba85c16742057228113",
-   "tam": 14938,
-   "tamz": 14938,
+   "sha": "3dddce06398890336ce1d7c1f7f4c523773b1e2908caa612c6669b71caa33364",
+   "tam": 28118,
+   "tamz": 28118,
    "z": 0
   },
   "sons/passo_terra_4.wav": {
-   "sha": "2ca6fcf534d18d7eddc6ea6cb5998a7850772c7644fb63cc2333a2d001c778cb",
-   "tam": 14923,
-   "tamz": 14923,
+   "sha": "5eb5f10cd009805f3623b9aa995ac21a0edf49ebfaaa872de26008b8ae2d8eb8",
+   "tam": 26011,
+   "tamz": 26011,
+   "z": 0
+  },
+  "sons/passo_terra_5.wav": {
+   "sha": "8e681effde2e974309094ea70f22beba5d4af5f6280bcf50a6bcaa72c3a100dd",
+   "tam": 26586,
+   "tamz": 26586,
+   "z": 0
+  },
+  "sons/passo_terra_6.wav": {
+   "sha": "8172d04aa9df4cb8aa74754d563e5e3c91baae8b25ae3573e5a9cdb8e3994ce8",
+   "tam": 26913,
+   "tamz": 26913,
+   "z": 0
+  },
+  "sons/passo_terra_7.wav": {
+   "sha": "251517f728f35ffa0490038317bcd503788244c266aadd448dc95a0bb06c18f9",
+   "tam": 27953,
+   "tamz": 27953,
+   "z": 0
+  },
+  "sons/passo_terra_8.wav": {
+   "sha": "a9768a2701fff069b9a562e463abb650b759ab6384c6241dce84d6d921361d86",
+   "tam": 29535,
+   "tamz": 29535,
    "z": 0
   },
   "sons/skill_barreira.wav": {
