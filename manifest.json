@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011235431,
+ "build": 20261012130206,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -866,15 +866,15 @@
    "z": 0
   },
   "interiores_assets/interior_caldeira.png": {
-   "sha": "cc0ae9fd1b4be5eab2bfb8824aa35ea50c104bfb185dde36c6a58154be23e52d",
-   "tam": 70099,
-   "tamz": 70099,
+   "sha": "83c48ba434248f928540ba1ecc39c23a39da13b9504aaaf14b7c818931ad95eb",
+   "tam": 70225,
+   "tamz": 70225,
    "z": 0
   },
   "interiores_assets/interior_cripta.png": {
-   "sha": "6cf92da83973443266e29d4c3f0f2ffc58fdfd1bae5a9c15549f3bec5b69d8c9",
-   "tam": 51635,
-   "tamz": 51635,
+   "sha": "59327971c464499c334de4366104d7776693998889d094479d766c3d03386fee",
+   "tam": 53209,
+   "tamz": 53209,
    "z": 0
   },
   "interiores_assets/interior_dungeon.png": {
