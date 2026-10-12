@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261011223453,
+ "build": 20261011224713,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1346,9 +1346,9 @@
    "z": 0
   },
   "som.py": {
-   "sha": "7eb789818101568186f3a0681ea13f531641dc373b3ae4490f2fed46aea484d5",
-   "tam": 3332,
-   "tamz": 3332,
+   "sha": "f3569759ae9cd8d3a8d7a29917c1fc7f8c10222efca6f49db8de61de28e1d79d",
+   "tam": 4136,
+   "tamz": 4136,
    "z": 0
   },
   "sons/abate.wav": {
