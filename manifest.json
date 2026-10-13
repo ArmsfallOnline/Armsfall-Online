@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261012130206,
+ "build": 20261012222845,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -845,6 +845,18 @@
    "sha": "82db224084b7347c125c925d2e260779cd60a3893d5788167cae16782c29361a",
    "tam": 13463,
    "tamz": 13463,
+   "z": 0
+  },
+  "interior_caldeira.png": {
+   "sha": "b7b9a122001528607f3f3a5e7606df2631069da2a908b5d0251484810c96d491",
+   "tam": 238635,
+   "tamz": 238635,
+   "z": 0
+  },
+  "interior_cripta.png": {
+   "sha": "45e7524cd9dc012375cd5acdb83a1392a2ee6b202e1593fe441dc39bbf3c60c1",
+   "tam": 207437,
+   "tamz": 207437,
    "z": 0
   },
   "interiores.py": {
