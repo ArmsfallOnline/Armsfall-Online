@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261012222845,
+ "build": 20261012222922,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -847,18 +847,6 @@
    "tamz": 13463,
    "z": 0
   },
-  "interior_caldeira.png": {
-   "sha": "b7b9a122001528607f3f3a5e7606df2631069da2a908b5d0251484810c96d491",
-   "tam": 238635,
-   "tamz": 238635,
-   "z": 0
-  },
-  "interior_cripta.png": {
-   "sha": "45e7524cd9dc012375cd5acdb83a1392a2ee6b202e1593fe441dc39bbf3c60c1",
-   "tam": 207437,
-   "tamz": 207437,
-   "z": 0
-  },
   "interiores.py": {
    "sha": "fce692a657b8e9ab79b059d27f633109aa45b6bf6b2a1ae25eb4ab56bb07c669",
    "tam": 7944,
@@ -878,15 +866,15 @@
    "z": 0
   },
   "interiores_assets/interior_caldeira.png": {
-   "sha": "83c48ba434248f928540ba1ecc39c23a39da13b9504aaaf14b7c818931ad95eb",
-   "tam": 70225,
-   "tamz": 70225,
+   "sha": "a5918540d1bda4e9038ac0e0fa0663c4a6ca13c5d08733a2efacb25009755797",
+   "tam": 238635,
+   "tamz": 238635,
    "z": 0
   },
   "interiores_assets/interior_cripta.png": {
-   "sha": "59327971c464499c334de4366104d7776693998889d094479d766c3d03386fee",
-   "tam": 53209,
-   "tamz": 53209,
+   "sha": "226b6ecd0a6040e1136018815b047221e94cfb3164bd965a2fe0cb5cf604bc2f",
+   "tam": 207437,
+   "tamz": 207437,
    "z": 0
   },
   "interiores_assets/interior_dungeon.png": {
