@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261013212923,
+ "build": 20261014053909,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -266,9 +266,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "9e4401131976275ef7aee32010e07c17cf71c075ce9b7d75eda6a705ab284eed",
-   "tam": 92390,
-   "tamz": 92390,
+   "sha": "f379d27ac0fae3253aab673529c5541712f406bb450929ec4c8f66a80873384e",
+   "tam": 95778,
+   "tamz": 95778,
    "z": 0
   },
   "clima.py": {
@@ -830,15 +830,15 @@
    "z": 0
   },
   "fuzil_lava.png": {
-   "sha": "7ad4c605b83d9ae68acf1e84ca6a3b9a55c640ad0bb4f6c547ccc89e76780c63",
-   "tam": 43671,
-   "tamz": 43671,
+   "sha": "2ab7a0fd7bb6248fa7ce386a3f4dbf4f27b3031df4d3db4085477c6b3b011014",
+   "tam": 50681,
+   "tamz": 50681,
    "z": 0
   },
   "fuzil_osso.png": {
-   "sha": "93b761636abdc8cf19929b3a69fb76a626cf6e14d287dc63d0aae0567432fbc0",
-   "tam": 63147,
-   "tamz": 63147,
+   "sha": "8d906dc1d9a4de88aa70d855030225e08e107b41f17b4c816ad6c865cd45a7bc",
+   "tam": 68611,
+   "tamz": 68611,
    "z": 0
   },
   "golem_areia.png": {
@@ -866,9 +866,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "b1b8b6ccbbdd34fa4614297e8dcdfe600875b342743b640d4aa8e0f06f3e1d4c",
-   "tam": 8676,
-   "tamz": 8676,
+   "sha": "af0f97b6a21ad763630d2a49804ac92fed11119c630d29881eba68060d421bf4",
+   "tam": 8721,
+   "tamz": 8721,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
@@ -950,9 +950,9 @@
    "z": 0
   },
   "laboratorio.py": {
-   "sha": "3905ccc81795e78f8111b0bab5bf54ee23458725c9a0b7602f18df4636bdb864",
-   "tam": 5255,
-   "tamz": 5255,
+   "sha": "9af99fed33ddbbe346005b31b6b92f8c60f8b61f7a8d1dc7b4f36e1d3a766d8a",
+   "tam": 5416,
+   "tamz": 5416,
    "z": 0
   },
   "lich_esquecido.png": {
@@ -1064,15 +1064,15 @@
    "z": 0
   },
   "pistola_lava.png": {
-   "sha": "cccc804c31c78c114b807eebeb0ad5d1dbfe023dc0d61ebc5b39c493639adfad",
-   "tam": 15834,
-   "tamz": 15834,
+   "sha": "a7d80d61d2656edd14012f0d98c3a9c3fc33629b2d22db723ec08c8f950e78e8",
+   "tam": 17740,
+   "tamz": 17740,
    "z": 0
   },
   "pistola_osso.png": {
-   "sha": "bfb77cb7dd54fdd8e57c2f761ac56f153faf8edc74097bfb428f4f46912c885a",
-   "tam": 19079,
-   "tamz": 19079,
+   "sha": "d13795c5b2ab3dfb403e26489972958669868423e587e5b6836f46cdaebe9b32",
+   "tam": 20159,
+   "tamz": 20159,
    "z": 0
   },
   "player.png": {
@@ -1190,15 +1190,15 @@
    "z": 0
   },
   "shotgun_lava.png": {
-   "sha": "10cbac560c89fd64d3c92a4647918772a334f2706b865fcf1352c0d11ebea2ba",
-   "tam": 32151,
-   "tamz": 32151,
+   "sha": "0473b8236594a7898da9ac0c60103dc23cd65be76e3506a4f381849f57ec4e18",
+   "tam": 39293,
+   "tamz": 39293,
    "z": 0
   },
   "shotgun_osso.png": {
-   "sha": "d4151fcc4431c38e06be0db7ceeb2a6eeff660bacd0e92ca9a53f91a353e4511",
-   "tam": 49082,
-   "tamz": 49082,
+   "sha": "190e0ddb5a8b7e63752c642968c4171a899fd92e821bad4485f8c223aac92beb",
+   "tam": 55579,
+   "tamz": 55579,
    "z": 0
   },
   "skills_icones/barreira.png": {
