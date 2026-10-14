@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261012225009,
+ "build": 20261013212923,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -266,9 +266,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "cce762d10597089ac0b343a22b13303cf75da03d2c4ddd32035f558fd10945f0",
-   "tam": 88657,
-   "tamz": 88657,
+   "sha": "9e4401131976275ef7aee32010e07c17cf71c075ce9b7d75eda6a705ab284eed",
+   "tam": 92390,
+   "tamz": 92390,
    "z": 0
   },
   "clima.py": {
@@ -823,6 +823,24 @@
    "tamz": 110222,
    "z": 0
   },
+  "fuzil_espectral.png": {
+   "sha": "7e48017ad2235f09a8797747942a719afc22df8106c1dee8c81668defe9ec953",
+   "tam": 56998,
+   "tamz": 56998,
+   "z": 0
+  },
+  "fuzil_lava.png": {
+   "sha": "7ad4c605b83d9ae68acf1e84ca6a3b9a55c640ad0bb4f6c547ccc89e76780c63",
+   "tam": 43671,
+   "tamz": 43671,
+   "z": 0
+  },
+  "fuzil_osso.png": {
+   "sha": "93b761636abdc8cf19929b3a69fb76a626cf6e14d287dc63d0aae0567432fbc0",
+   "tam": 63147,
+   "tamz": 63147,
+   "z": 0
+  },
   "golem_areia.png": {
    "sha": "82990c30539fc7b7221d592d5a33fa3924727638ba95ffa1939bddf89c02c84a",
    "tam": 433745,
@@ -848,9 +866,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "fce692a657b8e9ab79b059d27f633109aa45b6bf6b2a1ae25eb4ab56bb07c669",
-   "tam": 7944,
-   "tamz": 7944,
+   "sha": "b1b8b6ccbbdd34fa4614297e8dcdfe600875b342743b640d4aa8e0f06f3e1d4c",
+   "tam": 8676,
+   "tamz": 8676,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
@@ -871,6 +889,12 @@
    "tamz": 238635,
    "z": 0
   },
+  "interiores_assets/interior_clinica.png": {
+   "sha": "2cf7bc2c4a9a0fba06fdd54028a8d470777490c578765f81e8c0a538ee9d289c",
+   "tam": 109079,
+   "tamz": 109079,
+   "z": 0
+  },
   "interiores_assets/interior_cripta.png": {
    "sha": "226b6ecd0a6040e1136018815b047221e94cfb3164bd965a2fe0cb5cf604bc2f",
    "tam": 207437,
@@ -881,6 +905,12 @@
    "sha": "8175e12bf81278ad52483d36f5a604168bf163e6b5b2d7b71f8e51b532dfb2ac",
    "tam": 384480,
    "tamz": 384480,
+   "z": 0
+  },
+  "interiores_assets/interior_laboratorio.png": {
+   "sha": "95549a1b4ee2f032b76c0bc37d67053e07854764c5bd7b67671ea40d87cd4507",
+   "tam": 13859,
+   "tamz": 13859,
    "z": 0
   },
   "interiores_assets/interior_mercado.png": {
@@ -917,6 +947,12 @@
    "sha": "40edcea24bf3cf4aaa3f5429a09efc7cbfb51cc40c87dc5acee975086a7714cf",
    "tam": 2107742,
    "tamz": 2107742,
+   "z": 0
+  },
+  "laboratorio.py": {
+   "sha": "3905ccc81795e78f8111b0bab5bf54ee23458725c9a0b7602f18df4636bdb864",
+   "tam": 5255,
+   "tamz": 5255,
    "z": 0
   },
   "lich_esquecido.png": {
@@ -1019,6 +1055,24 @@
    "sha": "c3929a5d9fa1c8921a011f149c95bf6a35a79ebe598283096a43c47a34f4a2dc",
    "tam": 21777,
    "tamz": 21777,
+   "z": 0
+  },
+  "pistola_espectral.png": {
+   "sha": "8ad02a988a8c67496b6604a06e27cf5e15d76472a3fa8e28595b045bf3973933",
+   "tam": 18917,
+   "tamz": 18917,
+   "z": 0
+  },
+  "pistola_lava.png": {
+   "sha": "cccc804c31c78c114b807eebeb0ad5d1dbfe023dc0d61ebc5b39c493639adfad",
+   "tam": 15834,
+   "tamz": 15834,
+   "z": 0
+  },
+  "pistola_osso.png": {
+   "sha": "bfb77cb7dd54fdd8e57c2f761ac56f153faf8edc74097bfb428f4f46912c885a",
+   "tam": 19079,
+   "tamz": 19079,
    "z": 0
   },
   "player.png": {
@@ -1127,6 +1181,24 @@
    "sha": "ea6346a8bcc57d73b6ed679cbdf3e4a9f742aba1b508c39a68e988eff4bb90de",
    "tam": 65742,
    "tamz": 65742,
+   "z": 0
+  },
+  "shotgun_espectral.png": {
+   "sha": "df9518fa0fedd134df226c1ebbace9064d9a73030f302032f74e777b58d13b3d",
+   "tam": 43385,
+   "tamz": 43385,
+   "z": 0
+  },
+  "shotgun_lava.png": {
+   "sha": "10cbac560c89fd64d3c92a4647918772a334f2706b865fcf1352c0d11ebea2ba",
+   "tam": 32151,
+   "tamz": 32151,
+   "z": 0
+  },
+  "shotgun_osso.png": {
+   "sha": "d4151fcc4431c38e06be0db7ceeb2a6eeff660bacd0e92ca9a53f91a353e4511",
+   "tam": 49082,
+   "tamz": 49082,
    "z": 0
   },
   "skills_icones/barreira.png": {
