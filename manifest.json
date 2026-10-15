@@ -1,12 +1,18 @@
 {
  "formato": 1,
- "build": 20261015080303,
+ "build": 20261015082322,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
  "launcher_url": "",
  "cifra": 1,
  "arquivos": {
+  "_previa_arena.png": {
+   "sha": "07c661685ef2be02dc21296339d616e81e34549d827d4a022bff6d602b2b363b",
+   "tam": 3541935,
+   "tamz": 3541935,
+   "z": 0
+  },
   "ambiente_som.py": {
    "sha": "bd6188b8a86094d75bb05b2e11ec5b971f47fc703e67b784369d1cd572ca331d",
    "tam": 3020,
@@ -266,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "4cc5fa69258887831a24fdaf49f5b017a44541d65f038a192c9e5bea0f27cefd",
-   "tam": 102692,
-   "tamz": 102692,
+   "sha": "350f08fde2e10fb75c1b14fb68a20bd7601ce2166698671cc6cde76c5ae909f9",
+   "tam": 103059,
+   "tamz": 103059,
    "z": 0
   },
   "clima.py": {
@@ -878,15 +884,63 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "ecae1305cf0170195ddba8d8c3e86a4efb6e0948b209e8c196ddace10b07832a",
-   "tam": 9431,
-   "tamz": 9431,
+   "sha": "a08327d776a40f34a442f8541aa6c48c50dfa34f1c12bdf98b49a9b7f23fc498",
+   "tam": 9491,
+   "tamz": 9491,
    "z": 0
   },
-  "interiores_assets/interior_arena.png": {
-   "sha": "4e55cebd5b59f3abdbeae83d1844ce8052c3eadd317f6d4ffadd0c4ae586fec4",
-   "tam": 71389,
-   "tamz": 71389,
+  "interiores_assets/interior_arena_0_0.png": {
+   "sha": "7a0cbb0575a2842cbe78b33efb957bb0fc5150043d89d58ae98684bff3f943ba",
+   "tam": 419470,
+   "tamz": 419470,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_0_1.png": {
+   "sha": "99ab1ddd245bf4242356fddf59df7ef0e4afbdb5dae18ee5117cb09055a5658a",
+   "tam": 444148,
+   "tamz": 444148,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_0_2.png": {
+   "sha": "4aff358b6cf2849862b424af95ff01117919635d72b765c7b2f032a5677f407e",
+   "tam": 333812,
+   "tamz": 333812,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_1_0.png": {
+   "sha": "d8c5987d2ea06121694dfcb292d9a2caa0d300ae4b9059b35592beabcdf6c4a1",
+   "tam": 429612,
+   "tamz": 429612,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_1_1.png": {
+   "sha": "3a0a9edb70fd3cb8e67e0feb039e0287a0885cccd1602a3aa526b88f2210f136",
+   "tam": 418679,
+   "tamz": 418679,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_1_2.png": {
+   "sha": "1d9d1d70cf0b359f0da11983238e40431859616b46e1b32e065e7683fe8af16f",
+   "tam": 320670,
+   "tamz": 320670,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_2_0.png": {
+   "sha": "b8ba87dbd3634cd3406797adb9d942fd725d231ec3330ffb5674286fae1cef51",
+   "tam": 421624,
+   "tamz": 421624,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_2_1.png": {
+   "sha": "c4ffefb0d45428bd526d0216191ffef41024f9fd34371a1dbe2347b68cf7ec24",
+   "tam": 440560,
+   "tamz": 440560,
+   "z": 0
+  },
+  "interiores_assets/interior_arena_2_2.png": {
+   "sha": "bcaa70be6547f92b1d506a51c0bba141994f6da362c630cf8059f96e7cec7266",
+   "tam": 333642,
+   "tamz": 333642,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
