@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261014223942,
+ "build": 20261015075148,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -266,9 +266,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "ea8f631cbadcc6e04723a23e55dbccf6656a923cb54fd0ba52fc5df2df2bdd51",
-   "tam": 101164,
-   "tamz": 101164,
+   "sha": "8a9b3db587e7e5e93672e8d91860a356609931304a4a89dfa1f1178b31a814f7",
+   "tam": 102289,
+   "tamz": 102289,
    "z": 0
   },
   "clima.py": {
@@ -878,9 +878,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "af0f97b6a21ad763630d2a49804ac92fed11119c630d29881eba68060d421bf4",
-   "tam": 8721,
-   "tamz": 8721,
+   "sha": "17c4c64722609fdd823b483787aba4d8432aa5c138e2c0a5c416b3270189af40",
+   "tam": 9255,
+   "tamz": 9255,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
