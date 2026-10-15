@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261015075148,
+ "build": 20261015080303,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -266,9 +266,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "8a9b3db587e7e5e93672e8d91860a356609931304a4a89dfa1f1178b31a814f7",
-   "tam": 102289,
-   "tamz": 102289,
+   "sha": "4cc5fa69258887831a24fdaf49f5b017a44541d65f038a192c9e5bea0f27cefd",
+   "tam": 102692,
+   "tamz": 102692,
    "z": 0
   },
   "clima.py": {
@@ -878,9 +878,15 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "17c4c64722609fdd823b483787aba4d8432aa5c138e2c0a5c416b3270189af40",
-   "tam": 9255,
-   "tamz": 9255,
+   "sha": "ecae1305cf0170195ddba8d8c3e86a4efb6e0948b209e8c196ddace10b07832a",
+   "tam": 9431,
+   "tamz": 9431,
+   "z": 0
+  },
+  "interiores_assets/interior_arena.png": {
+   "sha": "4e55cebd5b59f3abdbeae83d1844ce8052c3eadd317f6d4ffadd0c4ae586fec4",
+   "tam": 71389,
+   "tamz": 71389,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
