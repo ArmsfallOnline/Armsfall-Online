@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261014213220,
+ "build": 20261014223942,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -248,9 +248,9 @@
    "z": 0
   },
   "cidade_assets/cidade_base.png": {
-   "sha": "c246996d9e90bcf3e2a066abbff2f2e2246cf6c6f64de492a0388d54e37f8c09",
-   "tam": 154811,
-   "tamz": 154811,
+   "sha": "f1d305750a017220477e63f46595bb5a131479b5d0ce2786dacae8f75f16313c",
+   "tam": 155295,
+   "tamz": 155295,
    "z": 0
   },
   "cidade_assets/cidade_topo.png": {
