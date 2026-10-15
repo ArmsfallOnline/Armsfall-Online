@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261015082322,
+ "build": 20261015083625,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -902,9 +902,9 @@
    "z": 0
   },
   "interiores_assets/interior_arena_0_2.png": {
-   "sha": "4aff358b6cf2849862b424af95ff01117919635d72b765c7b2f032a5677f407e",
-   "tam": 333812,
-   "tamz": 333812,
+   "sha": "f624a16d9dd7e1857875b0dd4ffd3f07e62ee8f2be9d9157df450b4524e5e606",
+   "tam": 52209,
+   "tamz": 52209,
    "z": 0
   },
   "interiores_assets/interior_arena_1_0.png": {
@@ -920,9 +920,9 @@
    "z": 0
   },
   "interiores_assets/interior_arena_1_2.png": {
-   "sha": "1d9d1d70cf0b359f0da11983238e40431859616b46e1b32e065e7683fe8af16f",
-   "tam": 320670,
-   "tamz": 320670,
+   "sha": "a07342b3ad219171afee4396d50c0b41d029fa0e2c3cff91672ea78c178c1552",
+   "tam": 51641,
+   "tamz": 51641,
    "z": 0
   },
   "interiores_assets/interior_arena_2_0.png": {
@@ -938,9 +938,9 @@
    "z": 0
   },
   "interiores_assets/interior_arena_2_2.png": {
-   "sha": "bcaa70be6547f92b1d506a51c0bba141994f6da362c630cf8059f96e7cec7266",
-   "tam": 333642,
-   "tamz": 333642,
+   "sha": "02e7dd342a2df13694e0a623a88bbf7517ac49cd7c3d1b4dd992a4a91a58df0b",
+   "tam": 52007,
+   "tamz": 52007,
    "z": 0
   },
   "interiores_assets/interior_armas.png": {
@@ -956,9 +956,9 @@
    "z": 0
   },
   "interiores_assets/interior_caldeira.png": {
-   "sha": "a5918540d1bda4e9038ac0e0fa0663c4a6ca13c5d08733a2efacb25009755797",
-   "tam": 238635,
-   "tamz": 238635,
+   "sha": "43acf8085996a9bfe617a90d164cf85ffaf65faa8b70ad6fad6966baeecf5655",
+   "tam": 2173214,
+   "tamz": 2173214,
    "z": 0
   },
   "interiores_assets/interior_clinica.png": {
@@ -968,9 +968,9 @@
    "z": 0
   },
   "interiores_assets/interior_cripta.png": {
-   "sha": "226b6ecd0a6040e1136018815b047221e94cfb3164bd965a2fe0cb5cf604bc2f",
-   "tam": 207437,
-   "tamz": 207437,
+   "sha": "ae389be0449376facab1943cd7708ae704c77d1b863b8b2b2612fdc868f8246f",
+   "tam": 1876438,
+   "tamz": 1876438,
    "z": 0
   },
   "interiores_assets/interior_dungeon.png": {
