@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261016075328,
+ "build": 20261016081921,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "0bca1b9a90a6be687489cefc77d34d01bf3fb0d8d8384f2663e0a250de39b75c",
-   "tam": 111134,
-   "tamz": 111134,
+   "sha": "84093c6c849dd54fc1674a9682a2d92be0ec66a8a4a775df349f36b83307bf12",
+   "tam": 116768,
+   "tamz": 116768,
    "z": 0
   },
   "clima.py": {
@@ -884,9 +884,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "6ae4d31919fc0c25469f2382b342f857339e550357ed67091c2155aac4b82c22",
-   "tam": 11543,
-   "tamz": 11543,
+   "sha": "a5550201a3094252e4df658d9aaa6ea5aafd090be6e9052df824017ab1d2903b",
+   "tam": 13588,
+   "tamz": 13588,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -956,9 +956,381 @@
    "z": 0
   },
   "interiores_assets/interior_base_guilda.png": {
-   "sha": "173767d901069f7794c802001bcce9f5eb6bbffaf318deb92ed093de625d1cbe",
-   "tam": 801972,
-   "tamz": 801972,
+   "sha": "cedb682451a7e26b3380824c0617a2bf0d3c53a0c11de0df741b5d70629f5557",
+   "tam": 906792,
+   "tamz": 906792,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_0_0.png": {
+   "sha": "34cd1f27b8539e665e77156e6ec413c346231b2da05e6645e67c26c6860584ae",
+   "tam": 155393,
+   "tamz": 155393,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_0_1.png": {
+   "sha": "5091ad2b75d49c44e898fbfbd5da39ea23510caab505884bd3705c7cc9f3161a",
+   "tam": 160838,
+   "tamz": 160838,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_0_2.png": {
+   "sha": "c278596028873fb90fd9e80276e61c7849af4480294baf3cdfe93ef39a28599a",
+   "tam": 147540,
+   "tamz": 147540,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_1_0.png": {
+   "sha": "fe0764efd5c30c2e35a1ec280419ba59f36e6ad9af21387a1dae4b01439c8496",
+   "tam": 152869,
+   "tamz": 152869,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_1_1.png": {
+   "sha": "396fcd92c9b0d054a320b984fc9660d0e9feccbcfabff8fed2ac9f3667c528c4",
+   "tam": 141768,
+   "tamz": 141768,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_1_2.png": {
+   "sha": "965c93df88d21910131dced5398b57fb24d2704b899d7a106a8c22598705ec34",
+   "tam": 148939,
+   "tamz": 148939,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_2_0.png": {
+   "sha": "65974db5586d6f08c16f5f1d133b523084cc04dae12cfe5737c14ffe1db716b7",
+   "tam": 151848,
+   "tamz": 151848,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_2_1.png": {
+   "sha": "269ec141270237453e8ee9be5d48224269af3a29bc2650b512627257f0cda8cb",
+   "tam": 141956,
+   "tamz": 141956,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_2_2.png": {
+   "sha": "ab3a22768de8b558d9f2e33664a20c437deb6b7c4fc9d28364b5006fc56c1ae7",
+   "tam": 148065,
+   "tamz": 148065,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_3_0.png": {
+   "sha": "2c1e43830b84ce98fe62d54ab2c16793a41b0694da40e302a20d832932f383ba",
+   "tam": 159609,
+   "tamz": 159609,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_3_1.png": {
+   "sha": "a29d8843f5a4720ad4c4deb9d379ff8687c50bf24720adf20606287a42da9507",
+   "tam": 160379,
+   "tamz": 160379,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n1_3_2.png": {
+   "sha": "f5be45e2723e3db2ec3f0ea11e9a44f7a3b856237f32bf9144ca161fc2c33696",
+   "tam": 147394,
+   "tamz": 147394,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_0_0.png": {
+   "sha": "c2013b9a54f043b86cecbfc59fdffb2af2c9a37ed21d0b3d1ca5d86fa47780ec",
+   "tam": 155417,
+   "tamz": 155417,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_0_1.png": {
+   "sha": "8349d46116784569e1f6adb1ffa86a40d7bfda3e8f50b864e0ed1f96ecf75851",
+   "tam": 160466,
+   "tamz": 160466,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_0_2.png": {
+   "sha": "a492e2bb75cf5621d71e94505cdeced0ce62753acebe3ea5d32a3fba13585232",
+   "tam": 157687,
+   "tamz": 157687,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_0_3.png": {
+   "sha": "c20f7f0bc5739bc8749c90e32f7999505e1ae13c0618e7bd3f5f7b7083e96c0b",
+   "tam": 141253,
+   "tamz": 141253,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_1_0.png": {
+   "sha": "2c40d7b871d89b47977551be488503608f48dbbf526ce5b3c35f0dad4c5f41bc",
+   "tam": 152869,
+   "tamz": 152869,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_1_1.png": {
+   "sha": "754a28c149da163b77920f9208b337adc164b8fd733593b82c258285b3e41a9b",
+   "tam": 142114,
+   "tamz": 142114,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_1_2.png": {
+   "sha": "218e34a3c2a305815e1353efd360603a3bf069f4cf1adff7eade91708edeaafb",
+   "tam": 141654,
+   "tamz": 141654,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_1_3.png": {
+   "sha": "2c482e7e38ff0cec1707f46bef89a38b66a3c0b18b3d2aa33da8bed1e2c6ea09",
+   "tam": 132424,
+   "tamz": 132424,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_2_0.png": {
+   "sha": "c9afeca393cc08ef2afcdf5881b91b055ca78aff5f6ee9893b7cc562ad81ed09",
+   "tam": 152000,
+   "tamz": 152000,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_2_1.png": {
+   "sha": "64a91c85c756ef719830ded84a38a7cf44c06c2e88a1c3a3a4cc5beecd61aa01",
+   "tam": 141990,
+   "tamz": 141990,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_2_2.png": {
+   "sha": "7e9a5b0eb40dc535dcf5ca189ec5dd5b1d3207274ee7420060516da1ec3ea474",
+   "tam": 142089,
+   "tamz": 142089,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_2_3.png": {
+   "sha": "5a8688d41307670a4522dce2b8f74aea72ab18434963379b4d4cf2ab9d178ef7",
+   "tam": 160940,
+   "tamz": 160940,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_3_0.png": {
+   "sha": "eff0d65acf4acf32250c7d6bf37d1a62864a15cc03dfa08759d79414114a8725",
+   "tam": 152417,
+   "tamz": 152417,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_3_1.png": {
+   "sha": "0187748efa6a50929540b214db065c5423037103621844a3bf8087ee966744d8",
+   "tam": 141771,
+   "tamz": 141771,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_3_2.png": {
+   "sha": "8dac9f64921a9d25c00bf3f4679073b42d28d285895eb3f8ff7a08b74652c194",
+   "tam": 142162,
+   "tamz": 142162,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_3_3.png": {
+   "sha": "11a2f7f40082b77abc6576b93a9aec8cfbc78b8645a43e26de4759ceec68a7ff",
+   "tam": 132884,
+   "tamz": 132884,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_4_0.png": {
+   "sha": "786d64ebdb4a8a1196ae85f327456f9fb4f34252e6b1f22cf4a3ca408831fbcf",
+   "tam": 159034,
+   "tamz": 159034,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_4_1.png": {
+   "sha": "71939fa3b70b38f46a2e8745613157f65f5499b8e685ad5b39e7b95c18e7b220",
+   "tam": 160742,
+   "tamz": 160742,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_4_2.png": {
+   "sha": "22f50ce018bad1f165defb6dd0d48fc6947beee67f85c6dadc8a5bc34e7ce96b",
+   "tam": 157938,
+   "tamz": 157938,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n2_4_3.png": {
+   "sha": "83b49ddaa9096064cabf0439b10ff110f117665c900d835fe0cc43b3be87961b",
+   "tam": 140708,
+   "tamz": 140708,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_0_0.png": {
+   "sha": "b48287172269c5d4753a5e305f948f35edd039e3373c1161b82b8d4f8ba74374",
+   "tam": 155925,
+   "tamz": 155925,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_0_1.png": {
+   "sha": "2ddfba25ba819814aa4d08a86766a5ebbf12896606ead92670edd8daf76be8ac",
+   "tam": 160723,
+   "tamz": 160723,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_0_2.png": {
+   "sha": "83fad3572ce12b6e07c14e2010d8bd75eb50b90de5dd75686012588312d82090",
+   "tam": 157931,
+   "tamz": 157931,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_0_3.png": {
+   "sha": "ef5d23b3f10e4d8525c699f0bc12721d2ec3f3e338e98466fdf10c985ddc5db2",
+   "tam": 161329,
+   "tamz": 161329,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_0_4.png": {
+   "sha": "537012e6db7604f0a52a99ae6da345a2f570eba6f71877d98e07e57c6311edd4",
+   "tam": 145794,
+   "tamz": 145794,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_1_0.png": {
+   "sha": "43a2ea02162cb9af987f3862576666f9d5d261a236c7752e3d58e769f8ff42fb",
+   "tam": 152981,
+   "tamz": 152981,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_1_1.png": {
+   "sha": "ca1cda0a35aade3a9975d3f2ad1ec373b1aa478d158e9e25b989ee95f6305a89",
+   "tam": 141959,
+   "tamz": 141959,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_1_2.png": {
+   "sha": "b352fd8197eca873c4394ec4c3114982e4770c4a9d718ade08502afdbe7c4475",
+   "tam": 142118,
+   "tamz": 142118,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_1_3.png": {
+   "sha": "6a1a422418848565c3d436da4748bd2000283b9c8f84c08f0f63ae936dacdc9e",
+   "tam": 141874,
+   "tamz": 141874,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_1_4.png": {
+   "sha": "b20672fc582c184be0507884bd3acff6372a26cae992e99ff405997eb0d82bee",
+   "tam": 132602,
+   "tamz": 132602,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_2_0.png": {
+   "sha": "ec3e0146cb2fcb4612de17c126aebf99aa2867177b93a78bdc27d8622344caec",
+   "tam": 152557,
+   "tamz": 152557,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_2_1.png": {
+   "sha": "f5c3b8fe294a9a272293b85efe18a951c6888bdd91e5845cc6dbdea7b77642ff",
+   "tam": 141933,
+   "tamz": 141933,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_2_2.png": {
+   "sha": "1e2d6797a42a4fe96d239cc0536ce86a7ab6ceb2c53b281e93138cf0d68f539d",
+   "tam": 141902,
+   "tamz": 141902,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_2_3.png": {
+   "sha": "d423a544a6a61a6da818d788aca7ea12ed7ee9a425e5d0ced06f9b85d445be37",
+   "tam": 141664,
+   "tamz": 141664,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_2_4.png": {
+   "sha": "2c1375a97788d6ca13c3550a3a1b7cb0f9f3697dbe9ae6eb390e041a787d6b1b",
+   "tam": 148941,
+   "tamz": 148941,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_3_0.png": {
+   "sha": "a210d41701b02c74fc6a76cb8e9d8420cfa31fd61d427b29260a078daef099da",
+   "tam": 152292,
+   "tamz": 152292,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_3_1.png": {
+   "sha": "cc8acb699679724d72edb725f58c0d22d955531da2187d6ce238d10f7e1aef41",
+   "tam": 142236,
+   "tamz": 142236,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_3_2.png": {
+   "sha": "8e4a6df3fd192bd65f0e01b2fd62f9e925ebe8edaf1521847320cf31b5790e65",
+   "tam": 142177,
+   "tamz": 142177,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_3_3.png": {
+   "sha": "c65a97929f6106b0003cdc17693bb20ed36989994ce13ebe425890e2a3d0d72f",
+   "tam": 142048,
+   "tamz": 142048,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_3_4.png": {
+   "sha": "79c3c440e4aabe0540f1d4e688ac99495a0555f1b16cf0e08745774f953983b4",
+   "tam": 148390,
+   "tamz": 148390,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_4_0.png": {
+   "sha": "bc687b424bc35f944cf65bc0af90cb6df5a4e30218f4b6d2ab5d6635da066718",
+   "tam": 152195,
+   "tamz": 152195,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_4_1.png": {
+   "sha": "0cdca9f25cce9359e534aa8a014efdf11e2d4e518bdf7c36685023f33e213fd4",
+   "tam": 141894,
+   "tamz": 141894,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_4_2.png": {
+   "sha": "f42d012184c85c5c379da1c4fba736654030f01b08679fff429a17e5648f1798",
+   "tam": 142068,
+   "tamz": 142068,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_4_3.png": {
+   "sha": "8702a961b39f6123956f9107f27d6acd561f902b50f7cb573d963ca404869537",
+   "tam": 141774,
+   "tamz": 141774,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_4_4.png": {
+   "sha": "a7bf995adf6b89e4ec048daa852ed39dea58e35a0319bffcb7de9a0a081822b9",
+   "tam": 132638,
+   "tamz": 132638,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_5_0.png": {
+   "sha": "2673b003abbf3c1eccfb999a1d2cc46997b2c153d4be6d709c4310c8368bd389",
+   "tam": 159034,
+   "tamz": 159034,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_5_1.png": {
+   "sha": "d18a9f8058b5c9a0ee115b66a09a8b0b98bdfd29af723a5065a0d6b784e5cf78",
+   "tam": 160276,
+   "tamz": 160276,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_5_2.png": {
+   "sha": "de5af04da12a9ed43a96efd2f0504e8e1c127cd45c673af816c67e63e7f2f75f",
+   "tam": 158019,
+   "tamz": 158019,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_5_3.png": {
+   "sha": "45293c5d6cedaefc396ceca9e7b4839eebe0722a7c8fb823728a7e0b178c92b7",
+   "tam": 160446,
+   "tamz": 160446,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda_n3_5_4.png": {
+   "sha": "19aca49f67723621f23ac6dcbc3c8df38fbbcb5a0ad020f53912d446e0d66ee8",
+   "tam": 146017,
+   "tamz": 146017,
    "z": 0
   },
   "interiores_assets/interior_caldeira.png": {
