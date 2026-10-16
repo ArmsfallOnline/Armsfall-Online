@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261015211700,
+ "build": 20261016075328,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "f1c81b019222b4f796dc96cea8814d4684110972e2f5e5c72b6ccadf8e2fc6de",
-   "tam": 103057,
-   "tamz": 103057,
+   "sha": "0bca1b9a90a6be687489cefc77d34d01bf3fb0d8d8384f2663e0a250de39b75c",
+   "tam": 111134,
+   "tamz": 111134,
    "z": 0
   },
   "clima.py": {
@@ -884,9 +884,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "96664bb95575988a622099a38072d61ccb924ed89834bcc54024f168d5e8d17e",
-   "tam": 9624,
-   "tamz": 9624,
+   "sha": "6ae4d31919fc0c25469f2382b342f857339e550357ed67091c2155aac4b82c22",
+   "tam": 11543,
+   "tamz": 11543,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -953,6 +953,12 @@
    "sha": "439d46a46cfc7ce7ece32569218837c32046e86d5419ba33ab68810cfc53d255",
    "tam": 187947,
    "tamz": 187947,
+   "z": 0
+  },
+  "interiores_assets/interior_base_guilda.png": {
+   "sha": "173767d901069f7794c802001bcce9f5eb6bbffaf318deb92ed093de625d1cbe",
+   "tam": 801972,
+   "tamz": 801972,
    "z": 0
   },
   "interiores_assets/interior_caldeira.png": {
@@ -1085,6 +1091,12 @@
    "sha": "8175e12bf81278ad52483d36f5a604168bf163e6b5b2d7b71f8e51b532dfb2ac",
    "tam": 384480,
    "tamz": 384480,
+   "z": 0
+  },
+  "interiores_assets/interior_guilda.png": {
+   "sha": "eecf7219a4b9471520975396167ee262407a0f290396e2e0095708d0579c9863",
+   "tam": 429372,
+   "tamz": 429372,
    "z": 0
   },
   "interiores_assets/interior_laboratorio.png": {
