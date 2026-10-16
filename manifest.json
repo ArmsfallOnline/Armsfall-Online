@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261015083625,
+ "build": 20261015211700,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "350f08fde2e10fb75c1b14fb68a20bd7601ce2166698671cc6cde76c5ae909f9",
-   "tam": 103059,
-   "tamz": 103059,
+   "sha": "f1c81b019222b4f796dc96cea8814d4684110972e2f5e5c72b6ccadf8e2fc6de",
+   "tam": 103057,
+   "tamz": 103057,
    "z": 0
   },
   "clima.py": {
@@ -884,9 +884,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "a08327d776a40f34a442f8541aa6c48c50dfa34f1c12bdf98b49a9b7f23fc498",
-   "tam": 9491,
-   "tamz": 9491,
+   "sha": "96664bb95575988a622099a38072d61ccb924ed89834bcc54024f168d5e8d17e",
+   "tam": 9624,
+   "tamz": 9624,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -961,6 +961,60 @@
    "tamz": 2173214,
    "z": 0
   },
+  "interiores_assets/interior_caldeira_0_0.png": {
+   "sha": "d42d623c98530b736410c4713a6d32bf54444c09f41a50de1f7a1eac6d5bc2a4",
+   "tam": 537628,
+   "tamz": 537628,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_0_1.png": {
+   "sha": "aacf4a92a91d9aee34caec73ff6acd6a6640637163a05bc9079f150f8b296fc1",
+   "tam": 586601,
+   "tamz": 586601,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_0_2.png": {
+   "sha": "45220dd71aa3761babf6fa16fe49f37a9209ba255c18fb5f197ff4f4b3ecda85",
+   "tam": 530036,
+   "tamz": 530036,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_1_0.png": {
+   "sha": "dbe5490c7ba4427bf8e3345f7c9bff2ff87aabb3fe31fe801e842421429a458a",
+   "tam": 595422,
+   "tamz": 595422,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_1_1.png": {
+   "sha": "4a0791828abbe0571772a469646e9adeaf05cccc47d2f56b40a472d7e39268d0",
+   "tam": 545269,
+   "tamz": 545269,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_1_2.png": {
+   "sha": "6798417cecb4e0138f78e9f9837a0423106a117ab6128f851b33d8ac632ac134",
+   "tam": 526960,
+   "tamz": 526960,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_2_0.png": {
+   "sha": "1201ff8d8a89c953b716c3191e511bdaca4c04de0c34c44d0bced5b46f4c73bc",
+   "tam": 538536,
+   "tamz": 538536,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_2_1.png": {
+   "sha": "9feb8d2b06979885c255cda1d4df02135fabf14184965f7d1156534bfd00fa85",
+   "tam": 585881,
+   "tamz": 585881,
+   "z": 0
+  },
+  "interiores_assets/interior_caldeira_2_2.png": {
+   "sha": "2abc6d47fbcb9cd4431198cdff0a81b9ba6695b7c1fcc32630d010060d1467f0",
+   "tam": 531488,
+   "tamz": 531488,
+   "z": 0
+  },
   "interiores_assets/interior_clinica.png": {
    "sha": "2cf7bc2c4a9a0fba06fdd54028a8d470777490c578765f81e8c0a538ee9d289c",
    "tam": 109079,
@@ -971,6 +1025,60 @@
    "sha": "ae389be0449376facab1943cd7708ae704c77d1b863b8b2b2612fdc868f8246f",
    "tam": 1876438,
    "tamz": 1876438,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_0_0.png": {
+   "sha": "919bcc7507862e09826ef544c9493ed997bdfa72b2c58b702500bd88b9e1d4b9",
+   "tam": 462389,
+   "tamz": 462389,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_0_1.png": {
+   "sha": "6fc33d6bbfc6819243bea5ac9f4b844d4d5e488d55bd3c3ad688115b5e4b6e72",
+   "tam": 473140,
+   "tamz": 473140,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_0_2.png": {
+   "sha": "81cf9098133a84ffc4e0d8f162400088251176db38946d86ed6d27217ed33729",
+   "tam": 460336,
+   "tamz": 460336,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_1_0.png": {
+   "sha": "737de4893db697f4f17cfcf9e86f5d5e17f3fab5d26613b609cc248d73762a46",
+   "tam": 486879,
+   "tamz": 486879,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_1_1.png": {
+   "sha": "055067a1eda172921a26c7e321da685c9878a5c9a37e94eb19cb29fdac4286e1",
+   "tam": 424132,
+   "tamz": 424132,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_1_2.png": {
+   "sha": "f424d5b23ebf6bc9c603cfb52e1d9556ed37d66ee35d893406fa0ebbc01077bf",
+   "tam": 446040,
+   "tamz": 446040,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_2_0.png": {
+   "sha": "74dc5d3e573489cb56f5d8e8b27e690bb5a2377f442983385c9206e78f7e007a",
+   "tam": 464669,
+   "tamz": 464669,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_2_1.png": {
+   "sha": "70a32106f2943263aedd55cf675c49509b5f15ef8bce73bb0613f2745e63e07e",
+   "tam": 475742,
+   "tamz": 475742,
+   "z": 0
+  },
+  "interiores_assets/interior_cripta_2_2.png": {
+   "sha": "ab931d6ee4aac57480a86b54e80bcdd5820b3f0feafe7d1fc9566f9ed3189517",
+   "tam": 461211,
+   "tamz": 461211,
    "z": 0
   },
   "interiores_assets/interior_dungeon.png": {
