@@ -1,90 +1,12 @@
 {
  "formato": 1,
- "build": 20261017121527,
+ "build": 20261017121801,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
  "launcher_url": "",
  "cifra": 1,
  "arquivos": {
-  "KoeiTecmo/NIOH/Savedata/209878445/SAVEDATA00/SAVEDATA.BIN": {
-   "sha": "65a1ef5a16678c3d23ed7605cad7cb551a28ea1cd4279206afbf9dae60acc205",
-   "tam": 2043956,
-   "tamz": 2043956,
-   "z": 0
-  },
-  "KoeiTecmo/NIOH/Savedata/209878445/SAVEDATA01/SAVEDATA.BIN": {
-   "sha": "3edf6ed008f10a74075d70078db2bd7660d86c85837374f701b01330db93d201",
-   "tam": 2043642,
-   "tamz": 2043642,
-   "z": 0
-  },
-  "KoeiTecmo/NIOH/Savedata/209878445/SYSTEMSAVEDATA00/SAVEDATA.BIN": {
-   "sha": "b30570a40c96fca1a9258941285881bffec1121c6e4321be1f75c3ede6bf1b0b",
-   "tam": 9872,
-   "tamz": 9872,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 15.30.28.png": {
-   "sha": "41d930dc32c6e496cddea4a1f84ecb52103ddab7ef60f28fdc4eba82b3662c88",
-   "tam": 2058457,
-   "tamz": 2058457,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 15.30.42.png": {
-   "sha": "711bdc065732f835c6b607d817a3302c568a104f8477f4a8dedb730c53321730",
-   "tam": 2725331,
-   "tamz": 2725331,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 15.30.57.png": {
-   "sha": "f72186e9b1b56987fb382ca5fc1baabc203836970c56236fe11d625acb9424fe",
-   "tam": 2168720,
-   "tamz": 2168720,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 15.31.16.png": {
-   "sha": "6ef5fc0348367809550552d900942e272b54f1ca7f3aa80654d06385bc41b879",
-   "tam": 2263678,
-   "tamz": 2263678,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 15.31.55.png": {
-   "sha": "d3e547551ec934a07e72237620788f708ddf022180735e9545b336e7d8ffca7e",
-   "tam": 2327477,
-   "tamz": 2327477,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 16.51.02.png": {
-   "sha": "d1ce85db883d3b9c1a5f14d2aac48698e6ead73994ae4188590db352aa3b52be",
-   "tam": 2247224,
-   "tamz": 2247224,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 16.51.11.png": {
-   "sha": "d2699996202ca565f2af23e439082f7d4fa0a8ba4365badd55f06bae7e92a685",
-   "tam": 2260855,
-   "tamz": 2260855,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 16.51.22.png": {
-   "sha": "05d506bd747b3da3478027a287ce0c4134c0bc327ce60445d0945757729d2d6f",
-   "tam": 2283457,
-   "tamz": 2283457,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 16.51.50.png": {
-   "sha": "12b6a079088c942dc657bf34a21db5a1eee35bd96f504f0f4de1ebf947a1cd0c",
-   "tam": 2302259,
-   "tamz": 2302259,
-   "z": 0
-  },
-  "KoeiTecmo/screen - shot/Schermafdruk 2019-07-30 16.55.00.png": {
-   "sha": "aafbe991038b1b94f6e566fed5157f998521351b2beb02367c80294f2e13522a",
-   "tam": 2152068,
-   "tamz": 2152068,
-   "z": 0
-  },
   "_previa_arena.png": {
    "sha": "07c661685ef2be02dc21296339d616e81e34549d827d4a022bff6d602b2b363b",
    "tam": 3541935,
