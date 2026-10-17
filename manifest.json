@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017193024,
+ "build": 20261017194009,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -296,9 +296,9 @@
    "z": 0
   },
   "coleta.py": {
-   "sha": "80f629ebfc809ad657cba41c41dffcd5385390761f48dbd9aa95e95821ff6733",
-   "tam": 2704,
-   "tamz": 2704,
+   "sha": "ea1ca733db1fe1d499cf9cde272e1cddfe2a7d895ff71b827a4246cc83b517f0",
+   "tam": 2800,
+   "tamz": 2800,
    "z": 0
   },
   "coleta_assets/bau_comum.png": {
@@ -374,9 +374,9 @@
    "z": 0
   },
   "coleta_pontos.json": {
-   "sha": "5b5486665780298b267422ab4a4ef17df7c50ab507812e5cc02018d58a2d8087",
-   "tam": 3509,
-   "tamz": 3509,
+   "sha": "a9938127f226279ffe390c81bcea91d142cf67987724c6f32b9fdb6b765c1d61",
+   "tam": 3507,
+   "tamz": 3507,
    "z": 0
   },
   "cursores/cursor_mira.png": {
