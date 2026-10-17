@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017194044,
+ "build": 20261017200651,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -11,6 +11,12 @@
    "sha": "07c661685ef2be02dc21296339d616e81e34549d827d4a022bff6d602b2b363b",
    "tam": 3541935,
    "tamz": 3541935,
+   "z": 0
+  },
+  "adagas.png": {
+   "sha": "bd30b4d67089f54de9a624fab969a3336b3c4e4ace0e2cf3cfa189a4e8c31b4f",
+   "tam": 6648,
+   "tamz": 6648,
    "z": 0
   },
   "ambiente_som.py": {
@@ -32,9 +38,15 @@
    "z": 0
   },
   "armas_config.py": {
-   "sha": "988bb8c64dcfb15e319932dbe9164c39845554ac45d1c9f454f1dcdd3e66178b",
-   "tam": 967,
-   "tamz": 967,
+   "sha": "5ee7b6e4acfa6eb5b62069b495adc8ff8e1431e53b7f8e6b508f89a8e938c0cd",
+   "tam": 1589,
+   "tamz": 1589,
+   "z": 0
+  },
+  "armas_corpo.py": {
+   "sha": "2a522e75fdbde08cc39363094f6db3f50246d3fc0e81d59808f527e1d18e27d4",
+   "tam": 3042,
+   "tamz": 3042,
    "z": 0
   },
   "arvore_visual.py": {
@@ -278,9 +290,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "01131c4af1c856c4bd4398a65b76e2418123a6c864c8f40d294f4010b452d720",
-   "tam": 123444,
-   "tamz": 123444,
+   "sha": "11361b354ce030592f68661cd93b2432fd7f8d4438940b70d0770f6e729fdd32",
+   "tam": 125487,
+   "tamz": 125487,
    "z": 0
   },
   "clima.py": {
@@ -949,6 +961,12 @@
    "tamz": 355494,
    "z": 0
   },
+  "espada.png": {
+   "sha": "b708c23fc40803db43ec46f3d456bc005476a9d01549bf74e61f8238fbe43d98",
+   "tam": 7214,
+   "tamz": 7214,
+   "z": 0
+  },
   "esqueleto.png": {
    "sha": "5be68fd1abc8660ad038ec15960b12deeecf7b16b4dae9795f56c1eba79645f1",
    "tam": 21574,
@@ -1073,6 +1091,24 @@
    "sha": "40829f2fc877e720bea93afb60f508b63fa96580bc4edb78e55ea75f42435505",
    "tam": 375234,
    "tamz": 375234,
+   "z": 0
+  },
+  "golpe_adagas.wav": {
+   "sha": "f984053f7103a0143b74f55fd3b9d994aba2afbd1e72caf8f93310dea7e56400",
+   "tam": 5956,
+   "tamz": 5956,
+   "z": 0
+  },
+  "golpe_espada.wav": {
+   "sha": "a06a60949a2b9569a8501e97556d8586839252025df781cc704ceb0faeece83e",
+   "tam": 9509,
+   "tamz": 9509,
+   "z": 0
+  },
+  "golpe_machado.wav": {
+   "sha": "da1908b719c6e2d4437a98fc4a50e61c11c0e20894d9b1e95605fd0d3b6318e1",
+   "tam": 14069,
+   "tamz": 14069,
    "z": 0
   },
   "habilidades.py": {
@@ -1739,6 +1775,12 @@
    "sha": "7a2921ad7d104dd12558bfda7f52fa5f60f65485b7772af172c287a4ee63e678",
    "tam": 4363,
    "tamz": 4363,
+   "z": 0
+  },
+  "machado.png": {
+   "sha": "acee390fd1f41da6c4a4e6f9de793fca73d60ae929f8043d02ee5097c5254fa0",
+   "tam": 7902,
+   "tamz": 7902,
    "z": 0
   },
   "mapa_novo.png": {
