@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017130750,
+ "build": 20261017180248,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -278,9 +278,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "87d7c7bd2ec91a8ccd35e2c85cfba290a7cbae1e185a0354c049bd833824ad12",
-   "tam": 123369,
-   "tamz": 123369,
+   "sha": "eeb3307d4cd8d7ee32495e52746a5fac3305c4c99adeb0c2722dc3ebae8ac788",
+   "tam": 123484,
+   "tamz": 123484,
    "z": 0
   },
   "clima.py": {
@@ -403,6 +403,12 @@
    "tamz": 2066,
    "z": 0
   },
+  "equipamentos/item_armadura_abissal.png": {
+   "sha": "66404ef824e8e9149cbc1f85843427d4a02a3f1db3d36111b354382fa92c47e1",
+   "tam": 652,
+   "tamz": 652,
+   "z": 0
+  },
   "equipamentos/item_armadura_das_cinzas.png": {
    "sha": "72996094b74f1d5e18dd0fbcb0b8810c76177edeeee18cf394a7cdae666ac0e1",
    "tam": 587,
@@ -421,10 +427,34 @@
    "tamz": 6209,
    "z": 0
   },
+  "equipamentos/item_botas_abissais.png": {
+   "sha": "d2dd091fc399fbf4f4f82055914fa989106b659094b1fca231b7c98fc64189c5",
+   "tam": 490,
+   "tamz": 490,
+   "z": 0
+  },
   "equipamentos/item_botas_das_cinzas.png": {
    "sha": "ba9fea16de6f3ed01cb9eb4f33dd484bb3021e3401c2b5593220128e6e268a4e",
    "tam": 482,
    "tamz": 482,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_basalto.png": {
+   "sha": "8dfb26e1a9094b8265aec4c29e6bbecb29c6ea7db617e0df0fea928c5dc9684d",
+   "tam": 492,
+   "tamz": 492,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_casca_de_ent.png": {
+   "sha": "ae135d34c9886b529d4af70709dab59972476afb13fc698c5ad561be8a215faa",
+   "tam": 485,
+   "tamz": 485,
+   "z": 0
+  },
+  "equipamentos/item_botas_de_couro_de_aranha.png": {
+   "sha": "6b8f75add40f30a596cabe13a55d6215572421650a59200a4fc9bc6feb5a5097",
+   "tam": 492,
+   "tamz": 492,
    "z": 0
   },
   "equipamentos/item_botas_de_couro_de_cobra.png": {
@@ -469,10 +499,28 @@
    "tamz": 452,
    "z": 0
   },
+  "equipamentos/item_botas_de_penas_de_grifo.png": {
+   "sha": "f066ec46fbd0e131e2e88cd9da807db383d351d721866d3f2ee2dfee1128804a",
+   "tam": 490,
+   "tamz": 490,
+   "z": 0
+  },
   "equipamentos/item_botas_do_cavaleiro_caido.png": {
    "sha": "ae00930b44ff5a712e51ff2a3fd8978b324c4f67d01acb6d918ca9a61335a4d3",
    "tam": 446,
    "tamz": 446,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_cavaleiro_real.png": {
+   "sha": "02b8a445bd0ba7c6ddb1c097e6a6fc2c72f7ce40aca64e8eb7d967d938d17ee2",
+   "tam": 484,
+   "tamz": 484,
+   "z": 0
+  },
+  "equipamentos/item_botas_do_ceifador.png": {
+   "sha": "e5458b03e0074b382013ad2b68439a2e1ecc9165da097af30cfa002db39a33a0",
+   "tam": 492,
+   "tamz": 492,
    "z": 0
   },
   "equipamentos/item_botas_do_farao.png": {
@@ -499,10 +547,22 @@
    "tamz": 460,
    "z": 0
   },
+  "equipamentos/item_botas_do_vazio.png": {
+   "sha": "0609c0440b4ce75929d43993fb18b4aa08ba6b5d0c4684eb47d099b45eb9ad40",
+   "tam": 490,
+   "tamz": 490,
+   "z": 0
+  },
   "equipamentos/item_calca.png": {
    "sha": "81cd2d0c4d30403d55c0a5e985a652f4f62d37eafb46b1dba9f4c6bcedab9e5d",
    "tam": 6221,
    "tamz": 6221,
+   "z": 0
+  },
+  "equipamentos/item_calca_de_couro_de_aranha.png": {
+   "sha": "53c623af4ca8289ffe652d05fc5219f1f49572b4778909c2c2777bd56765e319",
+   "tam": 463,
+   "tamz": 463,
    "z": 0
   },
   "equipamentos/item_calca_de_couro_de_cobra.png": {
@@ -521,6 +581,18 @@
    "sha": "5d61c4222a35f47636c82e5316e803c5ec9e8c8df0fb45789baea553a96412bd",
    "tam": 452,
    "tamz": 452,
+   "z": 0
+  },
+  "equipamentos/item_calca_de_penas_de_grifo.png": {
+   "sha": "f6fd14f5674d575c6acf27183a854460bd6c2d0b1fb5c395662a9246f05e66f3",
+   "tam": 462,
+   "tamz": 462,
+   "z": 0
+  },
+  "equipamentos/item_calca_do_ceifador.png": {
+   "sha": "5aa263c9ba60861d54c251013dfeb5a228a6cfccbd9a03aa911b45819075d740",
+   "tam": 458,
+   "tamz": 458,
    "z": 0
   },
   "equipamentos/item_calca_do_farao.png": {
@@ -547,6 +619,12 @@
    "tamz": 6207,
    "z": 0
   },
+  "equipamentos/item_capuz_de_couro_de_aranha.png": {
+   "sha": "b97f39fc03b1c85f9d7fcb3d5e7bb39a14c199e74d701d240473eff6356cc310",
+   "tam": 536,
+   "tamz": 536,
+   "z": 0
+  },
   "equipamentos/item_capuz_de_couro_de_cobra.png": {
    "sha": "d7558d2a7a34687430b18851a04d5ec43c34dd5e3c0e746173eb9939121b551d",
    "tam": 479,
@@ -557,6 +635,18 @@
    "sha": "b3f71e61e249a39c812400b9ef5b3199b258adefe7360f2241cb19a4c100b650",
    "tam": 521,
    "tamz": 521,
+   "z": 0
+  },
+  "equipamentos/item_capuz_de_penas_de_grifo.png": {
+   "sha": "bc052007dd982552e4f28840cd926b4714721b554ad216689baae6386f2e986d",
+   "tam": 515,
+   "tamz": 515,
+   "z": 0
+  },
+  "equipamentos/item_capuz_do_ceifador.png": {
+   "sha": "b69cf4da850945529f838f296debe8ce1995dcecfdf30c5d3bb4f6620231086a",
+   "tam": 508,
+   "tamz": 508,
    "z": 0
   },
   "equipamentos/item_capuz_do_lich.png": {
@@ -577,10 +667,22 @@
    "tamz": 6219,
    "z": 0
   },
+  "equipamentos/item_colete_de_couro_de_aranha.png": {
+   "sha": "753197087b8f4ad2750fd065c6a99b9a869edeeb66d0c6bdab0e9b89e172bcdc",
+   "tam": 667,
+   "tamz": 667,
+   "z": 0
+  },
   "equipamentos/item_colete_de_couro_de_cobra.png": {
    "sha": "309134e5b326c208d46d99b2cd03073ff0610bb177eba0b1c18ade6142ef8b08",
    "tam": 626,
    "tamz": 626,
+   "z": 0
+  },
+  "equipamentos/item_coroa_abissal.png": {
+   "sha": "af541b57450a8e1053a1153859298290624d968fd22b1d3b86235906c8aa0d23",
+   "tam": 515,
+   "tamz": 515,
    "z": 0
   },
   "equipamentos/item_coroa_das_cinzas.png": {
@@ -599,6 +701,18 @@
    "sha": "1018ff1b075f5384a4dbba5f7086bbc4e5508f3d3ce1e5643f24dd2043fb4808",
    "tam": 601,
    "tamz": 601,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_basalto.png": {
+   "sha": "648d4a08ae988daf1ba8feaa1626f5a5528f3fede62fce85fbc5020a2572e224",
+   "tam": 645,
+   "tamz": 645,
+   "z": 0
+  },
+  "equipamentos/item_couraca_de_casca_de_ent.png": {
+   "sha": "9494842f30623507a1fcdf734066fcd6f2492670dd4953905f10a9c6642296be",
+   "tam": 615,
+   "tamz": 615,
    "z": 0
   },
   "equipamentos/item_couraca_de_escamas_de_jacare.png": {
@@ -625,10 +739,28 @@
    "tamz": 613,
    "z": 0
   },
+  "equipamentos/item_couraca_do_vazio.png": {
+   "sha": "1ea6a7925ac49fdbe83787dd6269c575ea56c3e97492e2cf27e0849f32d4a3e2",
+   "tam": 651,
+   "tamz": 651,
+   "z": 0
+  },
   "equipamentos/item_cristal.png": {
    "sha": "45343e1e53942019f3a5e3198c4d4beca7f1752ae05998b412bc8c82b49df87b",
    "tam": 6222,
    "tamz": 6222,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_basalto.png": {
+   "sha": "151c6e978088a062f2ba623ddb3714f0e6ff424a3feeb80d0c7be7fc5ee99dd0",
+   "tam": 516,
+   "tamz": 516,
+   "z": 0
+  },
+  "equipamentos/item_elmo_de_casca_de_ent.png": {
+   "sha": "06dafd360f9e6f47e68045e140b912a38fea5096968d1cb25a53e5b98e2836e4",
+   "tam": 531,
+   "tamz": 531,
    "z": 0
   },
   "equipamentos/item_elmo_de_escamas_de_jacare.png": {
@@ -661,16 +793,46 @@
    "tamz": 533,
    "z": 0
   },
+  "equipamentos/item_elmo_do_cavaleiro_real.png": {
+   "sha": "529acf513d6f70593a7391b5d8183f05e345546597644739ce58a47be7d1a4fa",
+   "tam": 527,
+   "tamz": 527,
+   "z": 0
+  },
   "equipamentos/item_elmo_do_guardiao.png": {
    "sha": "18ce4ff7b9726739efc6545b240c7848638ba90c7fa86eb78cba0d95ad3eb1b3",
    "tam": 504,
    "tamz": 504,
    "z": 0
   },
+  "equipamentos/item_elmo_do_vazio.png": {
+   "sha": "682f9ad2d83de928442bf86184188458bdca030f8fbd5c968c496e17b2d554ae",
+   "tam": 537,
+   "tamz": 537,
+   "z": 0
+  },
+  "equipamentos/item_grevas_abissais.png": {
+   "sha": "fa51333e4e9a257fb5ff6e9901c79f094b4ab454a043e95d5e79c39aad878a34",
+   "tam": 459,
+   "tamz": 459,
+   "z": 0
+  },
   "equipamentos/item_grevas_das_cinzas.png": {
    "sha": "2e5538a5dfb8008a8c04738887ca189957fbbc38288a2810e056474c8d395a53",
    "tam": 443,
    "tamz": 443,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_basalto.png": {
+   "sha": "2d944c05d3afb285b3b1bc8cb233d40884faa59b425368550de519f183e29962",
+   "tam": 454,
+   "tamz": 454,
+   "z": 0
+  },
+  "equipamentos/item_grevas_de_casca_de_ent.png": {
+   "sha": "fe0bb48d0f6f39eb7f2b569b373848d63e9890cb654fd66e3735ec6d585124b7",
+   "tam": 456,
+   "tamz": 456,
    "z": 0
   },
   "equipamentos/item_grevas_de_gelo_eterno.png": {
@@ -703,10 +865,28 @@
    "tamz": 456,
    "z": 0
   },
+  "equipamentos/item_grevas_do_cavaleiro_real.png": {
+   "sha": "49c9d2ac0ef983275c7a745979755b57553a5621921bf31a036222dd181afd1b",
+   "tam": 462,
+   "tamz": 462,
+   "z": 0
+  },
   "equipamentos/item_grevas_do_guardiao.png": {
    "sha": "71c648eee021d71261140d33754da4751ba1f5b1e8e7309fa97c0cabc389104f",
    "tam": 454,
    "tamz": 454,
+   "z": 0
+  },
+  "equipamentos/item_grevas_do_vazio.png": {
+   "sha": "63b79bcaf0d74cc9e207b6961c2cb0f8ff787a16deedfb8f41c90e1d36ef38ce",
+   "tam": 463,
+   "tamz": 463,
+   "z": 0
+  },
+  "equipamentos/item_manto_do_ceifador.png": {
+   "sha": "dea24ccf27fd0b3585df3acd7539a97e184b43b5f65441c06786c5f67eb7c4e2",
+   "tam": 643,
+   "tamz": 643,
    "z": 0
   },
   "equipamentos/item_manto_do_lich.png": {
@@ -727,10 +907,22 @@
    "tamz": 6287,
    "z": 0
   },
+  "equipamentos/item_peitoral_de_penas_de_grifo.png": {
+   "sha": "d45bc423772550fed21a95ccc3a6cf6c6c57b4b03ad57f655c071cd958d6fa34",
+   "tam": 636,
+   "tamz": 636,
+   "z": 0
+  },
   "equipamentos/item_peitoral_do_cavaleiro_caido.png": {
    "sha": "e787d1af9a0e4027a805a68e23c4100ae570683658369446c5b3b823811d35b8",
    "tam": 610,
    "tamz": 610,
+   "z": 0
+  },
+  "equipamentos/item_peitoral_do_cavaleiro_real.png": {
+   "sha": "bb83415afef48c60e76a844ba7c312d0c6ae9788644928c03651463c77ea1d9d",
+   "tam": 629,
+   "tamz": 629,
    "z": 0
   },
   "equipamentos/item_peitoral_do_farao.png": {
@@ -1760,9 +1952,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "de054f6ba8fec1e359174b544ce61fd207d33e25c362be86a2637d5b14ee0e22",
-   "tam": 99,
-   "tamz": 99,
+   "sha": "fa436e493be70bb6f16b74e0876ee4682c384318b3ce0e7fcd8a8df145188150",
+   "tam": 102,
+   "tamz": 102,
    "z": 0
   },
   "shotgun.png": {
