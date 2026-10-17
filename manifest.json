@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261016081921,
+ "build": 20261016230649,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "84093c6c849dd54fc1674a9682a2d92be0ec66a8a4a775df349f36b83307bf12",
-   "tam": 116768,
-   "tamz": 116768,
+   "sha": "7ba12afca788d9862b2c8d18fa8fdcc79d8b9cb37d086f2f14cc0244ab440aed",
+   "tam": 119037,
+   "tamz": 119037,
    "z": 0
   },
   "clima.py": {
@@ -1613,6 +1613,12 @@
    "sha": "a96bbed7157f9f7dd91518be8525acfd665a85f2bdf0e3575eacff2f911d85b3",
    "tam": 2592,
    "tamz": 2592,
+   "z": 0
+  },
+  "pets.py": {
+   "sha": "41fcb9bd48127965df66d1dab729b5d7825757f447cde6d0e6b67210caf7fbce",
+   "tam": 2675,
+   "tamz": 2675,
    "z": 0
   },
   "pistola.png": {
