@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017000351,
+ "build": 20261017001150,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -2822,9 +2822,9 @@
    "z": 0
   },
   "sprite_montado.py": {
-   "sha": "255bdefb924151f3b6d5da87cdad7a6fbff23d35776edecfce28417ecde44b75",
-   "tam": 1785,
-   "tamz": 1785,
+   "sha": "97981544133ec39e61a8ffd1d682211b70be8191ac5f9feed6b72e20d73485a3",
+   "tam": 1890,
+   "tamz": 1890,
    "z": 0
   },
   "terreno.py": {
