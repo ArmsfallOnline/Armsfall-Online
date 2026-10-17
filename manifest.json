@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017180248,
+ "build": 20261017183655,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -278,9 +278,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "eeb3307d4cd8d7ee32495e52746a5fac3305c4c99adeb0c2722dc3ebae8ac788",
-   "tam": 123484,
-   "tamz": 123484,
+   "sha": "01131c4af1c856c4bd4398a65b76e2418123a6c864c8f40d294f4010b452d720",
+   "tam": 123444,
+   "tamz": 123444,
    "z": 0
   },
   "clima.py": {
@@ -296,9 +296,9 @@
    "z": 0
   },
   "coleta.py": {
-   "sha": "e3254065ba62b3559db3db97f10fc133f675b88e129a456c43ceaf7b0c08e056",
-   "tam": 1762,
-   "tamz": 1762,
+   "sha": "80f629ebfc809ad657cba41c41dffcd5385390761f48dbd9aa95e95821ff6733",
+   "tam": 2704,
+   "tamz": 2704,
    "z": 0
   },
   "coleta_assets/bau_comum.png": {
@@ -1754,9 +1754,9 @@
    "z": 0
   },
   "mundo.py": {
-   "sha": "518f91ab72e98eaeb514780c8baa900251f8f01501e4de3db9d1ec845e01ff6a",
-   "tam": 5657,
-   "tamz": 5657,
+   "sha": "5262e148e5d33b1dbbeda1f984894fa10fde76a2bc21c2c8b6a6f0b0f7dfcf03",
+   "tam": 6200,
+   "tamz": 6200,
    "z": 0
   },
   "musicas/menu.wav": {
@@ -3038,9 +3038,9 @@
    "z": 0
   },
   "terreno.py": {
-   "sha": "6d5d4beeee1c7229ebe9fe38b52d3449b2c34bfa1ebfa2e29d3d735add1121b4",
-   "tam": 9224,
-   "tamz": 9224,
+   "sha": "8ae1f76f225f6f61678987068969c454403a9f75eb398b7ed170e32f8503cf71",
+   "tam": 9579,
+   "tamz": 9579,
    "z": 0
   },
   "tiros_assets/bala_espingarda.png": {
