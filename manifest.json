@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017183758,
+ "build": 20261017192947,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1754,9 +1754,9 @@
    "z": 0
   },
   "mundo.py": {
-   "sha": "5262e148e5d33b1dbbeda1f984894fa10fde76a2bc21c2c8b6a6f0b0f7dfcf03",
-   "tam": 6200,
-   "tamz": 6200,
+   "sha": "eb5b977cf83f6a28c4891f98132eed5fd069e52bdd4c6f558ef13e5dd348bfe7",
+   "tam": 6286,
+   "tamz": 6286,
    "z": 0
   },
   "musicas/menu.wav": {
