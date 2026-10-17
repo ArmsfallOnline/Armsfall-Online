@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017200733,
+ "build": 20261017201419,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -44,9 +44,9 @@
    "z": 0
   },
   "armas_corpo.py": {
-   "sha": "2a522e75fdbde08cc39363094f6db3f50246d3fc0e81d59808f527e1d18e27d4",
-   "tam": 3042,
-   "tamz": 3042,
+   "sha": "5a9d6c88167bdc1d8f1d025336a9cdcca0e5db3df63c33b78a3c1597dd1474c1",
+   "tam": 3244,
+   "tamz": 3244,
    "z": 0
   },
   "arvore_visual.py": {
