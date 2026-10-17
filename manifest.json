@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017010959,
+ "build": 20261017012346,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "7509967c131b80c7974fc1a9bf0a252ac11563c8c663f4367d55433486792d5e",
-   "tam": 122232,
-   "tamz": 122232,
+   "sha": "f0635eee194373e943160e8ca3a890d1d3024b2978413a7151503b4955e2b24d",
+   "tam": 122337,
+   "tamz": 122337,
    "z": 0
   },
   "clima.py": {
