@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261016234421,
+ "build": 20261017000351,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -272,9 +272,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "1a9d09760ab49e7d781219ec3454257f0173ae495faa3b21c9ae273457cd006e",
-   "tam": 120676,
-   "tamz": 120676,
+   "sha": "94b90ab8856e8efc01f0111e23838cd82c9e1ede5bbca10241fd27809df416a6",
+   "tam": 121653,
+   "tamz": 121653,
    "z": 0
   },
   "clima.py": {
@@ -1616,9 +1616,9 @@
    "z": 0
   },
   "pets.py": {
-   "sha": "41fcb9bd48127965df66d1dab729b5d7825757f447cde6d0e6b67210caf7fbce",
-   "tam": 2675,
-   "tamz": 2675,
+   "sha": "a9c522b2237a66c17ca68066fb18927e4e02ef0bd8801a2e2cd1caa474ca098d",
+   "tam": 2858,
+   "tamz": 2858,
    "z": 0
   },
   "pistola.png": {
@@ -2819,6 +2819,12 @@
    "sha": "8f8cf7a662733b8135d0b81dcb67dafca86c8705b69a52d7842b6cb16d7f1f2f",
    "tam": 43247,
    "tamz": 43247,
+   "z": 0
+  },
+  "sprite_montado.py": {
+   "sha": "255bdefb924151f3b6d5da87cdad7a6fbff23d35776edecfce28417ecde44b75",
+   "tam": 1785,
+   "tamz": 1785,
    "z": 0
   },
   "terreno.py": {
