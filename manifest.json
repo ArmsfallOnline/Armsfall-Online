@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017014514,
+ "build": 20261017103750,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -23,6 +23,12 @@
    "sha": "67153f8f21af5c86a3a44098574dc68191bb704a9844d5c52467f8ad78393bd7",
    "tam": 6855,
    "tamz": 6855,
+   "z": 0
+  },
+  "areas_novas.py": {
+   "sha": "d28b275e5392652266ff5ea7890914e1d89cd988ad85f2ee6c8e96fcb336b5df",
+   "tam": 3069,
+   "tamz": 3069,
    "z": 0
   },
   "armas_config.py": {
@@ -272,15 +278,15 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "4a6c4385f4169ee053ee3781524b0648fa766a9f99251ae4b936099bc8a6c5d5",
-   "tam": 122227,
-   "tamz": 122227,
+   "sha": "f50a6b577f297255f634c0736117252a4978e21d2678c889910e949a824819bb",
+   "tam": 122938,
+   "tamz": 122938,
    "z": 0
   },
   "clima.py": {
-   "sha": "7d1dc73f7f437dfaea80b0c9901f6beb18f61e11c272e4f2dfa62f9cda1b2363",
-   "tam": 1519,
-   "tamz": 1519,
+   "sha": "0cb49867fb2074fbcd3a7f7cb38c5712ff4047666a9bdb482d526ca22adf43f1",
+   "tam": 1694,
+   "tamz": 1694,
    "z": 0
   },
   "cobra.png": {
@@ -1538,9 +1544,15 @@
    "z": 0
   },
   "loot.py": {
-   "sha": "1c88b164df62e9934349d8fcb9f2a87ec2b1e8d4b6dbee071be87b1cd0e13a7e",
-   "tam": 3600,
-   "tamz": 3600,
+   "sha": "7a2921ad7d104dd12558bfda7f52fa5f60f65485b7772af172c287a4ee63e678",
+   "tam": 4363,
+   "tamz": 4363,
+   "z": 0
+  },
+  "mapa_novo.png": {
+   "sha": "b7e2c1873958f9a1a3748d1a3a54f48062ab675fe83250797974e04f7446c31c",
+   "tam": 27473,
+   "tamz": 27473,
    "z": 0
   },
   "mumia.png": {
@@ -1550,9 +1562,9 @@
    "z": 0
   },
   "mundo.py": {
-   "sha": "c2e68eb14b96f05fe7ecefe2b73d2489e6d7428f51e5c791bd3a898d89180855",
-   "tam": 5232,
-   "tamz": 5232,
+   "sha": "518f91ab72e98eaeb514780c8baa900251f8f01501e4de3db9d1ec845e01ff6a",
+   "tam": 5657,
+   "tamz": 5657,
    "z": 0
   },
   "musicas/menu.wav": {
@@ -2828,9 +2840,9 @@
    "z": 0
   },
   "terreno.py": {
-   "sha": "fe8e9959f1517c056255ba6687f18732de1cf3c0b2d9cd65ac3cc367ffa7eef7",
-   "tam": 8734,
-   "tamz": 8734,
+   "sha": "6d5d4beeee1c7229ebe9fe38b52d3449b2c34bfa1ebfa2e29d3d735add1121b4",
+   "tam": 9224,
+   "tamz": 9224,
    "z": 0
   },
   "tiros_assets/bala_espingarda.png": {
