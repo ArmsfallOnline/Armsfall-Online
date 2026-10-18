@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261018014032,
+ "build": 20261018023404,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -308,9 +308,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "4b5b24555ee6b146a9aae2763ea1b251222407442db9271c880e11bb65f96287",
-   "tam": 125873,
-   "tamz": 125873,
+   "sha": "8cce0c9f72ce02131d1891ab3f3e4a6fe3340c9cea82cb1826af6eaabbfcaa09",
+   "tam": 126006,
+   "tamz": 126006,
    "z": 0
   },
   "clima.py": {
@@ -422,9 +422,9 @@
    "z": 0
   },
   "efeitos_skills.py": {
-   "sha": "0087b62e342dbcf6b4564296cc8b1beb193ca38261378389338efa5ac1813ef3",
-   "tam": 18757,
-   "tamz": 18757,
+   "sha": "4059cd39926bcf1d9b9be8100f4e0cc874b93f26819a1373756c3c635a21d54c",
+   "tam": 19445,
+   "tamz": 19445,
    "z": 0
   },
   "equipamentos.py": {
@@ -1148,9 +1148,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "82db224084b7347c125c925d2e260779cd60a3893d5788167cae16782c29361a",
-   "tam": 13463,
-   "tamz": 13463,
+   "sha": "579bfe49f07063a4ef02dc80762e80dd8e2e85b9e0d9abf59dd257fefa27e136",
+   "tam": 14777,
+   "tamz": 14777,
    "z": 0
   },
   "hitbox_corpo.py": {
@@ -2161,10 +2161,34 @@
    "tamz": 10332,
    "z": 0
   },
+  "skills_icones/frenesi.png": {
+   "sha": "40f7b96dcc5ec6cb18aa5b5e145d94b76840e3efbb2302518fbc86fc6676fdd1",
+   "tam": 17636,
+   "tamz": 17636,
+   "z": 0
+  },
+  "skills_icones/furia.png": {
+   "sha": "17a87dcf54b037a1b46f3a2960c20d1a9c26c9748785756cb519db442d61d117",
+   "tam": 13745,
+   "tamz": 13745,
+   "z": 0
+  },
   "skills_icones/gancho.png": {
    "sha": "669401a65cef40edab18e1ee646c1a3aec5a58a37897a0b88a0c78ba8a3ca1de",
    "tam": 11526,
    "tamz": 11526,
+   "z": 0
+  },
+  "skills_icones/golpe_sismico.png": {
+   "sha": "ecb8bd5f70ffc2ccadef5a93b7f8c8d448486a75c0d2e9f66ad57c508361504e",
+   "tam": 20585,
+   "tamz": 20585,
+   "z": 0
+  },
+  "skills_icones/guarda_aco.png": {
+   "sha": "6797cbff9f18dd0b5aa812680069406296b93010e113232181bbfa602cce2e3e",
+   "tam": 15167,
+   "tamz": 15167,
    "z": 0
   },
   "skills_icones/impulso.png": {
@@ -2249,6 +2273,12 @@
    "sha": "9d37e378351e5acf49299a37f30de6eee657bb2bf96cef23328b37097a2f7353",
    "tam": 10533,
    "tamz": 10533,
+   "z": 0
+  },
+  "skills_icones/sede_sangue.png": {
+   "sha": "6a2d5f092b4b30707ea08cc7fb1ee9f7089a552ee4b6aa34c65daa0a6c88b880",
+   "tam": 14321,
+   "tamz": 14321,
    "z": 0
   },
   "skills_icones/servo_arqueiro.png": {
