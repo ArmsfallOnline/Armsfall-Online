@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261018023440,
+ "build": 20261018024126,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1148,9 +1148,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "579bfe49f07063a4ef02dc80762e80dd8e2e85b9e0d9abf59dd257fefa27e136",
-   "tam": 14777,
-   "tamz": 14777,
+   "sha": "85385ebe902e6b6fb7babe26b44d741f481908a6fef7e03ae55ddc135ed9342a",
+   "tam": 14779,
+   "tamz": 14779,
    "z": 0
   },
   "hitbox_corpo.py": {
