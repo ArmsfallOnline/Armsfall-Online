@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261017201419,
+ "build": 20261018011020,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -38,15 +38,15 @@
    "z": 0
   },
   "armas_config.py": {
-   "sha": "5ee7b6e4acfa6eb5b62069b495adc8ff8e1431e53b7f8e6b508f89a8e938c0cd",
-   "tam": 1589,
-   "tamz": 1589,
+   "sha": "63887f5bbc4b10c5e3b058e18de1cd4fac0cfae5021f8e63e78ac672fd3d8a30",
+   "tam": 1591,
+   "tamz": 1591,
    "z": 0
   },
   "armas_corpo.py": {
-   "sha": "5a9d6c88167bdc1d8f1d025336a9cdcca0e5db3df63c33b78a3c1597dd1474c1",
-   "tam": 3244,
-   "tamz": 3244,
+   "sha": "bfa45d55caf6350c78d87e41d2662524a11da22fd6d07cfd3b58c48f27e327f5",
+   "tam": 5494,
+   "tamz": 5494,
    "z": 0
   },
   "arvore_visual.py": {
@@ -290,9 +290,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "11361b354ce030592f68661cd93b2432fd7f8d4438940b70d0770f6e729fdd32",
-   "tam": 125487,
-   "tamz": 125487,
+   "sha": "2c3b43ec5ba9b6a9bbb4a2aec970c338e11f33af46ce238c2a1f9b7ea660f60f",
+   "tam": 125421,
+   "tamz": 125421,
    "z": 0
   },
   "clima.py": {
@@ -1115,6 +1115,12 @@
    "sha": "82db224084b7347c125c925d2e260779cd60a3893d5788167cae16782c29361a",
    "tam": 13463,
    "tamz": 13463,
+   "z": 0
+  },
+  "hitbox_corpo.py": {
+   "sha": "44bee0b55e7ddc324629a3ad8c28ee026b85edeee3a4969f638302f1234d43e8",
+   "tam": 864,
+   "tamz": 864,
    "z": 0
   },
   "interiores.py": {
