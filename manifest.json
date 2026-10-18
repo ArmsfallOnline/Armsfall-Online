@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261018011525,
+ "build": 20261018013949,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -14,9 +14,27 @@
    "z": 0
   },
   "adagas.png": {
-   "sha": "bd30b4d67089f54de9a624fab969a3336b3c4e4ace0e2cf3cfa189a4e8c31b4f",
+   "sha": "810f2479e5f134ceab17a6fb2bf3b06d87f1eedc81d8f588164a8a48817b9e84",
    "tam": 6648,
    "tamz": 6648,
+   "z": 0
+  },
+  "adagas_espectral.png": {
+   "sha": "c75edf2a65d50b7f637e5639e278791283dff2ecb103857b9b767d010a757875",
+   "tam": 6771,
+   "tamz": 6771,
+   "z": 0
+  },
+  "adagas_lava.png": {
+   "sha": "b768a1bbc013e28070ada3206faa246c5e3beb28237bb7599ae7708f69b91230",
+   "tam": 6871,
+   "tamz": 6871,
+   "z": 0
+  },
+  "adagas_osso.png": {
+   "sha": "aff937c48d4e68e115e14ec0f8fd9d8548e6080b1e545b71393a37694e9a402f",
+   "tam": 6888,
+   "tamz": 6888,
    "z": 0
   },
   "ambiente_som.py": {
@@ -44,9 +62,9 @@
    "z": 0
   },
   "armas_corpo.py": {
-   "sha": "bfa45d55caf6350c78d87e41d2662524a11da22fd6d07cfd3b58c48f27e327f5",
-   "tam": 5494,
-   "tamz": 5494,
+   "sha": "d0c5b6e2ae8ae5f072af127cc4f718409133c5ce4725e2103c79b776837b497c",
+   "tam": 6674,
+   "tamz": 6674,
    "z": 0
   },
   "arvore_visual.py": {
@@ -290,9 +308,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "2c3b43ec5ba9b6a9bbb4a2aec970c338e11f33af46ce238c2a1f9b7ea660f60f",
-   "tam": 125421,
-   "tamz": 125421,
+   "sha": "4b5b24555ee6b146a9aae2763ea1b251222407442db9271c880e11bb65f96287",
+   "tam": 125873,
+   "tamz": 125873,
    "z": 0
   },
   "clima.py": {
@@ -965,6 +983,24 @@
    "sha": "b708c23fc40803db43ec46f3d456bc005476a9d01549bf74e61f8238fbe43d98",
    "tam": 7214,
    "tamz": 7214,
+   "z": 0
+  },
+  "espada_espectral.png": {
+   "sha": "f6ea8bf894f4ff7d89cdf914b7b4101b54fb298d7535d781a6d3e31ee827b07f",
+   "tam": 7383,
+   "tamz": 7383,
+   "z": 0
+  },
+  "espada_lava.png": {
+   "sha": "d1a2943d1ce5e4d29f17e965c3d1e1f24fe2db841d006decdc153d1ff20a8b96",
+   "tam": 7632,
+   "tamz": 7632,
+   "z": 0
+  },
+  "espada_osso.png": {
+   "sha": "ae9ee974bb3e4b8361d4fc93f53dad2c8c1dcffa99cd7258987b77fd0d4b6f95",
+   "tam": 7669,
+   "tamz": 7669,
    "z": 0
   },
   "esqueleto.png": {
@@ -1754,9 +1790,9 @@
    "z": 0
   },
   "laboratorio.py": {
-   "sha": "9af99fed33ddbbe346005b31b6b92f8c60f8b61f7a8d1dc7b4f36e1d3a766d8a",
-   "tam": 5416,
-   "tamz": 5416,
+   "sha": "cfeca6664d48d209b20c4828fd6cd7aa2041cf2b87765b84b084ef9d36388c25",
+   "tam": 5887,
+   "tamz": 5887,
    "z": 0
   },
   "lich_esquecido.png": {
@@ -1787,6 +1823,24 @@
    "sha": "acee390fd1f41da6c4a4e6f9de793fca73d60ae929f8043d02ee5097c5254fa0",
    "tam": 7902,
    "tamz": 7902,
+   "z": 0
+  },
+  "machado_espectral.png": {
+   "sha": "cf9bef621c33837b312c98f1181015904b4bcf5293c8e587f886ebf05f17ca75",
+   "tam": 8061,
+   "tamz": 8061,
+   "z": 0
+  },
+  "machado_lava.png": {
+   "sha": "9a80f557dea4d07d905430b4c7fa15bd20e06a197d74e0caf3a95f53df6e37f2",
+   "tam": 8475,
+   "tamz": 8475,
+   "z": 0
+  },
+  "machado_osso.png": {
+   "sha": "5c40dd5e7c9b764baf4decb8806ad31ca06d69ceb11350e704f2d5ae02e8523f",
+   "tam": 8855,
+   "tamz": 8855,
    "z": 0
   },
   "mapa_novo.png": {
