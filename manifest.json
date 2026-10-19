@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261018025259,
+ "build": 20261019094455,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -308,9 +308,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "8cce0c9f72ce02131d1891ab3f3e4a6fe3340c9cea82cb1826af6eaabbfcaa09",
-   "tam": 126006,
-   "tamz": 126006,
+   "sha": "2d32a9870d95b04d086a0d54a270df3eef23b2eea2a01ff426d9962050a33a80",
+   "tam": 131149,
+   "tamz": 131149,
    "z": 0
   },
   "clima.py": {
@@ -1916,9 +1916,9 @@
    "z": 0
   },
   "oficina.py": {
-   "sha": "a96bbed7157f9f7dd91518be8525acfd665a85f2bdf0e3575eacff2f911d85b3",
-   "tam": 2592,
-   "tamz": 2592,
+   "sha": "f68c65b7f5449e0cf2406eeeadacce0953f08c09ebdeae680c95c77be1cc0bae",
+   "tam": 2990,
+   "tamz": 2990,
    "z": 0
   },
   "pets.py": {
@@ -2039,6 +2039,12 @@
    "sha": "b53cf5bb6d3ed4a77ef91fa411bc93f6ec7596890cdcb784750944ae8cfe2f07",
    "tam": 1995,
    "tamz": 1995,
+   "z": 0
+  },
+  "runas.py": {
+   "sha": "329df4499c3deb101afd8567156b8005f39b7ede94c4d8d570fe2a4dd1012be5",
+   "tam": 5514,
+   "tamz": 5514,
    "z": 0
   },
   "salamandra.png": {
@@ -3191,6 +3197,12 @@
    "sha": "9e3d2581b9767c3630938197da9b166f1dc9b5651c2a1679970470ee8b083fe8",
    "tam": 274,
    "tamz": 274,
+   "z": 0
+  },
+  "torre.py": {
+   "sha": "5b48edb02976cd64a60809da3f2e5bb186530ec7d6ae067a3542b02258080642",
+   "tam": 2517,
+   "tamz": 2517,
    "z": 0
   },
   "urso.png": {
