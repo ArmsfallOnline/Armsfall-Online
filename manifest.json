@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261019101517,
+ "build": 20261019184733,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -308,9 +308,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "5d93a851a6d976f269c8eb428404b9453c33973554786018a2888d982d6e46dc",
-   "tam": 131183,
-   "tamz": 131183,
+   "sha": "7cdd383e0618e13ef429896382742c5b27bda393f82a720013b57b4e67c0c462",
+   "tam": 131840,
+   "tamz": 131840,
    "z": 0
   },
   "clima.py": {
@@ -1160,9 +1160,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "a5550201a3094252e4df658d9aaa6ea5aafd090be6e9052df824017ab1d2903b",
-   "tam": 13588,
-   "tamz": 13588,
+   "sha": "4711cd3c3b9770f6e7d8d91dc0324e9730ab4298d1a136136b6fd50369d021e8",
+   "tam": 14166,
+   "tamz": 14166,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -1765,6 +1765,12 @@
    "tamz": 13493,
    "z": 0
   },
+  "interiores_assets/interior_torre.png": {
+   "sha": "243a82fb0dc7e05308300d9aa9b5532dd584026f1942ae2a1a22a5e24c8ce339",
+   "tam": 33085,
+   "tamz": 33085,
+   "z": 0
+  },
   "itens.py": {
    "sha": "f29e77103079c88b889a140ac503fbaa16181f83a85f99858a3aa7687017fba4",
    "tam": 368,
@@ -1847,6 +1853,60 @@
    "sha": "b7e2c1873958f9a1a3748d1a3a54f48062ab675fe83250797974e04f7446c31c",
    "tam": 27473,
    "tamz": 27473,
+   "z": 0
+  },
+  "monstros_torre_sprites/arquimago_caido.png": {
+   "sha": "4bd9832165b2da9f204263305a1d18261aa4c2bc42f76544dc5189c453cf7d3d",
+   "tam": 22267,
+   "tamz": 22267,
+   "z": 0
+  },
+  "monstros_torre_sprites/carrasco_abissal.png": {
+   "sha": "9f451d82cb5c53005926b851bb43d3c18c10a6625974223248ab8eeaabcdd0da",
+   "tam": 23144,
+   "tamz": 23144,
+   "z": 0
+  },
+  "monstros_torre_sprites/ceifador_torre.png": {
+   "sha": "e990aadf5fcde5f63a63ad40092ae3763b5031d3081ea449fafcd5db40c75808",
+   "tam": 23022,
+   "tamz": 23022,
+   "z": 0
+  },
+  "monstros_torre_sprites/colosso_obsidiana.png": {
+   "sha": "688dba36ef674d6bf3caf75ddb3caee7f788d27f8eea07d11408d61382dbad20",
+   "tam": 23540,
+   "tamz": 23540,
+   "z": 0
+  },
+  "monstros_torre_sprites/cultista_vazio.png": {
+   "sha": "1db647f5d7fde113e3c558d456f01463971742e0f9b1faec784c0fdd439f7c43",
+   "tam": 21262,
+   "tamz": 21262,
+   "z": 0
+  },
+  "monstros_torre_sprites/espreitador.png": {
+   "sha": "1129a8722cfe8c3f1ebacbec4ddbad1a2c1500eca80f83e25abd1d150fa2fb9b",
+   "tam": 21470,
+   "tamz": 21470,
+   "z": 0
+  },
+  "monstros_torre_sprites/gargula_pedra.png": {
+   "sha": "e7da5c6057815d7ee9d2aaad06b642a4a2e9df03bacca792377ba338bc6fe040",
+   "tam": 24866,
+   "tamz": 24866,
+   "z": 0
+  },
+  "monstros_torre_sprites/sentinela_runica.png": {
+   "sha": "9ac45859faf4d9d084a390ac78bff7070778d5c4205b5454c566c31da1889be6",
+   "tam": 18433,
+   "tamz": 18433,
+   "z": 0
+  },
+  "monstros_torre_sprites/vigia_abissal.png": {
+   "sha": "f6b6cbcf6de29c05430d4c4798ecea2cc74f498c7cdfcbc4bcfed1abc15bcd49",
+   "tam": 41703,
+   "tamz": 41703,
    "z": 0
   },
   "mumia.png": {
@@ -2060,9 +2120,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "ca8b16b4a2147d56cd10b7dd44f83f7f0871f00ae6b9ad643c7472623e4ba2dd",
-   "tam": 98,
-   "tamz": 98,
+   "sha": "5a34eb945204426d0a4c7db21a189a55214fa02e276c4ef166d4520bb3ce300d",
+   "tam": 93,
+   "tamz": 93,
    "z": 0
   },
   "shotgun.png": {
@@ -3200,9 +3260,9 @@
    "z": 0
   },
   "torre.py": {
-   "sha": "5b48edb02976cd64a60809da3f2e5bb186530ec7d6ae067a3542b02258080642",
-   "tam": 2517,
-   "tamz": 2517,
+   "sha": "18c796337706243bcec3c8aa5999291a6079eb5ce540375d8345d8ffa481e704",
+   "tam": 2657,
+   "tamz": 2657,
    "z": 0
   },
   "urso.png": {
