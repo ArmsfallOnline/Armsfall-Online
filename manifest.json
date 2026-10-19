@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261019184733,
+ "build": 20261019185759,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -65,6 +65,12 @@
    "sha": "d0c5b6e2ae8ae5f072af127cc4f718409133c5ce4725e2103c79b776837b497c",
    "tam": 6674,
    "tamz": 6674,
+   "z": 0
+  },
+  "arquimago_caido.png": {
+   "sha": "d8a94b8abaccbe47d7184b8fd41eff5ec9f7e81f9c6d1cae9f5b236002492948",
+   "tam": 21841,
+   "tamz": 21841,
    "z": 0
   },
   "arvore_visual.py": {
@@ -283,6 +289,18 @@
    "tamz": 891878,
    "z": 0
   },
+  "carrasco_abissal.png": {
+   "sha": "155fbc04796a743279931d59c659611be4122c6248409bdea190239e344d612e",
+   "tam": 22478,
+   "tamz": 22478,
+   "z": 0
+  },
+  "ceifador_torre.png": {
+   "sha": "d18cc5e2ec0c4cd9a8ecbc8063831e07d5d3f000bb6033877db9ca2bb59461bd",
+   "tam": 22541,
+   "tamz": 22541,
+   "z": 0
+  },
   "ciclo.py": {
    "sha": "32d87d3722f16544025c7d64c62991622489cf9def33d77ae4962be20e3aeaad",
    "tam": 1431,
@@ -407,6 +425,18 @@
    "sha": "a9938127f226279ffe390c81bcea91d142cf67987724c6f32b9fdb6b765c1d61",
    "tam": 3507,
    "tamz": 3507,
+   "z": 0
+  },
+  "colosso_obsidiana.png": {
+   "sha": "a9ca9c10852dc0368eb276f0fb94ff851d7a16de0cf4348b9453902464146c65",
+   "tam": 22770,
+   "tamz": 22770,
+   "z": 0
+  },
+  "cultista_vazio.png": {
+   "sha": "8abf295fa6c6df2c07631bf77506fe6badf241d60f2dcb728a7a3d0fccbb6181",
+   "tam": 20882,
+   "tamz": 20882,
    "z": 0
   },
   "cursores/cursor_mira.png": {
@@ -1003,6 +1033,12 @@
    "tamz": 7669,
    "z": 0
   },
+  "espreitador.png": {
+   "sha": "aef4ca06029b1576bc92b4c494d05b48301f5b80dd4c4a87fe7c48ca174ff54e",
+   "tam": 20913,
+   "tamz": 20913,
+   "z": 0
+  },
   "esqueleto.png": {
    "sha": "5be68fd1abc8660ad038ec15960b12deeecf7b16b4dae9795f56c1eba79645f1",
    "tam": 21574,
@@ -1109,6 +1145,12 @@
    "sha": "8d906dc1d9a4de88aa70d855030225e08e107b41f17b4c816ad6c865cd45a7bc",
    "tam": 68611,
    "tamz": 68611,
+   "z": 0
+  },
+  "gargula_pedra.png": {
+   "sha": "c105c6b2bb99ad33bcd98d9b317aac741372ac356432403bb528bd20d3efd252",
+   "tam": 24098,
+   "tamz": 24098,
    "z": 0
   },
   "golem_areia.png": {
@@ -1855,60 +1897,6 @@
    "tamz": 27473,
    "z": 0
   },
-  "monstros_torre_sprites/arquimago_caido.png": {
-   "sha": "4bd9832165b2da9f204263305a1d18261aa4c2bc42f76544dc5189c453cf7d3d",
-   "tam": 22267,
-   "tamz": 22267,
-   "z": 0
-  },
-  "monstros_torre_sprites/carrasco_abissal.png": {
-   "sha": "9f451d82cb5c53005926b851bb43d3c18c10a6625974223248ab8eeaabcdd0da",
-   "tam": 23144,
-   "tamz": 23144,
-   "z": 0
-  },
-  "monstros_torre_sprites/ceifador_torre.png": {
-   "sha": "e990aadf5fcde5f63a63ad40092ae3763b5031d3081ea449fafcd5db40c75808",
-   "tam": 23022,
-   "tamz": 23022,
-   "z": 0
-  },
-  "monstros_torre_sprites/colosso_obsidiana.png": {
-   "sha": "688dba36ef674d6bf3caf75ddb3caee7f788d27f8eea07d11408d61382dbad20",
-   "tam": 23540,
-   "tamz": 23540,
-   "z": 0
-  },
-  "monstros_torre_sprites/cultista_vazio.png": {
-   "sha": "1db647f5d7fde113e3c558d456f01463971742e0f9b1faec784c0fdd439f7c43",
-   "tam": 21262,
-   "tamz": 21262,
-   "z": 0
-  },
-  "monstros_torre_sprites/espreitador.png": {
-   "sha": "1129a8722cfe8c3f1ebacbec4ddbad1a2c1500eca80f83e25abd1d150fa2fb9b",
-   "tam": 21470,
-   "tamz": 21470,
-   "z": 0
-  },
-  "monstros_torre_sprites/gargula_pedra.png": {
-   "sha": "e7da5c6057815d7ee9d2aaad06b642a4a2e9df03bacca792377ba338bc6fe040",
-   "tam": 24866,
-   "tamz": 24866,
-   "z": 0
-  },
-  "monstros_torre_sprites/sentinela_runica.png": {
-   "sha": "9ac45859faf4d9d084a390ac78bff7070778d5c4205b5454c566c31da1889be6",
-   "tam": 18433,
-   "tamz": 18433,
-   "z": 0
-  },
-  "monstros_torre_sprites/vigia_abissal.png": {
-   "sha": "f6b6cbcf6de29c05430d4c4798ecea2cc74f498c7cdfcbc4bcfed1abc15bcd49",
-   "tam": 41703,
-   "tamz": 41703,
-   "z": 0
-  },
   "mumia.png": {
    "sha": "2d856d0185d8e5a9162329ba80a8083458dbf78cc588c031c54b15a8859926fb",
    "tam": 227045,
@@ -2117,6 +2105,12 @@
    "sha": "bb78b43b9e93971143e12d7d2418556ee0b5bb911e3861d46cd5302095602ea2",
    "tam": 421928,
    "tamz": 421928,
+   "z": 0
+  },
+  "sentinela_runica.png": {
+   "sha": "341e1750221e90494989e850bff610b67fe2dfa230f49f5de3bfc599ef2537db",
+   "tam": 18066,
+   "tamz": 18066,
    "z": 0
   },
   "servidor.txt": {
@@ -3275,6 +3269,12 @@
    "sha": "147a820061a9dde6ba284f0fad0f3561f5c242ba7aafedbe0bcf5bc20c3f567f",
    "tam": 1288272,
    "tamz": 1288272,
+   "z": 0
+  },
+  "vigia_abissal.png": {
+   "sha": "29cc129209e535f7cc9a017e2aabb58034c4d1e5a98446e57a881215d98b93a1",
+   "tam": 39859,
+   "tamz": 39859,
    "z": 0
   }
  }
