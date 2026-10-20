@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020015826,
+ "build": 20261020105315,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -2228,9 +2228,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "830872f341cbb2d6bba6c39f4ef6efcb913a47db729310aa8914832f531d05b1",
-   "tam": 99,
-   "tamz": 99,
+   "sha": "0b8a53e2623f4a2af556ce39c101519737b71dc814d5474e0d98311efe1c4be3",
+   "tam": 96,
+   "tamz": 96,
    "z": 0
   },
   "shotgun.png": {
