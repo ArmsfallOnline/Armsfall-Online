@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261019185759,
+ "build": 20261020001440,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -49,6 +49,24 @@
    "tamz": 6855,
    "z": 0
   },
+  "aranha_rainha.png": {
+   "sha": "c33abad0cc6ed84dbf843705b2fc1c474b410074ae4bdd48b29bd13e438c1ffe",
+   "tam": 34073,
+   "tamz": 34073,
+   "z": 0
+  },
+  "aranha_runica.png": {
+   "sha": "b1d04996a35e4f5be1b9860bda479c2513ba26f7429122e256648dff09ed651e",
+   "tam": 28388,
+   "tamz": 28388,
+   "z": 0
+  },
+  "arcanista_supremo.png": {
+   "sha": "aebd5c5354e96f651554c249a7eb662869e7f0fe3ebdfdf6324df33862c84923",
+   "tam": 26337,
+   "tamz": 26337,
+   "z": 0
+  },
   "areas_novas.py": {
    "sha": "d28b275e5392652266ff5ea7890914e1d89cd988ad85f2ee6c8e96fcb336b5df",
    "tam": 3069,
@@ -68,9 +86,9 @@
    "z": 0
   },
   "arquimago_caido.png": {
-   "sha": "d8a94b8abaccbe47d7184b8fd41eff5ec9f7e81f9c6d1cae9f5b236002492948",
-   "tam": 21841,
-   "tamz": 21841,
+   "sha": "04b0ec612881b96e9ef94a7f99171830f1e9c72c3b5598d068df5cdc50906b38",
+   "tam": 22267,
+   "tamz": 22267,
    "z": 0
   },
   "arvore_visual.py": {
@@ -290,15 +308,21 @@
    "z": 0
   },
   "carrasco_abissal.png": {
-   "sha": "155fbc04796a743279931d59c659611be4122c6248409bdea190239e344d612e",
-   "tam": 22478,
-   "tamz": 22478,
+   "sha": "1d377d758673b41f9c33803718c7f94bd23c5e09e3115bab37501142a198adb4",
+   "tam": 23144,
+   "tamz": 23144,
+   "z": 0
+  },
+  "cavaleiro_maldito.png": {
+   "sha": "a32d59f0ed6ccf8744794ac710e6c55de3375d003f8d096b16216b3b52c754c1",
+   "tam": 21412,
+   "tamz": 21412,
    "z": 0
   },
   "ceifador_torre.png": {
-   "sha": "d18cc5e2ec0c4cd9a8ecbc8063831e07d5d3f000bb6033877db9ca2bb59461bd",
-   "tam": 22541,
-   "tamz": 22541,
+   "sha": "8b6120d17f01f02a95a0ae359fbcbdfae128d8a7f5fcbf689902d350260271a5",
+   "tam": 23022,
+   "tamz": 23022,
    "z": 0
   },
   "ciclo.py": {
@@ -326,9 +350,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "7cdd383e0618e13ef429896382742c5b27bda393f82a720013b57b4e67c0c462",
-   "tam": 131840,
-   "tamz": 131840,
+   "sha": "45e198ccda4890e96480f18f6e930884e99166beff1ec25d6b1b38ac305e1d38",
+   "tam": 133803,
+   "tamz": 133803,
    "z": 0
   },
   "clima.py": {
@@ -428,15 +452,15 @@
    "z": 0
   },
   "colosso_obsidiana.png": {
-   "sha": "a9ca9c10852dc0368eb276f0fb94ff851d7a16de0cf4348b9453902464146c65",
-   "tam": 22770,
-   "tamz": 22770,
+   "sha": "03ed5f32ea17191ed92c1bc50e7c9935a984bbecdc98fb8133106db79aababce",
+   "tam": 23540,
+   "tamz": 23540,
    "z": 0
   },
   "cultista_vazio.png": {
-   "sha": "8abf295fa6c6df2c07631bf77506fe6badf241d60f2dcb728a7a3d0fccbb6181",
-   "tam": 20882,
-   "tamz": 20882,
+   "sha": "f0a6e19f96c1cfee6afd26132ad2c2f8ecb2466bcc4dfd06eae2b20dfef09065",
+   "tam": 21262,
+   "tamz": 21262,
    "z": 0
   },
   "cursores/cursor_mira.png": {
@@ -455,6 +479,12 @@
    "sha": "4059cd39926bcf1d9b9be8100f4e0cc874b93f26819a1373756c3c635a21d54c",
    "tam": 19445,
    "tamz": 19445,
+   "z": 0
+  },
+  "elemental_tempestade.png": {
+   "sha": "fe03d814a4bd1bb323e0050e8963ff72a0e9a4d5ac10762db1dda73d9c6c0059",
+   "tam": 30464,
+   "tamz": 30464,
    "z": 0
   },
   "equipamentos.py": {
@@ -1021,6 +1051,12 @@
    "tamz": 7383,
    "z": 0
   },
+  "espada_fantasma.png": {
+   "sha": "9f648aac42b0c313e82460fa703d8fd20fca88518ac67c5afd25462fa6ac9140",
+   "tam": 28155,
+   "tamz": 28155,
+   "z": 0
+  },
   "espada_lava.png": {
    "sha": "d1a2943d1ce5e4d29f17e965c3d1e1f24fe2db841d006decdc153d1ff20a8b96",
    "tam": 7632,
@@ -1034,9 +1070,9 @@
    "z": 0
   },
   "espreitador.png": {
-   "sha": "aef4ca06029b1576bc92b4c494d05b48301f5b80dd4c4a87fe7c48ca174ff54e",
-   "tam": 20913,
-   "tamz": 20913,
+   "sha": "10233b960ac97fdb47f228aee98843ad0a7c51540afe4ddfa9498ee1af32dddf",
+   "tam": 21470,
+   "tamz": 21470,
    "z": 0
   },
   "esqueleto.png": {
@@ -1061,6 +1097,12 @@
    "sha": "e668daca28aefe5ec3cf7d14241d2d8b21a8c28d16315aa63f1a5a6e1e328334",
    "tam": 37531,
    "tamz": 37531,
+   "z": 0
+  },
+  "feiticeira_rubra.png": {
+   "sha": "1673772d4a2675780f6f66ffcc48def4bc30ebbd4755f9f150b928a02801df0e",
+   "tam": 24150,
+   "tamz": 24150,
    "z": 0
   },
   "floresta_assets/arvore_copa_0.png": {
@@ -1148,15 +1190,21 @@
    "z": 0
   },
   "gargula_pedra.png": {
-   "sha": "c105c6b2bb99ad33bcd98d9b317aac741372ac356432403bb528bd20d3efd252",
-   "tam": 24098,
-   "tamz": 24098,
+   "sha": "d919dad6c467d7e9c9ea887eb5f1fe1a537faea24d07c2d23b6559187300df3f",
+   "tam": 24866,
+   "tamz": 24866,
    "z": 0
   },
   "golem_areia.png": {
    "sha": "82990c30539fc7b7221d592d5a33fa3924727638ba95ffa1939bddf89c02c84a",
    "tam": 433745,
    "tamz": 433745,
+   "z": 0
+  },
+  "golem_cristal.png": {
+   "sha": "fa798dd66866ada13e85f720e6e698b7ddc067e9fd1799d5516d3381c40ecf76",
+   "tam": 21935,
+   "tamz": 21935,
    "z": 0
   },
   "golem_gelo.png": {
@@ -1189,6 +1237,12 @@
    "tamz": 14069,
    "z": 0
   },
+  "gosma_vazio.png": {
+   "sha": "3429525553e6c313ea0e21ea6e559bbc94d00db223158bd2d052d2c817a0560c",
+   "tam": 25905,
+   "tamz": 25905,
+   "z": 0
+  },
   "habilidades.py": {
    "sha": "85385ebe902e6b6fb7babe26b44d741f481908a6fef7e03ae55ddc135ed9342a",
    "tam": 14779,
@@ -1202,9 +1256,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "4711cd3c3b9770f6e7d8d91dc0324e9730ab4298d1a136136b6fd50369d021e8",
-   "tam": 14166,
-   "tamz": 14166,
+   "sha": "4a7f1e7b41358205d0b5f45ccb5fef2586055240cb0b6ee50b4c8e0832c33f75",
+   "tam": 14187,
+   "tamz": 14187,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -1807,10 +1861,58 @@
    "tamz": 13493,
    "z": 0
   },
-  "interiores_assets/interior_torre.png": {
-   "sha": "243a82fb0dc7e05308300d9aa9b5532dd584026f1942ae2a1a22a5e24c8ce339",
-   "tam": 33085,
-   "tamz": 33085,
+  "interiores_assets/interior_torre_0_0.png": {
+   "sha": "11ab5d44ddbc4d0ccf542942e1e102d329c8c6e7ffb7527c4c48b58a77a80803",
+   "tam": 34168,
+   "tamz": 34168,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_0_1.png": {
+   "sha": "e3c77503adbc3c3460d0a6894d464105c72921361c7ffff4d97e8d7d1556a7c8",
+   "tam": 26648,
+   "tamz": 26648,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_0_2.png": {
+   "sha": "4299a152a4849375663d64e1acdcfc68437482e9e0acaf26b74bb687e93d78dd",
+   "tam": 28119,
+   "tamz": 28119,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_1_0.png": {
+   "sha": "a8f4df358d3e6d190cdf6bf7e41a4522005e58fefe1b9be988429ddff26fbc04",
+   "tam": 24853,
+   "tamz": 24853,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_1_1.png": {
+   "sha": "319f5256e68d3ee86e4a6a9361f8debe76f05d28578ca3f22a78a827c17f1454",
+   "tam": 28422,
+   "tamz": 28422,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_1_2.png": {
+   "sha": "157487a208537637601bbf1bf16c30d89373eedefd99ddd890a643c38c7d41eb",
+   "tam": 18627,
+   "tamz": 18627,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_2_0.png": {
+   "sha": "f2b4cb7d0115e4e2c2e19aa2d0afd7cd3b92e75fe4723339f8f3329c8668ce45",
+   "tam": 34531,
+   "tamz": 34531,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_2_1.png": {
+   "sha": "816c7ff04caada0b69b5296b1a11e8e38a8cd1dfba00e41875ab688db339449a",
+   "tam": 26463,
+   "tamz": 26463,
+   "z": 0
+  },
+  "interiores_assets/interior_torre_2_2.png": {
+   "sha": "17963fb748df546c38f95f3cb07dc26b329c8e1c186b606c465b1284c184e359",
+   "tam": 27962,
+   "tamz": 27962,
    "z": 0
   },
   "itens.py": {
@@ -1963,6 +2065,12 @@
    "tamz": 4239435,
    "z": 0
   },
+  "nucleo_abismo.png": {
+   "sha": "0b15db0467cd4bc6afd0be21eafac7389a7ab5d77f472db4bfc82caedb7a6676",
+   "tam": 722,
+   "tamz": 722,
+   "z": 0
+  },
   "oficina.py": {
    "sha": "f68c65b7f5449e0cf2406eeeadacce0953f08c09ebdeae680c95c77be1cc0bae",
    "tam": 2990,
@@ -2095,6 +2203,12 @@
    "tamz": 5514,
    "z": 0
   },
+  "sacerdote_sangue.png": {
+   "sha": "828f0c716973489aeb63b2233669f4bfe1c4f1dfeb67313a2df14603601b8566",
+   "tam": 22484,
+   "tamz": 22484,
+   "z": 0
+  },
   "salamandra.png": {
    "sha": "0d3e98b2f5fce211ba4e5c0c6b4eef51ac9df3c0491407c96ced6f58c09c11bd",
    "tam": 227173,
@@ -2108,15 +2222,15 @@
    "z": 0
   },
   "sentinela_runica.png": {
-   "sha": "341e1750221e90494989e850bff610b67fe2dfa230f49f5de3bfc599ef2537db",
-   "tam": 18066,
-   "tamz": 18066,
+   "sha": "629645510e1bbc576ba6ad80eda010ec854aa172e40929b6d3df6fac591a2def",
+   "tam": 18433,
+   "tamz": 18433,
    "z": 0
   },
   "servidor.txt": {
-   "sha": "5a34eb945204426d0a4c7db21a189a55214fa02e276c4ef166d4520bb3ce300d",
-   "tam": 93,
-   "tamz": 93,
+   "sha": "05e73fffc50c7c20761647145d1c6f826451e12954a5fa5eb66525350fc6905f",
+   "tam": 99,
+   "tamz": 99,
    "z": 0
   },
   "shotgun.png": {
@@ -3253,10 +3367,16 @@
    "tamz": 274,
    "z": 0
   },
+  "tita_sombrio.png": {
+   "sha": "24e8d758ab79ba4447819a06336bf265e1c27ada322f1c8ddd33b910e14f8fe8",
+   "tam": 23416,
+   "tamz": 23416,
+   "z": 0
+  },
   "torre.py": {
-   "sha": "18c796337706243bcec3c8aa5999291a6079eb5ce540375d8345d8ffa481e704",
-   "tam": 2657,
-   "tamz": 2657,
+   "sha": "fc4070f915bf142e1ec50b600451375c2783b30b3f6d50430b823858e9b99743",
+   "tam": 2656,
+   "tamz": 2656,
    "z": 0
   },
   "urso.png": {
@@ -3272,9 +3392,9 @@
    "z": 0
   },
   "vigia_abissal.png": {
-   "sha": "29cc129209e535f7cc9a017e2aabb58034c4d1e5a98446e57a881215d98b93a1",
-   "tam": 39859,
-   "tamz": 39859,
+   "sha": "e0c49b4b247a6e77e995b44b51f8f9c8271b8542a3e5b53c6e025b9ee6d33111",
+   "tam": 41703,
+   "tamz": 41703,
    "z": 0
   }
  }
