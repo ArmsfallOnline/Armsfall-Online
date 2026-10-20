@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020010651,
+ "build": 20261020015826,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -350,9 +350,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "395fd267eb9d2ba84e934fe765471d3392581aa0b2ba9ec63bdc1c1259de494a",
-   "tam": 136413,
-   "tamz": 136413,
+   "sha": "d770be39e54c12acbd433d798686fa5a71a954fb4597df7e693d13d6399dbffb",
+   "tam": 136452,
+   "tamz": 136452,
    "z": 0
   },
   "clima.py": {
@@ -2198,9 +2198,9 @@
    "z": 0
   },
   "runas.py": {
-   "sha": "65a3c3ceefd4bf23f3fd76ac9bf510afc2b3ea1e715181528a17aff933694b99",
-   "tam": 5982,
-   "tamz": 5982,
+   "sha": "6067dbe9a06419b2c1624a7eec2ce0cb18a64556436ab0accfdef5ef31db9002",
+   "tam": 6157,
+   "tamz": 6157,
    "z": 0
   },
   "sacerdote_sangue.png": {
@@ -2228,9 +2228,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "b9bb89a563ae3c75f435d06f5b902aad5cdc65a7c838393a616d03b4a4c5ec6c",
-   "tam": 103,
-   "tamz": 103,
+   "sha": "830872f341cbb2d6bba6c39f4ef6efcb913a47db729310aa8914832f531d05b1",
+   "tam": 99,
+   "tamz": 99,
    "z": 0
   },
   "shotgun.png": {
