@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020233025,
+ "build": 20261020233050,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -3380,9 +3380,9 @@
    "z": 0
   },
   "torre.py": {
-   "sha": "c4d8c0d265b20847179422894a48c1408ef255de08d424e495517f936a62c398",
-   "tam": 3794,
-   "tamz": 3794,
+   "sha": "5ba50acbfbc6065202d48beca8ccf3a18c26018e832253d9f204792181d9481a",
+   "tam": 3796,
+   "tamz": 3796,
    "z": 0
   },
   "urso.png": {
