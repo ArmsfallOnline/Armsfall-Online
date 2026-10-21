@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020105315,
+ "build": 20261020223852,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -350,9 +350,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "d770be39e54c12acbd433d798686fa5a71a954fb4597df7e693d13d6399dbffb",
-   "tam": 136452,
-   "tamz": 136452,
+   "sha": "78c6aa3b2ecc6ba56c8cc0f0a4ecfba578243db79ffe93041245206774a1213c",
+   "tam": 140780,
+   "tamz": 140780,
    "z": 0
   },
   "clima.py": {
@@ -1256,9 +1256,9 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "4a7f1e7b41358205d0b5f45ccb5fef2586055240cb0b6ee50b4c8e0832c33f75",
-   "tam": 14187,
-   "tamz": 14187,
+   "sha": "7093fbfcfb87ada21770f232a1bbe29b828cc13f49ae6872de4d0b4efdb42157",
+   "tam": 14273,
+   "tamz": 14273,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -1850,9 +1850,9 @@
    "z": 0
   },
   "interiores_assets/interior_mercado.png": {
-   "sha": "209dbfa4866bde01182616b4be683a90ec9de3ec4e779b007f7496063f7244a5",
-   "tam": 36150,
-   "tamz": 36150,
+   "sha": "96ba938a5685e900056fca0aafbd41fe7d34ff88e7f663dd2d1769a0f005827d",
+   "tam": 17249,
+   "tamz": 17249,
    "z": 0
   },
   "interiores_assets/interior_oficina.png": {
@@ -1997,6 +1997,12 @@
    "sha": "b7e2c1873958f9a1a3748d1a3a54f48062ab675fe83250797974e04f7446c31c",
    "tam": 27473,
    "tamz": 27473,
+   "z": 0
+  },
+  "mercado.py": {
+   "sha": "45a891e59ba39c6493f7e14b5c65171b6235810604fcdd795f1b8a3fc51ee9f7",
+   "tam": 2035,
+   "tamz": 2035,
    "z": 0
   },
   "mumia.png": {
@@ -2228,9 +2234,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "0b8a53e2623f4a2af556ce39c101519737b71dc814d5474e0d98311efe1c4be3",
-   "tam": 96,
-   "tamz": 96,
+   "sha": "1e63f21845ba55e7701459a42fb1a9d3f48ee146f4d1822e977694a74a58b3ea",
+   "tam": 95,
+   "tamz": 95,
    "z": 0
   },
   "shotgun.png": {
