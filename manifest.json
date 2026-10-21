@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020223852,
+ "build": 20261020230522,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -350,9 +350,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "78c6aa3b2ecc6ba56c8cc0f0a4ecfba578243db79ffe93041245206774a1213c",
-   "tam": 140780,
-   "tamz": 140780,
+   "sha": "55df2e7d5315f4a0840293a694c00620ea70938b567b9de6ec36fdeac0ad92c1",
+   "tam": 142059,
+   "tamz": 142059,
    "z": 0
   },
   "clima.py": {
@@ -2000,9 +2000,9 @@
    "z": 0
   },
   "mercado.py": {
-   "sha": "45a891e59ba39c6493f7e14b5c65171b6235810604fcdd795f1b8a3fc51ee9f7",
-   "tam": 2035,
-   "tamz": 2035,
+   "sha": "c80e5c2259bfaa112dfcd7f0eb637230749ab7f366e38fb2a33350271f2da100",
+   "tam": 2468,
+   "tamz": 2468,
    "z": 0
   },
   "mumia.png": {
@@ -2234,9 +2234,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "1e63f21845ba55e7701459a42fb1a9d3f48ee146f4d1822e977694a74a58b3ea",
-   "tam": 95,
-   "tamz": 95,
+   "sha": "2a8cff0e4d29e94ed8716cf77ede9bdb55735872caaa5e360118ada6bdc684dd",
+   "tam": 96,
+   "tamz": 96,
    "z": 0
   },
   "shotgun.png": {
