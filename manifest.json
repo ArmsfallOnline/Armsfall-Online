@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020234138,
+ "build": 20261020234543,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -350,7 +350,7 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "3f86f7404dca3caa4ca602e7374b4d2724f5c7067538bf59d182ef77984138b9",
+   "sha": "10583c5439393a80d0f9f9733a67ff74bb8b396091e4dfd53f086ffc745c8ae8",
    "tam": 144640,
    "tamz": 144640,
    "z": 0
@@ -2240,9 +2240,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "2b1b3bfabd24627c0c337a82b229add64276535b559cf8796e00f2246661dbbf",
-   "tam": 97,
-   "tamz": 97,
+   "sha": "42096ac60dff546fd7bf1632ae668e904df149539b2a935d886e1a8387221d96",
+   "tam": 92,
+   "tamz": 92,
    "z": 0
   },
   "shotgun.png": {
@@ -3386,9 +3386,9 @@
    "z": 0
   },
   "torre.py": {
-   "sha": "d4a6ac5ff4fa8357fc025e5de45d8641a7768ba97a446f0a581c659e3e26c7b7",
-   "tam": 3925,
-   "tamz": 3925,
+   "sha": "d54b73e9960a6b25d8096c855e182df9ef72a76687fd9bda1aad831d63949169",
+   "tam": 3964,
+   "tamz": 3964,
    "z": 0
   },
   "urso.png": {
