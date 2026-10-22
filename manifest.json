@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261020234543,
+ "build": 20261021220213,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -61,10 +61,22 @@
    "tamz": 28388,
    "z": 0
   },
+  "aranha_teia.png": {
+   "sha": "e5b6712b3087226eb74d2dfc4a3847395fc5c149f35ef8dd02a9c6a0baba9ee6",
+   "tam": 27730,
+   "tamz": 27730,
+   "z": 0
+  },
   "arcanista_supremo.png": {
    "sha": "aebd5c5354e96f651554c249a7eb662869e7f0fe3ebdfdf6324df33862c84923",
    "tam": 26337,
    "tamz": 26337,
+   "z": 0
+  },
+  "arconte_vazio.png": {
+   "sha": "b053ef4d7910b3a687a226c4a5c83fa45743d8f6f74dbbbb8deb8d13663bae73",
+   "tam": 50631,
+   "tamz": 50631,
    "z": 0
   },
   "areas_novas.py": {
@@ -95,6 +107,12 @@
    "sha": "20e6af61aef28d5f928fb71623f371bdbd6b3229d71fda04986e9cc645026b80",
    "tam": 9124,
    "tamz": 9124,
+   "z": 0
+  },
+  "banshee.png": {
+   "sha": "d8748223dd386d4ad9fa191802aeb56bea95bffeeaf907abb693238ffb3d1d5c",
+   "tam": 33453,
+   "tamz": 33453,
    "z": 0
   },
   "biomas_assets/agua_chao.png": {
@@ -301,10 +319,22 @@
    "tamz": 1405,
    "z": 0
   },
+  "bruxa_musgo.png": {
+   "sha": "32f7ec2e5b406bcbffbf8fb12219443e385f567e5b819d1ca94abe775ffbd903",
+   "tam": 28586,
+   "tamz": 28586,
+   "z": 0
+  },
   "cao_infernal.png": {
    "sha": "ebf508e124d75135853e86b8fcc0be67585c8969079b3ba6591ce152478dc877",
    "tam": 891878,
    "tamz": 891878,
+   "z": 0
+  },
+  "carnical.png": {
+   "sha": "41ddec80bb35670758a418c940fd95c78b1a1575076743acc93424c33675a7c4",
+   "tam": 30363,
+   "tamz": 30363,
    "z": 0
   },
   "carrasco_abissal.png": {
@@ -317,6 +347,18 @@
    "sha": "a32d59f0ed6ccf8744794ac710e6c55de3375d003f8d096b16216b3b52c754c1",
    "tam": 21412,
    "tamz": 21412,
+   "z": 0
+  },
+  "cavaleiro_morto.png": {
+   "sha": "6683cac44b7e2e11720a2518019a16da75af3b6699540111f9180f36141a3db4",
+   "tam": 30954,
+   "tamz": 30954,
+   "z": 0
+  },
+  "ceifador.png": {
+   "sha": "4d56178b619390fecb353ae1ea454bd5fd5826d6ccfbc1bedb944b64e9e36f22",
+   "tam": 32696,
+   "tamz": 32696,
    "z": 0
   },
   "ceifador_torre.png": {
@@ -451,6 +493,12 @@
    "tamz": 3507,
    "z": 0
   },
+  "colosso_abismo.png": {
+   "sha": "20ea38d1df329c56c2407831c842428d10f37df4307c9be5e7f31c7070610b59",
+   "tam": 38529,
+   "tamz": 38529,
+   "z": 0
+  },
   "colosso_obsidiana.png": {
    "sha": "03ed5f32ea17191ed92c1bc50e7c9935a984bbecdc98fb8133106db79aababce",
    "tam": 23540,
@@ -475,16 +523,40 @@
    "tamz": 280,
    "z": 0
   },
+  "devorador.png": {
+   "sha": "35cc225269c977cb722303731e43c1149ee803d068347d6739dd5038f7428f2b",
+   "tam": 31316,
+   "tamz": 31316,
+   "z": 0
+  },
+  "diabrete.png": {
+   "sha": "478892bf13f4ee456573e434d7c789bb67524936898ba7524ab97555d1a69311",
+   "tam": 42193,
+   "tamz": 42193,
+   "z": 0
+  },
   "efeitos_skills.py": {
    "sha": "4059cd39926bcf1d9b9be8100f4e0cc874b93f26819a1373756c3c635a21d54c",
    "tam": 19445,
    "tamz": 19445,
    "z": 0
   },
+  "elemental_raio.png": {
+   "sha": "71e0c4f04767d7bf28a226c4185f1a003b885270edb0dc372b19044113c0c0fe",
+   "tam": 59125,
+   "tamz": 59125,
+   "z": 0
+  },
   "elemental_tempestade.png": {
    "sha": "fe03d814a4bd1bb323e0050e8963ff72a0e9a4d5ac10762db1dda73d9c6c0059",
    "tam": 30464,
    "tamz": 30464,
+   "z": 0
+  },
+  "ent_corrompido.png": {
+   "sha": "8efa702b6d1475eaa5e494c9ecae18eb1578314e210c0ac519e2197a67ac6d67",
+   "tam": 33458,
+   "tamz": 33458,
    "z": 0
   },
   "equipamentos.py": {
@@ -1207,6 +1279,12 @@
    "tamz": 433745,
    "z": 0
   },
+  "golem_basalto.png": {
+   "sha": "8582c31a3848bd29d60cebe2de99879813af6ba410014d3906db9da288bc01d7",
+   "tam": 28827,
+   "tamz": 28827,
+   "z": 0
+  },
   "golem_cristal.png": {
    "sha": "fa798dd66866ada13e85f720e6e698b7ddc067e9fd1799d5516d3381c40ecf76",
    "tam": 21935,
@@ -1247,6 +1325,12 @@
    "sha": "3429525553e6c313ea0e21ea6e559bbc94d00db223158bd2d052d2c817a0560c",
    "tam": 25905,
    "tamz": 25905,
+   "z": 0
+  },
+  "grifo.png": {
+   "sha": "a662506f7f40c56379699452dc0b482a637b8a25c0a791cb858daeb859324caf",
+   "tam": 36345,
+   "tamz": 36345,
    "z": 0
   },
   "habilidades.py": {
@@ -1957,6 +2041,12 @@
    "tamz": 314911,
    "z": 0
   },
+  "lobisomem.png": {
+   "sha": "70289e1c49a1dbf93a78e3d2901fcf763f8b8548badd46ea86ea78709e7bab33",
+   "tam": 28514,
+   "tamz": 28514,
+   "z": 0
+  },
   "lobo.png": {
    "sha": "ced98ed4b0cc5000592861d6132c1b9d80bc0e7f0569c12d156fd397f59e2ae7",
    "tam": 1052919,
@@ -2087,6 +2177,12 @@
    "sha": "9241d58d4061728e9d6b39822973474117af9722ba9290d7239e43b8c475fea1",
    "tam": 3316,
    "tamz": 3316,
+   "z": 0
+  },
+  "ogro_tempestade.png": {
+   "sha": "7f3ffcd995ba8a62124e0db9d13576f48bebfbdaf687c1c0a13ca0a6c0194fa9",
+   "tam": 32258,
+   "tamz": 32258,
    "z": 0
   },
   "pets.py": {
@@ -2240,9 +2336,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "42096ac60dff546fd7bf1632ae668e904df149539b2a935d886e1a8387221d96",
-   "tam": 92,
-   "tamz": 92,
+   "sha": "744df59e4ff1b3196c8d4e9d59899b174c39e7b8b089e8ea722f0e8beb97cd0c",
+   "tam": 97,
+   "tamz": 97,
    "z": 0
   },
   "shotgun.png": {
