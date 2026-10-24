@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261024185507,
+ "build": 20261024191105,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -392,9 +392,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "973db9149a97503d67e59ed8a2226eeea88e3295974ebbbb3855d96d5249802f",
-   "tam": 148950,
-   "tamz": 148950,
+   "sha": "4a2062c00d880ef447de7b5ab6d71b29fc74ba99b091243e169d25ce3f399622",
+   "tam": 148966,
+   "tamz": 148966,
    "z": 0
   },
   "clima.py": {
@@ -2780,9 +2780,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "5ff0d5c10e1d1b2ee2704c673e029a3ba2f995a623a949ce1a0a445f5cb47810",
-   "tam": 97,
-   "tamz": 97,
+   "sha": "0cc2353cb8f7faecd78462339c96f684b24c98462116a1e4ae5d69cab0f6db01",
+   "tam": 94,
+   "tamz": 94,
    "z": 0
   },
   "shotgun.png": {
