@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261021220213,
+ "build": 20261024185507,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -392,9 +392,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "10583c5439393a80d0f9f9733a67ff74bb8b396091e4dfd53f086ffc745c8ae8",
-   "tam": 144640,
-   "tamz": 144640,
+   "sha": "973db9149a97503d67e59ed8a2226eeea88e3295974ebbbb3855d96d5249802f",
+   "tam": 148950,
+   "tamz": 148950,
    "z": 0
   },
   "clima.py": {
@@ -565,10 +565,22 @@
    "tamz": 2066,
    "z": 0
   },
+  "equipamentos/_preview_cidadela_itens.png": {
+   "sha": "94b1a05b8c742af99ff60f8d56c84c1e51f361cefaa19c8dc015d872d4e5c5e3",
+   "tam": 45530,
+   "tamz": 45530,
+   "z": 0
+  },
   "equipamentos/item_armadura_abissal.png": {
    "sha": "66404ef824e8e9149cbc1f85843427d4a02a3f1db3d36111b354382fa92c47e1",
    "tam": 652,
    "tamz": 652,
+   "z": 0
+  },
+  "equipamentos/item_armadura_da_tempestade.png": {
+   "sha": "b753fbe4665a3358eb6925fab4fc0390bd2dbe616f2aa5c47423036ff08025a1",
+   "tam": 7136,
+   "tamz": 7136,
    "z": 0
   },
   "equipamentos/item_armadura_das_cinzas.png": {
@@ -593,6 +605,12 @@
    "sha": "d2dd091fc399fbf4f4f82055914fa989106b659094b1fca231b7c98fc64189c5",
    "tam": 490,
    "tamz": 490,
+   "z": 0
+  },
+  "equipamentos/item_botas_da_tempestade.png": {
+   "sha": "2ef1f7319abe3ef413938219e4341dd71f9e876b470ed49f31b0b430eb5f977d",
+   "tam": 6147,
+   "tamz": 6147,
    "z": 0
   },
   "equipamentos/item_botas_das_cinzas.png": {
@@ -667,6 +685,12 @@
    "tamz": 490,
    "z": 0
   },
+  "equipamentos/item_botas_do_arcanista_tempestuoso.png": {
+   "sha": "2880cfa9436a289039156c99024796905501701a93a2176b8d085b2be82cb6e7",
+   "tam": 6050,
+   "tamz": 6050,
+   "z": 0
+  },
   "equipamentos/item_botas_do_cavaleiro_caido.png": {
    "sha": "ae00930b44ff5a712e51ff2a3fd8978b324c4f67d01acb6d918ca9a61335a4d3",
    "tam": 446,
@@ -715,6 +739,12 @@
    "tamz": 490,
    "z": 0
   },
+  "equipamentos/item_botas_trovejantes.png": {
+   "sha": "94f41d70575e133139d020de3cacf808da14e2f996de61103515916edfc3490b",
+   "tam": 5890,
+   "tamz": 5890,
+   "z": 0
+  },
   "equipamentos/item_calca.png": {
    "sha": "81cd2d0c4d30403d55c0a5e985a652f4f62d37eafb46b1dba9f4c6bcedab9e5d",
    "tam": 6221,
@@ -749,6 +779,12 @@
    "sha": "f6fd14f5674d575c6acf27183a854460bd6c2d0b1fb5c395662a9246f05e66f3",
    "tam": 462,
    "tamz": 462,
+   "z": 0
+  },
+  "equipamentos/item_calca_do_arcanista_tempestuoso.png": {
+   "sha": "698d1476181429a06fe88d5bbb62d99b70651ca9b65fb82756a9eee3dfd8b7e9",
+   "tam": 6762,
+   "tamz": 6762,
    "z": 0
   },
   "equipamentos/item_calca_do_ceifador.png": {
@@ -805,6 +841,12 @@
    "tamz": 515,
    "z": 0
   },
+  "equipamentos/item_capuz_do_arcanista_tempestuoso.png": {
+   "sha": "2d9cf6235cc7c7c34006584d28d458e9e11d377bd584ca784e075e5a63076c83",
+   "tam": 6983,
+   "tamz": 6983,
+   "z": 0
+  },
   "equipamentos/item_capuz_do_ceifador.png": {
    "sha": "b69cf4da850945529f838f296debe8ce1995dcecfdf30c5d3bb4f6620231086a",
    "tam": 508,
@@ -845,6 +887,12 @@
    "sha": "af541b57450a8e1053a1153859298290624d968fd22b1d3b86235906c8aa0d23",
    "tam": 515,
    "tamz": 515,
+   "z": 0
+  },
+  "equipamentos/item_coroa_da_tempestade.png": {
+   "sha": "699c3ed676baf67c71d10c179f5c888825cc28d7401e41e3d9b78a8d7c2f863d",
+   "tam": 7022,
+   "tamz": 7022,
    "z": 0
   },
   "equipamentos/item_coroa_das_cinzas.png": {
@@ -905,6 +953,12 @@
    "sha": "1ea6a7925ac49fdbe83787dd6269c575ea56c3e97492e2cf27e0849f32d4a3e2",
    "tam": 651,
    "tamz": 651,
+   "z": 0
+  },
+  "equipamentos/item_couraca_trovejante.png": {
+   "sha": "a67d5bdc0e3a55f6fb8649587fc220bf13652259081d8dfb8b06811d0d79c8c6",
+   "tam": 6950,
+   "tamz": 6950,
    "z": 0
   },
   "equipamentos/item_cristal.png": {
@@ -973,10 +1027,22 @@
    "tamz": 537,
    "z": 0
   },
+  "equipamentos/item_elmo_trovejante.png": {
+   "sha": "315353de17235897e735787cdade71bc98ba718eef028cf9e20338257407c102",
+   "tam": 6794,
+   "tamz": 6794,
+   "z": 0
+  },
   "equipamentos/item_grevas_abissais.png": {
    "sha": "fa51333e4e9a257fb5ff6e9901c79f094b4ab454a043e95d5e79c39aad878a34",
    "tam": 459,
    "tamz": 459,
+   "z": 0
+  },
+  "equipamentos/item_grevas_da_tempestade.png": {
+   "sha": "01e9fddf6cf02262bdcfd90a4fc42e06310cd31c1a09919c49926172192a1a08",
+   "tam": 6732,
+   "tamz": 6732,
    "z": 0
   },
   "equipamentos/item_grevas_das_cinzas.png": {
@@ -1043,6 +1109,18 @@
    "sha": "63b79bcaf0d74cc9e207b6961c2cb0f8ff787a16deedfb8f41c90e1d36ef38ce",
    "tam": 463,
    "tamz": 463,
+   "z": 0
+  },
+  "equipamentos/item_grevas_trovejantes.png": {
+   "sha": "53eebb9726eb911ad3c77d75794bb79e9fc79f6b36e934d278b1641bfb20985f",
+   "tam": 6571,
+   "tamz": 6571,
+   "z": 0
+  },
+  "equipamentos/item_manto_do_arcanista_tempestuoso.png": {
+   "sha": "7d816e00827700d784b2ec270bdfc2c41b5be76ff247bf12d4b8c692a39326bd",
+   "tam": 7149,
+   "tamz": 7149,
    "z": 0
   },
   "equipamentos/item_manto_do_ceifador.png": {
@@ -1346,9 +1424,15 @@
    "z": 0
   },
   "interiores.py": {
-   "sha": "7093fbfcfb87ada21770f232a1bbe29b828cc13f49ae6872de4d0b4efdb42157",
-   "tam": 14273,
-   "tamz": 14273,
+   "sha": "0ecc6c3c4e6e5f3b768eacb58f8dce13e2192f6c9c89dd0cd486f4f4f0341eb7",
+   "tam": 16764,
+   "tamz": 16764,
+   "z": 0
+  },
+  "interiores_assets/_preview_cidadela.png": {
+   "sha": "f1eb8f93d8a7a7cf3dce992b66cc92160500687e44f994746cc5659134f4f4eb",
+   "tam": 605550,
+   "tamz": 605550,
    "z": 0
   },
   "interiores_assets/interior_arena_0_0.png": {
@@ -1855,6 +1939,366 @@
    "tamz": 531488,
    "z": 0
   },
+  "interiores_assets/interior_cidadela_0_0.png": {
+   "sha": "9e8d8809251c1867ca9de5258a1d1041a242ce928e62fb146b1fe0a3d2bc97a8",
+   "tam": 251779,
+   "tamz": 251779,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_0_1.png": {
+   "sha": "f9b6fab5ee47182527dc8df3d16124eb6f6560028102b1d2f985d9465e706e63",
+   "tam": 235993,
+   "tamz": 235993,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_0_2.png": {
+   "sha": "65f1add7621717ce3163dc7f24757f768523dac8c151eb439742c3f70c320202",
+   "tam": 255264,
+   "tamz": 255264,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_0_3.png": {
+   "sha": "00fb27eb024fab8c99a270617460b5ff8ce221cea41d1808b94c5fe7069377ea",
+   "tam": 242707,
+   "tamz": 242707,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_0_4.png": {
+   "sha": "5997cdcb501a9cd7616c46891ee38868519eda2ae1793b57935baa95415e984e",
+   "tam": 253440,
+   "tamz": 253440,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_0_5.png": {
+   "sha": "19216904524fc81e7571b33e78e963366624f701f7e04df9db65a80034488901",
+   "tam": 245019,
+   "tamz": 245019,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_0.png": {
+   "sha": "54d0432dc3fe2b438fe338d263cbba8fb98658efbf1f59ad474da8e622ea383c",
+   "tam": 235758,
+   "tamz": 235758,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_1.png": {
+   "sha": "e3ef545e56a413f56acf8ead7c8136bf1b417fbc9d623884266b2c4800d25b8b",
+   "tam": 214882,
+   "tamz": 214882,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_2.png": {
+   "sha": "d9bd03d795be925d8c42a087f9decf46b4113d9232dc0a4d5662a8493e698c18",
+   "tam": 267499,
+   "tamz": 267499,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_3.png": {
+   "sha": "92be0c58b0ead8224e02aafbd3e9d02b667f74b65f1d409cc6c271c89d70ed15",
+   "tam": 255963,
+   "tamz": 255963,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_4.png": {
+   "sha": "c6fd4fc5ee97bbd04e7ac024c327d3102c7f9f6c4e6999fe6d4774efb20a7907",
+   "tam": 234737,
+   "tamz": 234737,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_1_5.png": {
+   "sha": "0b6ac2e3d224c076dea1b1e0aaf469ef8d4a5021fa2f6fdbbdd977ba51ffdf24",
+   "tam": 218604,
+   "tamz": 218604,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_0.png": {
+   "sha": "085c2f71ad2ffdae8ed6128cbd48b2314c5045b14c0f9b6561801312a4eeb7bd",
+   "tam": 236263,
+   "tamz": 236263,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_1.png": {
+   "sha": "86a3be450923edf78398ed1dffa80dea33a7350bcde516c741e49c794f1b136f",
+   "tam": 243973,
+   "tamz": 243973,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_2.png": {
+   "sha": "5bc7cdbbc4ca833c4de4442da597c721a70031448c4ca9c341e8971663f95549",
+   "tam": 242649,
+   "tamz": 242649,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_3.png": {
+   "sha": "aafdaa657f0e80202ff01a265ae0d4a4cc5fc1167e1479f166a81c255a9a44bf",
+   "tam": 238133,
+   "tamz": 238133,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_4.png": {
+   "sha": "dab0e9ecad7e0ee47ad8dc4920033eaaffe2840553ef54bbc00f1e6354e544fc",
+   "tam": 236278,
+   "tamz": 236278,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_2_5.png": {
+   "sha": "8c2f7c017005dfa8d1dfeb8425bb07d4ade239a8777f571648704e061f215047",
+   "tam": 246894,
+   "tamz": 246894,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_0.png": {
+   "sha": "ce7bdb129a4788c3d1d1990c9f49874c25f26e180857f4022029735522c6b094",
+   "tam": 212341,
+   "tamz": 212341,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_1.png": {
+   "sha": "df0de70a3d47deb12d27014a2ca03e5d7d2103dba5f2b35fb2058aef0a718569",
+   "tam": 225290,
+   "tamz": 225290,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_2.png": {
+   "sha": "7d0859ad75614934f6a9d30ed29029934982ad94f86ad812c9484bc806ada204",
+   "tam": 226762,
+   "tamz": 226762,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_3.png": {
+   "sha": "799787d4892d5b251e29a1582f19ef164d265f937698a77c45579e37b55ebb79",
+   "tam": 201236,
+   "tamz": 201236,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_4.png": {
+   "sha": "985edd9be00876c0d48e46fb42d257a298294c6b6f9df8f8466837981a74dd96",
+   "tam": 211700,
+   "tamz": 211700,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_3_5.png": {
+   "sha": "9c4453f924d60c10895c2215a044bad747bc296b3da42f6c4cbb6c5d95febcf2",
+   "tam": 223801,
+   "tamz": 223801,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_0.png": {
+   "sha": "37ab6f5a30ab4b369217f19d07c78987a68722645a29752b8797f4783d434513",
+   "tam": 231902,
+   "tamz": 231902,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_1.png": {
+   "sha": "bb072eccc61474798e85eecb1483ac014ef7492d534113b71cfeea83f1e75865",
+   "tam": 239941,
+   "tamz": 239941,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_2.png": {
+   "sha": "aaa1e7a7dd93a5475b17215505666c89721a58655bcfe252221b41507866afe5",
+   "tam": 238199,
+   "tamz": 238199,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_3.png": {
+   "sha": "d216b6854f40b7bc043b78c689113fc095e886b08402197d990dade309f2b848",
+   "tam": 231537,
+   "tamz": 231537,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_4.png": {
+   "sha": "a68411ba31a7fe24137d48bd0388902fdb4f1c5ae2ddd86ac04752086a49270c",
+   "tam": 235949,
+   "tamz": 235949,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_4_5.png": {
+   "sha": "e004ef2466081b1267451063a068fe085bc992848edcb661ffbf09f604909772",
+   "tam": 239650,
+   "tamz": 239650,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_0.png": {
+   "sha": "e8a80972b54830ac00b695f4822ab9f463fa881e498287ef67a1353684b2744f",
+   "tam": 240590,
+   "tamz": 240590,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_1.png": {
+   "sha": "565dabc15678592a831190a307a34a938b3d86eac7a2e3fa826b12760eb87448",
+   "tam": 233385,
+   "tamz": 233385,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_2.png": {
+   "sha": "73f1a48ef9371a0bd2fce53fcb4820336208ce91b39bd04b69f6968a7909638c",
+   "tam": 231440,
+   "tamz": 231440,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_3.png": {
+   "sha": "06d93ad4e7da88150ec4d7cb5f769e37304e99f93b9a8849c92d6a1518e8e075",
+   "tam": 236215,
+   "tamz": 236215,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_4.png": {
+   "sha": "52db183829b05ffaaf8da7c1a6a9a622917199a953b49c9a0734711b40a8ebe4",
+   "tam": 249007,
+   "tamz": 249007,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_5_5.png": {
+   "sha": "08510fc88e6a9fe22b847d581b2d52ce3c135bd4385258bce5b4031283a13f09",
+   "tam": 232010,
+   "tamz": 232010,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_0.png": {
+   "sha": "f61a5586b7ca846c1ee9d1ab4139af55ca2b818e6f5988dcd486fdeacaa7dcab",
+   "tam": 235749,
+   "tamz": 235749,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_1.png": {
+   "sha": "90dc1632f4ad29a2455639d60d0b47a8098bda68008ab0975a08b13e24c64e4e",
+   "tam": 206337,
+   "tamz": 206337,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_2.png": {
+   "sha": "f2b05c29fc6dbd497d71ebb3ad40b0b31972591ce646da2e25f6d65476c38408",
+   "tam": 210810,
+   "tamz": 210810,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_3.png": {
+   "sha": "837e1cee51cc07c562081b4470093660ef41276c5b2400ce4bf1e4ec5b230d05",
+   "tam": 221546,
+   "tamz": 221546,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_4.png": {
+   "sha": "da5f372fc9af3f639c33ca527eb04582d5aec5a4cdfa216128cb9be885eef0a8",
+   "tam": 233359,
+   "tamz": 233359,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_6_5.png": {
+   "sha": "50ab4f6d6d5d49c6a1d4f5f9fed2d5f9b47c1fa4acc10fbdf4058f2687c57591",
+   "tam": 213164,
+   "tamz": 213164,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_0.png": {
+   "sha": "f19aba33da5d75a877af9a1f1a66d666b2329b94448bb7dbb6c359cc75c03537",
+   "tam": 243792,
+   "tamz": 243792,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_1.png": {
+   "sha": "f0b30278b6db99b1b136ec0fc8cbc56c51b5ab8a64cea409daecd4dd4120974b",
+   "tam": 243600,
+   "tamz": 243600,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_2.png": {
+   "sha": "f9ba10e7e3e37390f772548263035cc604520596914df6c3abecf12726683be3",
+   "tam": 238961,
+   "tamz": 238961,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_3.png": {
+   "sha": "4b4f64e60fa1d9f4b67dffa8ea5d21affe06adb89da22af019cc323bea564c2e",
+   "tam": 241338,
+   "tamz": 241338,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_4.png": {
+   "sha": "b11229aab8b22943d3a08612313d3e48a4abe32b240a9115c5b28271b981d498",
+   "tam": 240576,
+   "tamz": 240576,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_7_5.png": {
+   "sha": "9a0f6d330e60b5edd0cae6a304d716f2c688754af2649e7af895d2d9183fd526",
+   "tam": 242642,
+   "tamz": 242642,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_0.png": {
+   "sha": "664e82a31c21b33c4b2b12d742d74ff53d5b72326a93dcded6a77a0ce69b1c86",
+   "tam": 265299,
+   "tamz": 265299,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_1.png": {
+   "sha": "0e93aeeb60f8d18733db6539dec3203d2c7b0d68ed01f7a092dea0da88798bf7",
+   "tam": 254263,
+   "tamz": 254263,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_2.png": {
+   "sha": "b2c70216548a519e0ec35d6cce499c9481f508aad0e102da4918bb4c9aa8c20a",
+   "tam": 264961,
+   "tamz": 264961,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_3.png": {
+   "sha": "0303007eae849d64caf4bc712586593e6fd58b341007be99ccf1a1c0d3155d4e",
+   "tam": 252194,
+   "tamz": 252194,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_4.png": {
+   "sha": "73dac66550ffef1b7fddac4022709ba20a5d949b5303ce39e6b27f8bc9b11fb0",
+   "tam": 216789,
+   "tamz": 216789,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_8_5.png": {
+   "sha": "a7fbdfe6cea0dfec61681a5518bc7f48a2fce916a99599aabcdc9be0bc096261",
+   "tam": 216100,
+   "tamz": 216100,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_0.png": {
+   "sha": "a5f057e25450f143d166432e85cdc7c1e5f9846633fced2f03ca61d93988be24",
+   "tam": 257622,
+   "tamz": 257622,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_1.png": {
+   "sha": "e75ecce80e8924c8521e9800c62c9189239d738d013d7fa299b6a99c8e6c2b34",
+   "tam": 244578,
+   "tamz": 244578,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_2.png": {
+   "sha": "1b6cfbb24e1ab392cd225a8293fd0a75685181415d7889ab777c5587c383f063",
+   "tam": 253892,
+   "tamz": 253892,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_3.png": {
+   "sha": "33a5de02d9fb74c1e287105e5668b6158948ae6d95359656043c93adea4884b6",
+   "tam": 241855,
+   "tamz": 241855,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_4.png": {
+   "sha": "0bf5dc01caa7bacfacd5562437379c01673af6fc30f421a646f3db2643ed5f6b",
+   "tam": 248792,
+   "tamz": 248792,
+   "z": 0
+  },
+  "interiores_assets/interior_cidadela_9_5.png": {
+   "sha": "c9571f98c1c0a10b3e12f976a93de32c2ac031d77239a380394c74e0ecf0bfa2",
+   "tam": 240824,
+   "tamz": 240824,
+   "z": 0
+  },
   "interiores_assets/interior_clinica.png": {
    "sha": "2cf7bc2c4a9a0fba06fdd54028a8d470777490c578765f81e8c0a538ee9d289c",
    "tam": 109079,
@@ -2060,9 +2504,9 @@
    "z": 0
   },
   "loot.py": {
-   "sha": "7a2921ad7d104dd12558bfda7f52fa5f60f65485b7772af172c287a4ee63e678",
-   "tam": 4363,
-   "tamz": 4363,
+   "sha": "ffbd13b9f010a4eed826f3847344e81e199c34896e8d2d05b282ff3124d09941",
+   "tam": 4593,
+   "tamz": 4593,
    "z": 0
   },
   "machado.png": {
@@ -2336,7 +2780,7 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "744df59e4ff1b3196c8d4e9d59899b174c39e7b8b089e8ea722f0e8beb97cd0c",
+   "sha": "5ff0d5c10e1d1b2ee2704c673e029a3ba2f995a623a949ce1a0a445f5cb47810",
    "tam": 97,
    "tamz": 97,
    "z": 0
