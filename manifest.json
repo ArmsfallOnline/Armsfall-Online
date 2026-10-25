@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261024192417,
+ "build": 20261025105035,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -392,9 +392,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "69e852000672e4b2e6b4a04ab732368ca0baf4b3cfb5104f7296fd9c1f08b7da",
-   "tam": 149004,
-   "tamz": 149004,
+   "sha": "97bcec9fad33837a815bea297c0e3537e86fa3c2cf1f68065ee4f18a682b2fd7",
+   "tam": 149432,
+   "tamz": 149432,
    "z": 0
   },
   "clima.py": {
@@ -1349,6 +1349,12 @@
    "sha": "d919dad6c467d7e9c9ea887eb5f1fe1a537faea24d07c2d23b6559187300df3f",
    "tam": 24866,
    "tamz": 24866,
+   "z": 0
+  },
+  "gl_shim.py": {
+   "sha": "f449ed41cac473dedc7a5f6feeb2aebad657653e00e5888c0e9b1ba6d4075c80",
+   "tam": 8456,
+   "tamz": 8456,
    "z": 0
   },
   "golem_areia.png": {
@@ -2545,6 +2551,12 @@
    "tamz": 2468,
    "z": 0
   },
+  "mobile_input.py": {
+   "sha": "5ea33068455c49b22a35315524c84ab90f2f2f3656d374fbeff863a0a883d106",
+   "tam": 6989,
+   "tamz": 6989,
+   "z": 0
+  },
   "mumia.png": {
    "sha": "2d856d0185d8e5a9162329ba80a8083458dbf78cc588c031c54b15a8859926fb",
    "tam": 227045,
@@ -2780,9 +2792,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "b0cdfeb7b10e37d5d76332127f3ea72aab172b1aa4b269dba8fe394b95681880",
-   "tam": 107,
-   "tamz": 107,
+   "sha": "54ae50fb20748bfc6d09a7f1399d0a327031a3d1e73f07270ba8a974e4bc933f",
+   "tam": 103,
+   "tamz": 103,
    "z": 0
   },
   "shotgun.png": {
