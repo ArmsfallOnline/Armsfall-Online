@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261025120923,
+ "build": 20261025133142,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -2552,9 +2552,9 @@
    "z": 0
   },
   "mobile_input.py": {
-   "sha": "0e1a65df787edf4c373cd8b4d15f51205d7079b95e2e3ad283dbfa8fb21de328",
-   "tam": 8652,
-   "tamz": 8652,
+   "sha": "d42cfaa3a8d494fca5f1184917c08e5c0af8e10ede44b4e9c1f60b7c8704d219",
+   "tam": 9681,
+   "tamz": 9681,
    "z": 0
   },
   "mumia.png": {
