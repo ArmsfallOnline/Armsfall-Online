@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261025115932,
+ "build": 20261025120923,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1352,9 +1352,9 @@
    "z": 0
   },
   "gl_shim.py": {
-   "sha": "f449ed41cac473dedc7a5f6feeb2aebad657653e00e5888c0e9b1ba6d4075c80",
-   "tam": 8456,
-   "tamz": 8456,
+   "sha": "97eea888b1a259815a8b6dc0be4d704a8f63f13abb5aa1342e612e6cb3603596",
+   "tam": 8528,
+   "tamz": 8528,
    "z": 0
   },
   "golem_areia.png": {
