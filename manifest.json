@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261026164144,
+ "build": 20261026165430,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -392,9 +392,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "a2f7088e32dee284c17a5cd00b872d8db1b9e12901f90557689de83d4cc0568c",
-   "tam": 157836,
-   "tamz": 157836,
+   "sha": "6176923f60aaf888f67e92edb890027dd13ca09f54e4f5a9c495f9ae0d2644d2",
+   "tam": 161705,
+   "tamz": 161705,
    "z": 0
   },
   "clima.py": {
@@ -2552,9 +2552,9 @@
    "z": 0
   },
   "mobile_input.py": {
-   "sha": "da07b410f141d29e167451b33b20f3dd66ad9d298fb0ec823c089e2e79854fcf",
-   "tam": 18179,
-   "tamz": 18179,
+   "sha": "4352777b04cdf4cb94c71f03a0f685fc8eb2dc2560a79bb6e231296599d3c246",
+   "tam": 18290,
+   "tamz": 18290,
    "z": 0
   },
   "mumia.png": {
