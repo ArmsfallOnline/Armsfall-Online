@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261025225020,
+ "build": 20261026110632,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -104,9 +104,9 @@
    "z": 0
   },
   "arvore_visual.py": {
-   "sha": "20e6af61aef28d5f928fb71623f371bdbd6b3229d71fda04986e9cc645026b80",
-   "tam": 9124,
-   "tamz": 9124,
+   "sha": "d7d4f2e800c0b875f1cf0e2c95b02d131e4d01d0282a81c8b0aa606cb94965c6",
+   "tam": 12773,
+   "tamz": 12773,
    "z": 0
   },
   "banshee.png": {
@@ -1352,9 +1352,9 @@
    "z": 0
   },
   "gl_shim.py": {
-   "sha": "97eea888b1a259815a8b6dc0be4d704a8f63f13abb5aa1342e612e6cb3603596",
-   "tam": 8528,
-   "tamz": 8528,
+   "sha": "2a11667efcff9859ffc8d848c7ae712d33a442ab1a954232fa4c91c91e92dbae",
+   "tam": 9236,
+   "tamz": 9236,
    "z": 0
   },
   "golem_areia.png": {
@@ -2792,9 +2792,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "54ae50fb20748bfc6d09a7f1399d0a327031a3d1e73f07270ba8a974e4bc933f",
-   "tam": 103,
-   "tamz": 103,
+   "sha": "ea293ec7b2e53baeadc2c0b410816a0ef82e360be8605cdc9dab4d2d28a893d2",
+   "tam": 98,
+   "tamz": 98,
    "z": 0
   },
   "shotgun.png": {
