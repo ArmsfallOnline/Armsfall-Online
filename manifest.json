@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261108202718,
+ "build": 20261108203438,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -404,15 +404,15 @@
    "z": 0
   },
   "classes_rpg.py": {
-   "sha": "68793d0829e84280e4f2f0119c927ac75032af10dfa8dfd0cadfbc9516c0b26d",
-   "tam": 3078,
-   "tamz": 3078,
+   "sha": "f361e92e8f627332348c83f607aaac2b303691cd6e5c9a1b95fb60a0b7d6d16d",
+   "tam": 3073,
+   "tamz": 3073,
    "z": 0
   },
   "cliente.py": {
-   "sha": "c0a7fe03859ebf63e425702a57df9b31d57fe09be3d80e20e16c70836af8ea16",
-   "tam": 190799,
-   "tamz": 190799,
+   "sha": "d645273cb2e41a7148c425c7e1b2a985d0808a0f23e8d400b00be6c3f6b8b649",
+   "tam": 190818,
+   "tamz": 190818,
    "z": 0
   },
   "clima.py": {
@@ -2810,9 +2810,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "8585aa69ac0301b0102d2cf75b35da700dd45b3cd4fffa28e338d05068649579",
-   "tam": 104,
-   "tamz": 104,
+   "sha": "91b3cf5cc7db1ffe9932252f858212a7865f2065ae6c86faaef62cb2d5cb58f2",
+   "tam": 100,
+   "tamz": 100,
    "z": 0
   },
   "shotgun.png": {
