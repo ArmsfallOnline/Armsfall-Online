@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261108170134,
+ "build": 20261108202718,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -86,9 +86,9 @@
    "z": 0
   },
   "armas_config.py": {
-   "sha": "63887f5bbc4b10c5e3b058e18de1cd4fac0cfae5021f8e63e78ac672fd3d8a30",
-   "tam": 1591,
-   "tamz": 1591,
+   "sha": "79b4ab97164417fbc48885b90db70a308696de32ca70095bcbdbf5981db0d24a",
+   "tam": 1719,
+   "tamz": 1719,
    "z": 0
   },
   "armas_corpo.py": {
@@ -325,6 +325,18 @@
    "tamz": 28586,
    "z": 0
   },
+  "cajado.png": {
+   "sha": "679a9a725a3d726030b04ec72d3317a1a2c1970a7c1c40900d5c36879c3595e7",
+   "tam": 38172,
+   "tamz": 38172,
+   "z": 0
+  },
+  "cajado.py": {
+   "sha": "ba659d65838e47811be9b6f224bd3ba68ea75c9fd8abf6b2e0b006b6efde2ddc",
+   "tam": 2224,
+   "tamz": 2224,
+   "z": 0
+  },
   "cao_infernal.png": {
    "sha": "ebf508e124d75135853e86b8fcc0be67585c8969079b3ba6591ce152478dc877",
    "tam": 891878,
@@ -392,15 +404,15 @@
    "z": 0
   },
   "classes_rpg.py": {
-   "sha": "496c16625a7612e382840c59793112c87647c219c231d22731da36bc7ec8d054",
-   "tam": 3019,
-   "tamz": 3019,
+   "sha": "68793d0829e84280e4f2f0119c927ac75032af10dfa8dfd0cadfbc9516c0b26d",
+   "tam": 3078,
+   "tamz": 3078,
    "z": 0
   },
   "cliente.py": {
-   "sha": "f8894071f53774b32e1919da70149b610711cb6bb6d67b085c8b42db41c59f2c",
-   "tam": 190245,
-   "tamz": 190245,
+   "sha": "c0a7fe03859ebf63e425702a57df9b31d57fe09be3d80e20e16c70836af8ea16",
+   "tam": 190799,
+   "tamz": 190799,
    "z": 0
   },
   "clima.py": {
@@ -2798,9 +2810,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "306f6d64375d17414fc7895daf6b3b952650fe33d8bf440b8dfcea08565b2bf4",
-   "tam": 103,
-   "tamz": 103,
+   "sha": "8585aa69ac0301b0102d2cf75b35da700dd45b3cd4fffa28e338d05068649579",
+   "tam": 104,
+   "tamz": 104,
    "z": 0
   },
   "shotgun.png": {
