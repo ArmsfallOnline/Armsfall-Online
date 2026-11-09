@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261108203438,
+ "build": 20261109081348,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -332,9 +332,27 @@
    "z": 0
   },
   "cajado.py": {
-   "sha": "ba659d65838e47811be9b6f224bd3ba68ea75c9fd8abf6b2e0b006b6efde2ddc",
-   "tam": 2224,
-   "tamz": 2224,
+   "sha": "8ae47e5817e9bfc4cb24a5fe99277e2dee4d4d8b0c98b88d041241f10e97db2e",
+   "tam": 2373,
+   "tamz": 2373,
+   "z": 0
+  },
+  "cajado_espectral.png": {
+   "sha": "14fefe03dbce4c8ad80f6854aa77cc93d04527611ae9c616b249146bb328682c",
+   "tam": 38902,
+   "tamz": 38902,
+   "z": 0
+  },
+  "cajado_lava.png": {
+   "sha": "2afc96067ea8d3ed7674fed0e87e668797a0d4ac9d59c52d60e8f6ff058acd73",
+   "tam": 36979,
+   "tamz": 36979,
+   "z": 0
+  },
+  "cajado_osso.png": {
+   "sha": "8371833956b3008128e0618603784f39d57f819bc5fcaba26badc794726852b3",
+   "tam": 39322,
+   "tamz": 39322,
    "z": 0
   },
   "cao_infernal.png": {
@@ -410,9 +428,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "d645273cb2e41a7148c425c7e1b2a985d0808a0f23e8d400b00be6c3f6b8b649",
-   "tam": 190818,
-   "tamz": 190818,
+   "sha": "21dae8cd767bcf7d5335c06c733acbb96ad265f54117d45f2438337f8b399c09",
+   "tam": 191073,
+   "tamz": 191073,
    "z": 0
   },
   "clima.py": {
@@ -2498,9 +2516,9 @@
    "z": 0
   },
   "laboratorio.py": {
-   "sha": "cfeca6664d48d209b20c4828fd6cd7aa2041cf2b87765b84b084ef9d36388c25",
-   "tam": 5887,
-   "tamz": 5887,
+   "sha": "b6c1beb4daa2357a770dcf341b14e1224ee6cc4357190737f9d6b2cd80f1f95c",
+   "tam": 6128,
+   "tamz": 6128,
    "z": 0
   },
   "lich_esquecido.png": {
