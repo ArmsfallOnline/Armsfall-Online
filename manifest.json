@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261109081348,
+ "build": 20261110100347,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -104,9 +104,9 @@
    "z": 0
   },
   "arvore_visual.py": {
-   "sha": "d7d4f2e800c0b875f1cf0e2c95b02d131e4d01d0282a81c8b0aa606cb94965c6",
-   "tam": 12773,
-   "tamz": 12773,
+   "sha": "2f9711655141eba1769fb07de1def6da22627aea48a64b6c0af915ba76a7b265",
+   "tam": 13029,
+   "tamz": 13029,
    "z": 0
   },
   "banshee.png": {
@@ -326,9 +326,9 @@
    "z": 0
   },
   "cajado.png": {
-   "sha": "679a9a725a3d726030b04ec72d3317a1a2c1970a7c1c40900d5c36879c3595e7",
-   "tam": 38172,
-   "tamz": 38172,
+   "sha": "8129ca007cbc0af3e095bdc62d5006fcec852563c66219ad396f46644cc549b4",
+   "tam": 8659,
+   "tamz": 8659,
    "z": 0
   },
   "cajado.py": {
@@ -338,21 +338,21 @@
    "z": 0
   },
   "cajado_espectral.png": {
-   "sha": "14fefe03dbce4c8ad80f6854aa77cc93d04527611ae9c616b249146bb328682c",
-   "tam": 38902,
-   "tamz": 38902,
+   "sha": "5f19045864ea9614aec97d11e3b071eff117bc2791cb6f04600bced3434ce10c",
+   "tam": 9215,
+   "tamz": 9215,
    "z": 0
   },
   "cajado_lava.png": {
-   "sha": "2afc96067ea8d3ed7674fed0e87e668797a0d4ac9d59c52d60e8f6ff058acd73",
-   "tam": 36979,
-   "tamz": 36979,
+   "sha": "06fb9a6feab0049aa1b43fe6ba860df3eebf9cb17452164be934e63290606439",
+   "tam": 10827,
+   "tamz": 10827,
    "z": 0
   },
   "cajado_osso.png": {
-   "sha": "8371833956b3008128e0618603784f39d57f819bc5fcaba26badc794726852b3",
-   "tam": 39322,
-   "tamz": 39322,
+   "sha": "981a926c0ef859c637b7e0cf339d0a6a8f7a1a4ecfeeb422adbace5d95262296",
+   "tam": 9705,
+   "tamz": 9705,
    "z": 0
   },
   "cao_infernal.png": {
@@ -422,15 +422,15 @@
    "z": 0
   },
   "classes_rpg.py": {
-   "sha": "f361e92e8f627332348c83f607aaac2b303691cd6e5c9a1b95fb60a0b7d6d16d",
-   "tam": 3073,
-   "tamz": 3073,
+   "sha": "b7889cd0de296b08e3275665ef096b0696fc4a231aba91f843bff552a64016cd",
+   "tam": 3106,
+   "tamz": 3106,
    "z": 0
   },
   "cliente.py": {
-   "sha": "21dae8cd767bcf7d5335c06c733acbb96ad265f54117d45f2438337f8b399c09",
-   "tam": 191073,
-   "tamz": 191073,
+   "sha": "5e17b3e535fb466e0e0bad4f078ba973f112d054bc76da1e04dc27fc5b19080c",
+   "tam": 191176,
+   "tamz": 191176,
    "z": 0
   },
   "clima.py": {
@@ -1454,9 +1454,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "85385ebe902e6b6fb7babe26b44d741f481908a6fef7e03ae55ddc135ed9342a",
-   "tam": 14779,
-   "tamz": 14779,
+   "sha": "30708de742f1d1ed52050d702a1a94986a72e054696eae86ef8e1213080f8335",
+   "tam": 15398,
+   "tamz": 15398,
    "z": 0
   },
   "hitbox_corpo.py": {
@@ -2828,9 +2828,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "91b3cf5cc7db1ffe9932252f858212a7865f2065ae6c86faaef62cb2d5cb58f2",
-   "tam": 100,
-   "tamz": 100,
+   "sha": "da37ea68a9322a95a4ad7f2d1a1fd9644de9a62a401269d52031560cc0599754",
+   "tam": 103,
+   "tamz": 103,
    "z": 0
   },
   "shotgun.png": {
