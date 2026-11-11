@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261111004448,
+ "build": 20261111010741,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -104,9 +104,9 @@
    "z": 0
   },
   "arvore_visual.py": {
-   "sha": "5769977bc7b693b66497261af7e97cbacdbacc7716025e999e50d7a68b793ef9",
-   "tam": 13553,
-   "tamz": 13553,
+   "sha": "2f9711655141eba1769fb07de1def6da22627aea48a64b6c0af915ba76a7b265",
+   "tam": 13029,
+   "tamz": 13029,
    "z": 0
   },
   "banshee.png": {
@@ -1454,9 +1454,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "c91fb4481070f0883515b4945a11ddfac95b8608e08f57986473e02573a7617b",
-   "tam": 19246,
-   "tamz": 19246,
+   "sha": "953bbd83051164b3aeff8809b42b58c11e15f98e3cefe17d2fcef8fe72c44eac",
+   "tam": 18200,
+   "tamz": 18200,
    "z": 0
   },
   "hitbox_corpo.py": {
@@ -2828,9 +2828,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "10fbcb67279a6ae2ec88a9ef002e3b23a3c3f8a60db7c542ef7ac5fe37198fde",
-   "tam": 104,
-   "tamz": 104,
+   "sha": "674461a5d2d08c5f5ce3c4e17046fbded22366828d521ddee0fee12d0901f435",
+   "tam": 98,
+   "tamz": 98,
    "z": 0
   },
   "shotgun.png": {
