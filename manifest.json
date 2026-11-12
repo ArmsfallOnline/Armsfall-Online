@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261112100102,
+ "build": 20261112191846,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -1460,9 +1460,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "15981f0f3d260d80f607e1b003c24d5e3f8a4974dcabe9616164f9b6d4541301",
-   "tam": 21911,
-   "tamz": 21911,
+   "sha": "41bb29d87eecd6596acac799d09c19984013b613843384b60473e3a497c7acfc",
+   "tam": 23282,
+   "tamz": 23282,
    "z": 0
   },
   "hitbox_corpo.py": {
@@ -3080,9 +3080,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "7728457676cd75e0b79ab5c628b10fdc0fd34666e523066722de8909e8c859ec",
-   "tam": 96,
-   "tamz": 96,
+   "sha": "02ce32adf4e3eae5fa4c669a319c6eaf2461efca6b32e28a83fdefeeddf2d316",
+   "tam": 102,
+   "tamz": 102,
    "z": 0
   },
   "shotgun.png": {
