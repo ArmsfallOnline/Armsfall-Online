@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "build": 20261111083338,
+ "build": 20261112100102,
  "build_minimo": 0,
  "entrada": "cliente",
  "launcher_minimo": 2,
@@ -104,9 +104,9 @@
    "z": 0
   },
   "arvore_visual.py": {
-   "sha": "2f9711655141eba1769fb07de1def6da22627aea48a64b6c0af915ba76a7b265",
-   "tam": 13029,
-   "tamz": 13029,
+   "sha": "5769977bc7b693b66497261af7e97cbacdbacc7716025e999e50d7a68b793ef9",
+   "tam": 13553,
+   "tamz": 13553,
    "z": 0
   },
   "banshee.png": {
@@ -428,9 +428,9 @@
    "z": 0
   },
   "cliente.py": {
-   "sha": "5e17b3e535fb466e0e0bad4f078ba973f112d054bc76da1e04dc27fc5b19080c",
-   "tam": 191176,
-   "tamz": 191176,
+   "sha": "2dcbedbce98aef3c8f59969a0c2a97a2f322adc7550c6c3fc066d15beebb8fb5",
+   "tam": 191732,
+   "tamz": 191732,
    "z": 0
   },
   "clima.py": {
@@ -569,6 +569,12 @@
    "sha": "478892bf13f4ee456573e434d7c789bb67524936898ba7524ab97555d1a69311",
    "tam": 42193,
    "tamz": 42193,
+   "z": 0
+  },
+  "efeitos_extra.py": {
+   "sha": "8d147424e4234651c38ff22532a2e28135ca6ada461f328909316a45c86cd081",
+   "tam": 9988,
+   "tamz": 9988,
    "z": 0
   },
   "efeitos_skills.py": {
@@ -1454,9 +1460,9 @@
    "z": 0
   },
   "habilidades.py": {
-   "sha": "953bbd83051164b3aeff8809b42b58c11e15f98e3cefe17d2fcef8fe72c44eac",
-   "tam": 18200,
-   "tamz": 18200,
+   "sha": "15981f0f3d260d80f607e1b003c24d5e3f8a4974dcabe9616164f9b6d4541301",
+   "tam": 21911,
+   "tamz": 21911,
    "z": 0
   },
   "hitbox_corpo.py": {
@@ -2491,6 +2497,252 @@
    "tamz": 27962,
    "z": 0
   },
+  "interiores_assets/skills_icones/barreira.png": {
+   "sha": "99cf2c72c79502960b8dabc5486f6f896130d3c3fed7a33e4e62d4534495c58f",
+   "tam": 12275,
+   "tamz": 12275,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/buff_cadencia.png": {
+   "sha": "b248e74c4c551e4da73ba7e2a449813575a0f4548f4e9b79de5ecb6511cce24a",
+   "tam": 10874,
+   "tamz": 10874,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/buff_duplo.png": {
+   "sha": "3cb16927a9d9829e055a3ca02c7c36a73bddb5d2f95d258d4d71059d6bfc7ef8",
+   "tam": 8572,
+   "tamz": 8572,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/buff_explosivo.png": {
+   "sha": "c0068aa753d7ed7787fd0ae83be475780c2d8128b73cb03c1db481425977e37a",
+   "tam": 13069,
+   "tamz": 13069,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/buff_perfurante.png": {
+   "sha": "72b55e971880221c1e193befe55f6fa12be7dab7ac3bba5f8df01a0f7ac7a466",
+   "tam": 9858,
+   "tamz": 9858,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/buff_ricochete.png": {
+   "sha": "112a4d661bbaac83224d002c93614d40d775f4d179cb6b7198a112e4ca988fd0",
+   "tam": 9800,
+   "tamz": 9800,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/corte.png": {
+   "sha": "9c7f88d0d26ca0d281c06ae89afd90573520e68fb2cb09956129ad422d789645",
+   "tam": 9523,
+   "tamz": 9523,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/cura.png": {
+   "sha": "34eee27a7314c34e616bd2af023839ec18001930abfd9e514b62e1e6fc7912c6",
+   "tam": 9015,
+   "tamz": 9015,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/drone_ataque.png": {
+   "sha": "39c3b677a8ec2c8ba92a1314d05905b14fb12b95d1d810fd24a191df4aaa2204",
+   "tam": 11292,
+   "tamz": 11292,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/drone_reparo.png": {
+   "sha": "4fc769bbbb622df34812638342e4e005e852ee7cf0d4d51d343d3c7451ee3c4a",
+   "tam": 11343,
+   "tamz": 11343,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/explosao_macabra.png": {
+   "sha": "7e25a73a52fe572f7f53df5262dc0dc3128590296246b41d4d26d17b10a9931b",
+   "tam": 13848,
+   "tamz": 13848,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/feixe.png": {
+   "sha": "114d6423c791184d6e00fb56749c4bba1ec5cefeca1a47585c70a51b0de6b0c0",
+   "tam": 10097,
+   "tamz": 10097,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/folego.png": {
+   "sha": "d7af86855421df638ce7459c4f2f3a04340390d4bcfe45983f42e10c750300de",
+   "tam": 10332,
+   "tamz": 10332,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/frenesi.png": {
+   "sha": "3cf3f3e821fe47a45317f5ad260d3f74e01917f5715c5d7012c114e348d49f23",
+   "tam": 17636,
+   "tamz": 17636,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/furia.png": {
+   "sha": "ce526bcbacdbae085730e66754eb72202a8a700a0e2cc1449a5c3d89927256d0",
+   "tam": 13745,
+   "tamz": 13745,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/gancho.png": {
+   "sha": "8c6b3a93d2e26369645177d93a29194503b41c9810c2eac8c36376082b1990cc",
+   "tam": 11526,
+   "tamz": 11526,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/golpe_sismico.png": {
+   "sha": "e3172182b7fdbeb0eb19b250c8f6a9e9b314fdf42dd281c64a576535390f47b3",
+   "tam": 20585,
+   "tamz": 20585,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/guarda_aco.png": {
+   "sha": "dcaf5afd9ddef02683cafea466c004dd6f1c347340380072b40793e3899bd6f2",
+   "tam": 15167,
+   "tamz": 15167,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/impulso.png": {
+   "sha": "9b641a3a8041808ece5a40644d23de41202c8bf136d126e15af7b370f5afa642",
+   "tam": 11785,
+   "tamz": 11785,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/investida.png": {
+   "sha": "63c7dbe67e3a14389e30bb7302c749ac3146e4361d02475e62fbdf92d3e0ddf3",
+   "tam": 9946,
+   "tamz": 9946,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/invulneravel.png": {
+   "sha": "37731ba8f18ebf56e4ca3d08fba2ace497a8f3624fd4ae39a66d62027057fb2a",
+   "tam": 11191,
+   "tamz": 11191,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/lanca.png": {
+   "sha": "e12d297d38ed4f7c9b4914d17773b0fcfa6dea24ed55bfd5d4eded7e29cf2723",
+   "tam": 11744,
+   "tamz": 11744,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/martelo.png": {
+   "sha": "ff906997ed2c9be6f9b522332dafa53b99b5a78390a4a1755f33b95ea3925e57",
+   "tam": 10070,
+   "tamz": 10070,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/meteoros.png": {
+   "sha": "147b988b451c8a201fbe014c917ae1fbe777c133a02c78acbe03321761b12458",
+   "tam": 10821,
+   "tamz": 10821,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/mina.png": {
+   "sha": "7bfef33a06f25bc2a8b98d9acf451f954ecf33a5942ee75238776329a803110d",
+   "tam": 11652,
+   "tamz": 11652,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/nuvem.png": {
+   "sha": "c84c05941e9d3fecf8ce9f00c34a8b9f25fdadb2bdde32aa42825a3554a5b08a",
+   "tam": 11699,
+   "tamz": 11699,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/onda.png": {
+   "sha": "6b372433c7130ed909561324cdfe8abbaad3024abb09b2bfbc3676b8a6081c43",
+   "tam": 10679,
+   "tamz": 10679,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/postura.png": {
+   "sha": "571f8cd7b98742bdee8762d20b6f9f4e1ff282d64b2338e87095bbeafce98615",
+   "tam": 7642,
+   "tamz": 7642,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/pulso.png": {
+   "sha": "85dd7819cfbddb38938646d81b130d361f2f881a440b9fcb61013abbfacc7394",
+   "tam": 15871,
+   "tamz": 15871,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/rajada.png": {
+   "sha": "69515b61b31342bd21ba248f226ac1d2a789b2919eb3c77f4ca4b2a5f69c6ec5",
+   "tam": 11386,
+   "tamz": 11386,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/regeneracao.png": {
+   "sha": "24e7b68d0410d97fa4b9851dbbb58f32044f1dc1f2f01e4def7e10d7d9bf67a9",
+   "tam": 11266,
+   "tamz": 11266,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/salto.png": {
+   "sha": "23501122c655ac9fa274bd0288bbd3a131fd4c5edb55fad0846c9fe83ee6d6a9",
+   "tam": 10533,
+   "tamz": 10533,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/sede_sangue.png": {
+   "sha": "03a354073f3f2ac52bac4d88259fe85d20fc2f298229ace29890d20ac59bd09e",
+   "tam": 14321,
+   "tamz": 14321,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/servo_arqueiro.png": {
+   "sha": "346d3af316322593b5fa29abf9a76a5f057701f0afe8116ae2ca8c9a0df2489b",
+   "tam": 10503,
+   "tamz": 10503,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/servo_esqueleto.png": {
+   "sha": "edecaaa141ea616d8136f53789e7ae84373d4f7903cbab7b2c677fce2e701dba",
+   "tam": 11511,
+   "tamz": 11511,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/servo_golem.png": {
+   "sha": "bcfec478f6cef9c66d3911ae200fce7898ad7efd7a3071a9ab87804c1ec73636",
+   "tam": 6792,
+   "tamz": 6792,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/servo_horda.png": {
+   "sha": "b30d544bcb8cbf162e804d14a139d0bddf41422cd21bd728c9934c20c8030c5f",
+   "tam": 12678,
+   "tamz": 12678,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/teleporte.png": {
+   "sha": "f1a10efc663f62dc7a7f01f90f03fb4e822d79611d912e5276809d1859ec5da2",
+   "tam": 13775,
+   "tamz": 13775,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/tempestade.png": {
+   "sha": "fc479f2a29f56c3a8a5d32991d2e291c50bdfdb38c6f6b048038e6f2f4c8516e",
+   "tam": 12474,
+   "tamz": 12474,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/tesla.png": {
+   "sha": "5ecd44d793bae2abe01a5c181a019f171511cf4823d40f1a3fe00968340d70a3",
+   "tam": 15441,
+   "tamz": 15441,
+   "z": 0
+  },
+  "interiores_assets/skills_icones/torreta.png": {
+   "sha": "975e357058bf130dffc30f533ba13907048b4ec678563ea85289f6117a6b7fcf",
+   "tam": 10113,
+   "tamz": 10113,
+   "z": 0
+  },
   "itens.py": {
    "sha": "f29e77103079c88b889a140ac503fbaa16181f83a85f99858a3aa7687017fba4",
    "tam": 368,
@@ -2828,9 +3080,9 @@
    "z": 0
   },
   "servidor.txt": {
-   "sha": "2267d1fe5c4e35db651e338ffe76528252eaccfb70fe543286e2d8adad817be5",
-   "tam": 103,
-   "tamz": 103,
+   "sha": "7728457676cd75e0b79ab5c628b10fdc0fd34666e523066722de8909e8c859ec",
+   "tam": 96,
+   "tamz": 96,
    "z": 0
   },
   "shotgun.png": {
